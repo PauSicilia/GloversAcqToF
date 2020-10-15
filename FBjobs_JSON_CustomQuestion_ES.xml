@@ -2,56 +2,56 @@
   {
     "is_required": true,
     "question_type": "MULTIPLE_CHOICE",
-    "label": “Selecciona la ciudad de reparto”,
+    "label": "Selecciona la ciudad de reparto",
     "multiple_choice_options": [
-      “Barcelona”,
-      “Madrid”,
-      “Valencia”,
-      “Sevilla”,
-      “Bilbao”,
-      “Girona”,
-      “Zaragoza”,
-      “Pontevedra”,
-      “Málaga”,
-      “Cádiz”,
-      “Castellón”,
-      “Ibiza”,
-      “Sanlúcar de Barrameda”,
-      “Tarragona”,
-      “Huesca”,
-      “Gijón”,
-      “Pamplona”,
-      “San Sebastián”,
-      “A Coruña”,
-      “Playa de Aro”,
-      “Lloret de Mar”,
-      “Palma de Mallorca”,
-      “Las Palmas de Gran Canaria”,
-      “Getxo”,
-      “Xativa”,
-      “Badajoz”,
-      “Palencia”
+      "Barcelona",
+      "Madrid",
+      "Valencia",
+      "Sevilla",
+      "Bilbao",
+      "Girona",
+      "Zaragoza",
+      "Pontevedra",
+      "Málaga",
+      "Cádiz",
+      "Castellón",
+      "Ibiza",
+      "Sanlúcar de Barrameda",
+      "Tarragona",
+      "Huesca",
+      "Gijón",
+      "Pamplona",
+      "San Sebastián",
+      "A Coruña",
+      "Playa de Aro",
+      "Lloret de Mar",
+      "Palma de Mallorca",
+      "Las Palmas de Gran Canaria",
+      "Getxo",
+      "Xativa",
+      "Badajoz",
+      "Palencia"
     ]
   } ,
     {
     "is_required": true,
     "question_type": "MULTIPLE_CHOICE",
-    "label": “¿Con qué vehículo vas a repartir?”,
+    "label": "¿Con qué vehículo vas a repartir?",
     "multiple_choice_options": [
-      “Moto”,
-      “Coche”,
-      “Bicicleta”
+      "Moto",
+      "Coche",
+      "Bicicleta"
     ]
   } ,
     {
     "is_required": true,
     "question_type": "MULTIPLE_CHOICE",
-    "label": “Selecciona tus horas de colaboración preferidas”,
+    "label": "Selecciona tus horas de colaboración preferidas",
     "multiple_choice_options": [
-      “Fines de semana: comida/cena (demanda muy alta)”,
-      “Fines de semana: mañana/tarde/noche (menos demanda)”,
-      “Entre semana: comida / cena (alta demanda)”,
-      “Entre semana: mañana / tarde / noche (menos demanda)”
+      "Fines de semana: comida/cena (demanda muy alta)",
+      "Fines de semana: mañana/tarde/noche (menos demanda)",
+      "Entre semana: comida / cena (alta demanda)",
+      "Entre semana: mañana / tarde / noche (menos demanda)"
     ]
   } 
 ]
