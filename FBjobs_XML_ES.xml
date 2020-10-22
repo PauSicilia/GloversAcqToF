@@ -165,6 +165,84 @@ Equipo de Glovo]]></description>
 
 </job>
 
+<job>
 
+<!-- basic info -->
+<title><![CDATA[Repartidor/a]]></title>
+<date><![CDATA[2020-10-06 18:47:08 +0000]]></date>
+<id><![CDATA[BCN001]]></id>
+<photo-url><![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/Glovers_LandingPageBG_FullBG_FBJobs.jpg]]></photo-url>
+<description><![CDATA[Glovo busca repartidores como tú para entregar pedidos en tu ciudad.
+¡Regístrate ahora y empieza a repartir en 24 horas!
+
+Recibirás pedidos a través de nuestra app, los cuales repartirás dentro de tu ciudad, desde comida a paquetes, llaves, teléfonos… ¡Incluso anillos de boda!
+Solamente entregarás paquetes pequeños que pesen menos de 8 kg.
+Si cabe en la bolsa, se puede entregar.
+
+Entrada inmediata
+Pago cada dos semanas
+Horario flexible: Tú eliges cuántas horas trabajar. ¡Tu horario, tus normas!
+Pago por pedido: Tarifa fija + variable en función de distancia y tiempo
+
+Requisitos:
+Hablar español fluido
+Smartphone
+Vehículo propio (bicicleta, coche o moto. También puedes elegir repartir a pie)
+Ganas de colaborar
+
+¿Cómo inscribirse?
+Haz click en el botón y regístrate en el formulario.
+Te enviaremos las siguientes instrucciones por correo electrónico.
+
+Gracias,
+Equipo de Glovo]]></description>
+
+<!-- company info -->
+<company-name><![CDATA[Glovo (Default)]]></company-name>
+<company-id><![CDATA[754054234653394]]></company-id>
+<company-full-address><![CDATA[Barcelona, Spain 08005]]></company-full-address>
+<company-facebook-url>
+    <![CDATA[https://www.facebook.com/glovoappES/]]>
+</company-facebook-url>
+<company-data-policy-url>
+    <![CDATA[https://glovoapp.com/es/legal/terms]]>
+</company-data-policy-url>
+<company-url><![CDATA[https://glovoapp.com/es/glovers?utm_source=facebook&utm_campaign=fbjobs]]></company-url>
+<company-page-matching-approach><![CDATA[standard]]></company-page-matching-approach>
+
+<!-- location -->
+<city><![CDATA[Playa de Aro]]></city>
+<country><![CDATA[ES]]></country>
+<postal-code><![CDATA[17248]]></postal-code>
+
+<!-- salary -->
+
+<salary><![CDATA[10]]></salary>
+<salary-currency><![CDATA[EUR]]></salary-currency>
+<salary-type><![CDATA[hourly]]></salary-type>
+
+<!-- integration configuration -->
+
+<facebook-apply-data>
+    <application-callback-url>
+    <![CDATA[https://hooks.zapier.com/hooks/catch/6544537/ogdn5q6/]]>
+    </application-callback-url>
+    <custom-questions-url>
+    <![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/FBjobs_JSON_CustomQuestion_ES.xml]]>
+    </custom-questions-url>
+    <form-config>
+        <email-field>
+            <optional><![CDATA[false]]></optional>
+        </email-field>
+        <phone-number-field>
+            <optional><![CDATA[false]]></optional>
+        </phone-number-field>
+        <work-experience-field>
+            <optional><![CDATA[true]]></optional>
+        </work-experience-field>
+    </form-config>
+</facebook-apply-data>
+
+</job>
 
 </source>
