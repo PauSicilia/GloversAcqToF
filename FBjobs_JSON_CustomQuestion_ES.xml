@@ -320,7 +320,7 @@
 "Zizur Mayor"    ]
   } ,
     {
-    "is_required": false,
+    "is_required": true,
     "question_type": "MULTIPLE_CHOICE",
     "label": "¿Con qué vehículo vas a repartir?",
     "multiple_choice_options": [
@@ -330,7 +330,7 @@
     ]
   } ,
     {
-    "is_required": false,
+    "is_required": true,
     "question_type": "MULTIPLE_CHOICE",
     "label": "Selecciona tus horas de colaboración preferidas",
     "multiple_choice_options": [
