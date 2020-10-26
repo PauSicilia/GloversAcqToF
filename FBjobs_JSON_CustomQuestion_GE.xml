@@ -1,6 +1,19 @@
 [
-    {
+
+{
     "is_required": true,
+    "question_type": "MULTIPLE_CHOICE",
+    "label": "მიწოდების არე",
+    "multiple_choice_options": [
+"Batumi"
+"Kutaisi",
+"Rustavi",
+"Tbilisi",
+"Zugdidi"
+]
+  } ,
+    {
+    "is_required": false,
     "question_type": "MULTIPLE_CHOICE",
     "label": “რა საშუალებას გამოიყენებ მიტანისთვის?”,
     "multiple_choice_options": [
@@ -10,7 +23,7 @@
     ]
   } ,
     {
-    "is_required": true,
+    "is_required": false,
     "question_type": "MULTIPLE_CHOICE",
     "label": “აირჩიე თანამშრომლობის სასურველი საათები”,
     "multiple_choice_options": [
