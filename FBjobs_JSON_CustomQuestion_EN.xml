@@ -1,6 +1,18 @@
 [
-    {
+{
     "is_required": true,
+    "question_type": "MULTIPLE_CHOICE",
+    "label": "City / delivery area",
+    "multiple_choice_options": [
+"Kitengela",
+"Mombasa",
+"Nairobi",
+"Nakuru",
+"Kampala"
+]
+  } ,    
+{
+    "is_required": false,
     "question_type": "MULTIPLE_CHOICE",
     "label": “How will you deliver?”,
     "multiple_choice_options": [
@@ -10,7 +22,7 @@
     ]
   } ,
     {
-    "is_required": true,
+    "is_required": false,
     "question_type": "MULTIPLE_CHOICE",
     "label": “Select preferred collaboration hours”,
     "multiple_choice_options": [
