@@ -1,6 +1,38 @@
 [
-    {
+{
     "is_required": true,
+    "question_type": "MULTIPLE_CHOICE",
+    "label": "Місто / район доставки",
+    "multiple_choice_options": [
+"Boryspil",
+"Brovary",
+"Cherkasy",
+"Chernigov",
+"Chernivtsi",
+"Dnipro",
+"Ivano-Frankivsk",
+"Kharkiv",
+"Kherson",
+"Kryvyi Rih",
+"Kyiv Левый",
+"Kyiv правый",
+"Lviv",
+"Mykolaiv",
+"Odessa",
+"Odessa Суворовский",
+"Poltava",
+"Rivne",
+"Sumy",
+"Ternopil",
+"Vinnitsa",
+"Vyshneve",
+"Zaporozhye",
+"Zhytomyr"
+]
+  } ,
+
+    {
+    "is_required": false,
     "question_type": "MULTIPLE_CHOICE",
     "label": “Як ви здійснюватимете доставку?”,
     "multiple_choice_options": [
@@ -10,7 +42,7 @@
     ]
   } ,
     {
-    "is_required": true,
+    "is_required": false,
     "question_type": "MULTIPLE_CHOICE",
     "label": “Виберіть бажані години співпраці”,
     "multiple_choice_options": [
