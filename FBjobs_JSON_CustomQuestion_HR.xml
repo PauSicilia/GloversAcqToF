@@ -1,6 +1,21 @@
 [
-    {
+{
     "is_required": true,
+    "question_type": "MULTIPLE_CHOICE",
+    "label": "Područje isporuke",
+    "multiple_choice_options": [
+"Osijek",
+"Rijeka",
+"Sisak",
+"Slavonski Brod",
+"Split",
+"Zadar",
+"Zagreb"
+    ]
+  } ,
+
+{
+    "is_required": false,
     "question_type": "MULTIPLE_CHOICE",
     "label": “Kako planiraš vršiti dostave?cikl”,
     "multiple_choice_options": [
@@ -10,7 +25,7 @@
     ]
   } ,
     {
-    "is_required": true,
+    "is_required": false,
     "question_type": "MULTIPLE_CHOICE",
     "label": “Odaberi željene sate za suradnju”,
     "multiple_choice_options": [
