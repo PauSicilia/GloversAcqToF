@@ -1,6 +1,17 @@
 [
-    {
+{
     "is_required": true,
+    "question_type": "MULTIPLE_CHOICE",
+    "label": "Город / зона доставки",
+    "multiple_choice_options": [
+"Almaty",
+"Atyrau",
+"Nur-Sultan",
+"Shymkent"
+]
+  } ,
+    {
+    "is_required": false,
     "question_type": "MULTIPLE_CHOICE",
     "label": “Как вы будете выполнять доставку?”,
     "multiple_choice_options": [
@@ -10,7 +21,7 @@
     ]
   } ,
     {
-    "is_required": true,
+    "is_required": false,
     "question_type": "MULTIPLE_CHOICE",
     "label": “Выберите предпочтительные часы сотрудничества”,
     "multiple_choice_options": [
