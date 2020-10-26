@@ -1,6 +1,16 @@
 [
-    {
+{
     "is_required": true,
+    "question_type": "MULTIPLE_CHOICE",
+    "label": "Ville / zone de livraison",
+    "multiple_choice_options": [
+"Abidjan Sud",
+"Abidjan Nord",
+"Yopougon"
+]
+  } ,
+    {
+    "is_required": false,
     "question_type": "MULTIPLE_CHOICE",
     "label": “Comment allez-vous livrer?”,
     "multiple_choice_options": [
@@ -10,7 +20,7 @@
     ]
   } ,
     {
-    "is_required": true,
+    "is_required": false,
     "question_type": "MULTIPLE_CHOICE",
     "label": “Sélectionnez les heures auxquelles vous préférez collaborer”,
     "multiple_choice_options": [
