@@ -1,6 +1,43 @@
 [
-    {
+{
     "is_required": true,
+    "question_type": "MULTIPLE_CHOICE",
+    "label": "Selecciona la ciudad de reparto",
+    "multiple_choice_options": [
+"Alba Iulia",
+"Arad",
+"Bacau",
+"Baia Mare",
+"Botosani",
+"Braila",
+"Brasov",
+"Bucharest",
+"Buzau",
+"Cluj-Napoca",
+"Constanta",
+"Corbeanca",
+"Craiova",
+"Deva",
+"Focsani",
+"Galati",
+"Iasi",
+"Oradea",
+"Piatra-Neamt",
+"Pitesti",
+"Ploiesti",
+"Ramnicu-Valcea",
+"Satu Mare",
+"Sibiu",
+"Slatina",
+"Suceava",
+"Targoviste",
+"Targu-Jiu",
+"Targu-Mures",
+"Timisoara"
+]
+  } ,
+    {
+    "is_required": false,
     "question_type": "MULTIPLE_CHOICE",
     "label": “Cum vei livra?”,
     "multiple_choice_options": [
@@ -10,7 +47,7 @@
     ]
   } ,
     {
-    "is_required": true,
+    "is_required": false,
     "question_type": "MULTIPLE_CHOICE",
     "label": “Selectează orele de colaborare preferate”,
     "multiple_choice_options": [
