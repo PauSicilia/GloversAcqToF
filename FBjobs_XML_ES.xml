@@ -242,4 +242,243 @@ Equipo de Glovo]]></description>
 
 </job>
 
+<job>
+
+<!-- basic info -->
+<title><![CDATA[Corriere]]></title>
+<date><![CDATA[10/27/2020 0:00:00]]></date>
+<id><![CDATA[ROM001]]></id>
+<photo-url><![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/Glovers_LandingPageBG_FullBG_FBJobs.jpg]]></photo-url>
+<description><![CDATA[Glovo sta cercando persone come te per effettuare le consegne nella tua città.
+Tramite la nostra app, riceverai ordini che consegnerai in tutta la città, come pietanze, pacchi, chiavi, cellulari e persino anelli di fidanzamento!
+Dovrai consegnare soltanto piccoli pacchi dal peso massimo di 8 kg. Se entra nello zaino, possiamo consegnarlo.
+
+Inizio immediato
+
+Pagamento ogni 2 settimane
+
+Orario flessibile: sei tu a scegliere quante ore lavorare. Il tuo orario, le tue regole!
+
+Pagamenti per ordine: Tariffa fissa + tariffa variabile in base alla distanza e al tempo impiegato
+
+Requisiti:
+Italiano fluente parlato
+Uno smartphone
+Un veicolo (bicicletta, auto o moto). Puoi anche scegliere di effettuare le consegne a piedi)
+Entusiasmo
+
+Come ci si iscrive?
+Fai clic sul pulsante sopra e iscriviti tramite il modulo. Ti invieremo le istruzioni successive per e-mail.
+
+
+Grazie,
+Il team Glovo]]></description>
+
+<!-- company info -->
+<company-name><![CDATA[Glovo (Default)]]></company-name>
+<company-id><![CDATA[754054234653394]]></company-id>
+<company-full-address><![CDATA[Barcelona, Spain 08005]]></company-full-address>
+<company-facebook-url>
+    <![CDATA[https://www.facebook.com/glovoappES/]]>
+</company-facebook-url>
+<company-data-policy-url>
+    <![CDATA[https://glovoapp.com/es/legal/terms]]>
+</company-data-policy-url>
+<company-url><![CDATA[https://glovoapp.com/es/glovers?utm_source=fb_jobs&utm_campaign=fbjobs]]></company-url>
+<company-page-matching-approach><![CDATA[standard]]></company-page-matching-approach>
+
+<!-- location -->
+<city><![CDATA[Roma]]></city>
+<country><![CDATA[IT]]></country>
+<postal-code><![CDATA[39]]></postal-code>
+
+<!-- salary -->
+
+<salary><![CDATA[10]]></salary>
+<salary-currency><![CDATA[EUR]]></salary-currency>
+<salary-type><![CDATA[hourly]]></salary-type>
+
+<!-- integration configuration -->
+
+<facebook-apply-data>
+    <application-callback-url>
+    <![CDATA[https://hooks.zapier.com/hooks/catch/6544537/ogdn5q6/]]>
+    </application-callback-url>
+    <custom-questions-url>
+    <![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/FBjobs_JSON_CustomQuestion_IT.xml]]>
+    </custom-questions-url>
+    <form-config>
+        <email-field>
+            <optional><![CDATA[false]]></optional>
+        </email-field>
+        <phone-number-field>
+            <optional><![CDATA[false]]></optional>
+        </phone-number-field>
+        <work-experience-field>
+            <optional><![CDATA[true]]></optional>
+        </work-experience-field>
+    </form-config>
+</facebook-apply-data>
+
+</job>
+
+<job>
+
+<!-- basic info -->
+<title><![CDATA[Courier]]></title>
+<date><![CDATA[10/27/2020 0:00:00]]></date>
+<id><![CDATA[NBO001]]></id>
+<photo-url><![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/Glovers_LandingPageBG_FullBG_FBJobs.jpg]]></photo-url>
+<description><![CDATA[Glovo is looking for people just like you to be a courier in your city.
+You will receive orders through our app that you will deliver throughout your city, from food to parcels, keys, phones, even wedding rings!
+You will only deliver small packages with a maximum weight of 8 kg. If it fits in the bag, we can deliver it.
+
+Immediate start
+
+Payment every 2 weeks
+
+Flexible schedule: you choose how many hours to work. Your schedule, your rules!
+
+Payment per order: Fixed fee + variable fee based on distance and time
+
+Requirements:
+Speak fluent English
+Smartphone
+Own vehicle (bike, car or motorbike. You can also choose to deliver by foot)
+Eagerness of collaborating
+
+How to sign up?
+Click the button above and register in the form. We will send you the next instructions via email.
+
+
+Thank you,
+Glovo team]]></description>
+
+<!-- company info -->
+<company-name><![CDATA[Glovo (Default)]]></company-name>
+<company-id><![CDATA[754054234653394]]></company-id>
+<company-full-address><![CDATA[Barcelona, Spain 08005]]></company-full-address>
+<company-facebook-url>
+    <![CDATA[https://www.facebook.com/glovoappES/]]>
+</company-facebook-url>
+<company-data-policy-url>
+    <![CDATA[https://glovoapp.com/es/legal/terms]]>
+</company-data-policy-url>
+<company-url><![CDATA[https://glovoapp.com/es/glovers?utm_source=fb_jobs&utm_campaign=fbjobs]]></company-url>
+<company-page-matching-approach><![CDATA[standard]]></company-page-matching-approach>
+
+<!-- location -->
+<city><![CDATA[Nairobi]]></city>
+<country><![CDATA[KE]]></country>
+<postal-code><![CDATA[100]]></postal-code>
+
+<!-- salary -->
+
+<salary><![CDATA[200]]></salary>
+<salary-currency><![CDATA[KSH]]></salary-currency>
+<salary-type><![CDATA[hourly]]></salary-type>
+
+<!-- integration configuration -->
+
+<facebook-apply-data>
+    <application-callback-url>
+    <![CDATA[https://hooks.zapier.com/hooks/catch/6544537/ogdn5q6/]]>
+    </application-callback-url>
+    <custom-questions-url>
+    <![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/FBjobs_JSON_CustomQuestion_EN.xml]]>
+    </custom-questions-url>
+    <form-config>
+        <email-field>
+            <optional><![CDATA[false]]></optional>
+        </email-field>
+        <phone-number-field>
+            <optional><![CDATA[false]]></optional>
+        </phone-number-field>
+        <work-experience-field>
+            <optional><![CDATA[true]]></optional>
+        </work-experience-field>
+    </form-config>
+</facebook-apply-data>
+
+</job>
+<job>
+
+<!-- basic info -->
+<title><![CDATA[Courier]]></title>
+<date><![CDATA[10/27/2020 0:00:00]]></date>
+<id><![CDATA[KPA001]]></id>
+<photo-url><![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/Glovers_LandingPageBG_FullBG_FBJobs.jpg]]></photo-url>
+<description><![CDATA[Glovo is looking for people just like you to be a courier in your city.
+You will receive orders through our app that you will deliver throughout your city, from food to parcels, keys, phones, even wedding rings!
+You will only deliver small packages with a maximum weight of 8 kg. If it fits in the bag, we can deliver it.
+
+Immediate start
+
+Payment every 2 weeks
+
+Flexible schedule: you choose how many hours to work. Your schedule, your rules!
+
+Payment per order: Fixed fee + variable fee based on distance and time
+
+Requirements:
+Speak fluent English
+Smartphone
+Own vehicle (bike, car or motorbike. You can also choose to deliver by foot)
+Eagerness of collaborating
+
+How to sign up?
+Click the button above and register in the form. We will send you the next instructions via email.
+
+
+Thank you,
+Glovo team]]></description>
+
+<!-- company info -->
+<company-name><![CDATA[Glovo (Default)]]></company-name>
+<company-id><![CDATA[754054234653394]]></company-id>
+<company-full-address><![CDATA[Barcelona, Spain 08005]]></company-full-address>
+<company-facebook-url>
+    <![CDATA[https://www.facebook.com/glovoappES/]]>
+</company-facebook-url>
+<company-data-policy-url>
+    <![CDATA[https://glovoapp.com/es/legal/terms]]>
+</company-data-policy-url>
+<company-url><![CDATA[https://glovoapp.com/es/glovers?utm_source=fb_jobs&utm_campaign=fbjobs]]></company-url>
+<company-page-matching-approach><![CDATA[standard]]></company-page-matching-approach>
+
+<!-- location -->
+<city><![CDATA[Kampala]]></city>
+<country><![CDATA[UG]]></country>
+<postal-code><![CDATA[N/A]]></postal-code>
+
+<!-- salary -->
+
+<salary><![CDATA[200]]></salary>
+<salary-currency><![CDATA[KSH]]></salary-currency>
+<salary-type><![CDATA[hourly]]></salary-type>
+
+<!-- integration configuration -->
+
+<facebook-apply-data>
+    <application-callback-url>
+    <![CDATA[https://hooks.zapier.com/hooks/catch/6544537/ogdn5q6/]]>
+    </application-callback-url>
+    <custom-questions-url>
+    <![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/FBjobs_JSON_CustomQuestion_EN_UG.xml]]>
+    </custom-questions-url>
+    <form-config>
+        <email-field>
+            <optional><![CDATA[false]]></optional>
+        </email-field>
+        <phone-number-field>
+            <optional><![CDATA[false]]></optional>
+        </phone-number-field>
+        <work-experience-field>
+            <optional><![CDATA[true]]></optional>
+        </work-experience-field>
+    </form-config>
+</facebook-apply-data>
+
+</job>
+    
 </source>
