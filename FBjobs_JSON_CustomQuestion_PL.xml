@@ -177,22 +177,22 @@
 {
     "is_required": false,
     "question_type": "MULTIPLE_CHOICE",
-    "label": “Jak zamierzasz dostarczać zamówienia?”,
+    "label": "Jak zamierzasz dostarczać zamówienia?",
     "multiple_choice_options": [
-      “Motocykl”,
-      “Samochód”,
-      “Rower”
+      "Motocykl",
+      "Samochód",
+      "Rower"
     ]
   } ,
     {
     "is_required": false,
     "question_type": "MULTIPLE_CHOICE",
-    "label": “Wybierz preferowane godziny współpracy”,
+    "label": "Wybierz preferowane godziny współpracy",
     "multiple_choice_options": [
-      “Dni powszednie: obiad / kolacja (bardzo duże zapotrzebowanie)”,
-      “Dni powszednie: rano / po południu / w nocy (mniejsze zapotrzebowanie)”,
-      “Dni powszednie: obiad / kolacja (duże zapotrzebowanie)”,
-      “Dni powszednie: rano / po południu / w nocy (mniejsze zapotrzebowanie)”
+      "Dni powszednie: obiad / kolacja (bardzo duże zapotrzebowanie)",
+      "Dni powszednie: rano / po południu / w nocy (mniejsze zapotrzebowanie)",
+      "Dni powszednie: obiad / kolacja (duże zapotrzebowanie)",
+      "Dni powszednie: rano / po południu / w nocy (mniejsze zapotrzebowanie)"
     ]
   } 
 ]
