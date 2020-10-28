@@ -129,7 +129,7 @@
 ]
   } ,
     {
-    "is_required": false,
+    "is_required": true,
     "question_type": "MULTIPLE_CHOICE",
     "label": "Come effettuerai la consegna?",
     "multiple_choice_options": [
@@ -139,7 +139,7 @@
     ]
   } ,
     {
-    "is_required": false,
+    "is_required": true,
     "question_type": "MULTIPLE_CHOICE",
     "label": "Seleziona le ore di collaborazione preferite",
     "multiple_choice_options": [
