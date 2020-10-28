@@ -10,7 +10,7 @@
 ]
   } ,
     {
-    "is_required": false,
+    "is_required": true,
     "question_type": "MULTIPLE_CHOICE",
     "label": "Comment allez-vous livrer?",
     "multiple_choice_options": [
@@ -20,7 +20,7 @@
     ]
   } ,
     {
-    "is_required": false,
+    "is_required": true,
     "question_type": "MULTIPLE_CHOICE",
     "label": "Sélectionnez les heures auxquelles vous préférez collaborer",
     "multiple_choice_options": [
