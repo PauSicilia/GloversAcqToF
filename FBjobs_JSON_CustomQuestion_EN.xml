@@ -11,7 +11,7 @@
 ]
   } ,    
 {
-    "is_required": false,
+    "is_required": true,
     "question_type": "MULTIPLE_CHOICE",
     "label": "How will you deliver?",
     "multiple_choice_options": [
@@ -21,7 +21,7 @@
     ]
   } ,
     {
-    "is_required": false,
+    "is_required": true,
     "question_type": "MULTIPLE_CHOICE",
     "label": "Select preferred collaboration hours",
     "multiple_choice_options": [
