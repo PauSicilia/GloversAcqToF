@@ -13,7 +13,7 @@
 ]
   } ,
     {
-    "is_required": false,
+    "is_required": true,
     "question_type": "MULTIPLE_CHOICE",
     "label": "რა საშუალებას გამოიყენებ მიტანისთვის?",
     "multiple_choice_options": [
@@ -23,7 +23,7 @@
     ]
   } ,
     {
-    "is_required": false,
+    "is_required": true,
     "question_type": "MULTIPLE_CHOICE",
     "label": "აირჩიე თანამშრომლობის სასურველი საათები",
     "multiple_choice_options": [
