@@ -17,22 +17,22 @@
 {
     "is_required": false,
     "question_type": "MULTIPLE_CHOICE",
-    "label": “Kako planiraš vršiti dostave?cikl”,
+    "label": "Kako planiraš vršiti dostave?cikl",
     "multiple_choice_options": [
-      “Motocikl”,
-      “Automobil”,
-      “Bicikl”
+      "Motocikl",
+      "Automobil",
+      "Bicikl"
     ]
   } ,
     {
     "is_required": false,
     "question_type": "MULTIPLE_CHOICE",
-    "label": “Odaberi željene sate za suradnju”,
+    "label": "Odaberi željene sate za suradnju",
     "multiple_choice_options": [
-      “Vikendom: ručak / večera (vrlo visoka potražnja)”,
-      “Vikendom: jutro / poslijepodne / večer (manja potražnja)”,
-      “Radnim danom: ručak / večera (visoka potražnja)”,
-      “Radnim danom: jutro / poslijepodne / večer (manja potražnja)”
+      "Vikendom: ručak / večera (vrlo visoka potražnja)",
+      "Vikendom: jutro / poslijepodne / večer (manja potražnja)",
+      "Radnim danom: ručak / večera (visoka potražnja)",
+      "Radnim danom: jutro / poslijepodne / večer (manja potražnja)"
     ]
   } 
 ]
