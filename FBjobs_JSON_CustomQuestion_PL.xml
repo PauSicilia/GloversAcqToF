@@ -175,7 +175,7 @@
 ]
   } ,   
 {
-    "is_required": false,
+    "is_required": true,
     "question_type": "MULTIPLE_CHOICE",
     "label": "Jak zamierzasz dostarczać zamówienia?",
     "multiple_choice_options": [
@@ -185,7 +185,7 @@
     ]
   } ,
     {
-    "is_required": false,
+    "is_required": true,
     "question_type": "MULTIPLE_CHOICE",
     "label": "Wybierz preferowane godziny współpracy",
     "multiple_choice_options": [
