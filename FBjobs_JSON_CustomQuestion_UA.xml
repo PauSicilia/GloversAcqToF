@@ -32,7 +32,7 @@
   } ,
 
     {
-    "is_required": false,
+    "is_required": true,
     "question_type": "MULTIPLE_CHOICE",
     "label": "Як ви здійснюватимете доставку?",
     "multiple_choice_options": [
@@ -42,7 +42,7 @@
     ]
   } ,
     {
-    "is_required": false,
+    "is_required": true,
     "question_type": "MULTIPLE_CHOICE",
     "label": "Виберіть бажані години співпраці",
     "multiple_choice_options": [
