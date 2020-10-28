@@ -131,22 +131,22 @@
     {
     "is_required": false,
     "question_type": "MULTIPLE_CHOICE",
-    "label": “Come effettuerai la consegna?”,
+    "label": "Come effettuerai la consegna?",
     "multiple_choice_options": [
-      “Moto”,
-      “Auto”,
-      “Bicicletta”
+      "Moto",
+      "Auto",
+      "Bicicletta"
     ]
   } ,
     {
     "is_required": false,
     "question_type": "MULTIPLE_CHOICE",
-    "label": “Seleziona le ore di collaborazione preferite”,
+    "label": "Seleziona le ore di collaborazione preferite",
     "multiple_choice_options": [
-      “Fine settimana: pranzo / cena (domanda molto alta)”,
-      “Fine settimana: mattina / pomeriggio / notte (domanda più bassa)”,
-      “Giorni feriali: pranzo / cena (domanda alta)”,
-      “Giorni feriali: mattina / pomeriggio / notte (domanda più bassa)”
+      "Fine settimana: pranzo / cena (domanda molto alta)",
+      "Fine settimana: mattina / pomeriggio / notte (domanda più bassa)",
+      "Giorni feriali: pranzo / cena (domanda alta)",
+      "Giorni feriali: mattina / pomeriggio / notte (domanda più bassa)"
     ]
   } 
 ]
