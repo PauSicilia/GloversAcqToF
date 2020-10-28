@@ -144,7 +144,7 @@
   } ,    
 
 {
-    "is_required": false,
+    "is_required": true,
     "question_type": "MULTIPLE_CHOICE",
     "label": "Como vais fazer as entregas?",
     "multiple_choice_options": [
@@ -154,7 +154,7 @@
     ]
   } ,
     {
-    "is_required": false,
+    "is_required": true,
     "question_type": "MULTIPLE_CHOICE",
     "label": "Selecionar horários de colaboração preferidos",
     "multiple_choice_options": [
