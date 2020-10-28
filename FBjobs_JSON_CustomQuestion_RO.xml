@@ -39,22 +39,22 @@
     {
     "is_required": false,
     "question_type": "MULTIPLE_CHOICE",
-    "label": “Cum vei livra?”,
+    "label": "Cum vei livra?",
     "multiple_choice_options": [
-      “Motocicletă”,
-      “Mașină”,
-      “Bicicletă”
+      "Motocicletă",
+      "Mașină",
+      "Bicicletă"
     ]
   } ,
     {
     "is_required": false,
     "question_type": "MULTIPLE_CHOICE",
-    "label": “Selectează orele de colaborare preferate”,
+    "label": "Selectează orele de colaborare preferate",
     "multiple_choice_options": [
-      “În weekend: prânz / cină (cerere foarte ridicată)”,
-      “În weekend: dimineața / după-amiaza / noaptea (cerere mai scăzută)”,
-      “În timpul săptămânii: prânz / cină (cerere ridicată)”,
-      “În timpul săptămânii: dimineața / după-amiaza / noaptea (cerere mai scăzută)”
+      "În weekend: prânz / cină (cerere foarte ridicată)",
+      "În weekend: dimineața / după-amiaza / noaptea (cerere mai scăzută)",
+      "În timpul săptămânii: prânz / cină (cerere ridicată)",
+      "În timpul săptămânii: dimineața / după-amiaza / noaptea (cerere mai scăzută)"
     ]
   } 
 ]
