@@ -12,22 +12,22 @@
     {
     "is_required": false,
     "question_type": "MULTIPLE_CHOICE",
-    "label": “Comment allez-vous livrer?”,
+    "label": "Comment allez-vous livrer?",
     "multiple_choice_options": [
-      “Moto”,
-      “Voiture”,
-      “Vélo”
+      "Moto",
+      "Voiture",
+      "Vélo"
     ]
   } ,
     {
     "is_required": false,
     "question_type": "MULTIPLE_CHOICE",
-    "label": “Sélectionnez les heures auxquelles vous préférez collaborer”,
+    "label": "Sélectionnez les heures auxquelles vous préférez collaborer",
     "multiple_choice_options": [
-      “Le week-end : déjeuner/dîner”,
-      “Le week-end : matin/après-midi/nuit”,
-      “En semaine : déjeuner/dîner”,
-      “En semaine : matin/après-midi/nuit”
+      "Le week-end : déjeuner/dîner",
+      "Le week-end : matin/après-midi/nuit",
+      "En semaine : déjeuner/dîner",
+      "En semaine : matin/après-midi/nuit"
     ]
   } 
 ]
