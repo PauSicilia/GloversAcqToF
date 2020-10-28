@@ -146,22 +146,22 @@
 {
     "is_required": false,
     "question_type": "MULTIPLE_CHOICE",
-    "label": “Como vais fazer as entregas?”,
+    "label": "Como vais fazer as entregas?",
     "multiple_choice_options": [
-      “Mota”,
-      “Carro”,
-      “Bicicleta”
+      "Mota",
+      "Carro",
+      "Bicicleta"
     ]
   } ,
     {
     "is_required": false,
     "question_type": "MULTIPLE_CHOICE",
-    "label": “Selecionar horários de colaboração preferidos”,
+    "label": "Selecionar horários de colaboração preferidos",
     "multiple_choice_options": [
-      “Fins de semana: almoço / jantar (procura muito alta)”,
-      “Fins de semana: Manhã / tarde / noite (procura mais baixa)”,
-      “Durante a semana: Almoço / jantar (alta procura)”,
-      “Durante a semana: Manhã / tarde / noite (procura mais baixa)”
+      "Fins de semana: almoço / jantar (procura muito alta)",
+      "Fins de semana: Manhã / tarde / noite (procura mais baixa)",
+      "Durante a semana: Almoço / jantar (alta procura)",
+      "Durante a semana: Manhã / tarde / noite (procura mais baixa)"
     ]
   } 
 ]
