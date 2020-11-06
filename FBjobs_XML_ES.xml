@@ -31686,5 +31686,700 @@ Glovo team]]></description>
 </facebook-apply-data>
 
 </job>
-    
+
+
+<!-- PE -->
+<!-- PE -->
+<!-- PE -->
+<!-- PE -->
+<!-- PE -->
+
+<job>
+
+<!-- basic info -->
+<title><![CDATA[Repartidor/a]]></title>
+<date><![CDATA[10/27/2020 0:00:00]]></date>
+<id><![CDATA[ALM001]]></id>
+<photo-url><![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/Glovers_LandingPageBG_FullBG_FBJobs.jpg]]></photo-url>
+<description><![CDATA[Glovo busca repartidores como tú para entregar pedidos en tu ciudad.
+
+Recibirás pedidos a través de nuestra app, los cuales repartirás dentro de tu ciudad, desde comida a paquetes, llaves, teléfonos… ¡Incluso anillos de boda!
+Solamente entregarás paquetes pequeños que pesen menos de 8 kg.
+Si cabe en la bolsa, se puede entregar.
+
+Entrada inmediata
+Pago cada dos semanas
+Horario flexible: Tú eliges cuántas horas trabajar. ¡Tu horario, tus normas!
+Pago por pedido: Tarifa fija + variable en función de distancia y tiempo
+
+Requisitos:
+Hablar español fluido
+Smartphone
+Vehículo propio (bicicleta, coche o moto. También puedes elegir repartir a pie)
+Ganas de colaborar
+
+¿Cómo inscribirse?
+Haz click en el botón y regístrate en el formulario.
+Te enviaremos las siguientes instrucciones por correo electrónico.
+
+Gracias,
+Equipo de Glovo]]></description>
+
+<!-- company info -->
+<company-name><![CDATA[Glovo (Default)]]></company-name>
+<company-id><![CDATA[754054234653394]]></company-id>
+<company-full-address><![CDATA[Barcelona, Spain 08005]]></company-full-address>
+<company-facebook-url>
+    <![CDATA[https://www.facebook.com/glovoappES/]]>
+</company-facebook-url>
+<company-data-policy-url>
+    <![CDATA[https://glovoapp.com/es/legal/terms]]>
+</company-data-policy-url>
+<company-url><![CDATA[https://glovoapp.com/es/glovers?utm_source=fb_jobs&utm_campaign=fbjobs]]></company-url>
+<company-page-matching-approach><![CDATA[standard]]></company-page-matching-approach>
+
+<!-- location -->
+<city><![CDATA[Chiclayo]]></city>
+<country><![CDATA[PE]]></country>
+<postal-code><![CDATA[14000]]></postal-code>
+
+
+<!-- integration configuration -->
+
+<facebook-apply-data>
+    <application-callback-url>
+    <![CDATA[https://hooks.zapier.com/hooks/catch/6544537/ogdn5q6/]]>
+    </application-callback-url>
+    <custom-questions-url>
+    <![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/FBjobs_JSON_CustomQuestion_PE.xml]]>
+    </custom-questions-url>
+    <form-config>
+        <email-field>
+            <optional><![CDATA[false]]></optional>
+        </email-field>
+        <phone-number-field>
+            <optional><![CDATA[false]]></optional>
+        </phone-number-field>
+        <work-experience-field>
+            <optional><![CDATA[true]]></optional>
+        </work-experience-field>
+    </form-config>
+</facebook-apply-data>
+
+</job>
+
+<job>
+
+<!-- basic info -->
+<title><![CDATA[Repartidor/a]]></title>
+<date><![CDATA[10/27/2020 0:00:00]]></date>
+<id><![CDATA[ALM001]]></id>
+<photo-url><![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/Glovers_LandingPageBG_FullBG_FBJobs.jpg]]></photo-url>
+<description><![CDATA[Glovo busca repartidores como tú para entregar pedidos en tu ciudad.
+
+Recibirás pedidos a través de nuestra app, los cuales repartirás dentro de tu ciudad, desde comida a paquetes, llaves, teléfonos… ¡Incluso anillos de boda!
+Solamente entregarás paquetes pequeños que pesen menos de 8 kg.
+Si cabe en la bolsa, se puede entregar.
+
+Entrada inmediata
+Pago cada dos semanas
+Horario flexible: Tú eliges cuántas horas trabajar. ¡Tu horario, tus normas!
+Pago por pedido: Tarifa fija + variable en función de distancia y tiempo
+
+Requisitos:
+Hablar español fluido
+Smartphone
+Vehículo propio (bicicleta, coche o moto. También puedes elegir repartir a pie)
+Ganas de colaborar
+
+¿Cómo inscribirse?
+Haz click en el botón y regístrate en el formulario.
+Te enviaremos las siguientes instrucciones por correo electrónico.
+
+Gracias,
+Equipo de Glovo]]></description>
+
+<!-- company info -->
+<company-name><![CDATA[Glovo (Default)]]></company-name>
+<company-id><![CDATA[754054234653394]]></company-id>
+<company-full-address><![CDATA[Barcelona, Spain 08005]]></company-full-address>
+<company-facebook-url>
+    <![CDATA[https://www.facebook.com/glovoappES/]]>
+</company-facebook-url>
+<company-data-policy-url>
+    <![CDATA[https://glovoapp.com/es/legal/terms]]>
+</company-data-policy-url>
+<company-url><![CDATA[https://glovoapp.com/es/glovers?utm_source=fb_jobs&utm_campaign=fbjobs]]></company-url>
+<company-page-matching-approach><![CDATA[standard]]></company-page-matching-approach>
+
+<!-- location -->
+<city><![CDATA[Cuzco]]></city>
+<country><![CDATA[PE]]></country>
+<postal-code><![CDATA[08000]]></postal-code>
+
+
+<!-- integration configuration -->
+
+<facebook-apply-data>
+    <application-callback-url>
+    <![CDATA[https://hooks.zapier.com/hooks/catch/6544537/ogdn5q6/]]>
+    </application-callback-url>
+    <custom-questions-url>
+    <![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/FBjobs_JSON_CustomQuestion_PE.xml]]>
+    </custom-questions-url>
+    <form-config>
+        <email-field>
+            <optional><![CDATA[false]]></optional>
+        </email-field>
+        <phone-number-field>
+            <optional><![CDATA[false]]></optional>
+        </phone-number-field>
+        <work-experience-field>
+            <optional><![CDATA[true]]></optional>
+        </work-experience-field>
+    </form-config>
+</facebook-apply-data>
+
+</job>
+
+<job>
+
+<!-- basic info -->
+<title><![CDATA[Repartidor/a]]></title>
+<date><![CDATA[10/27/2020 0:00:00]]></date>
+<id><![CDATA[ALM001]]></id>
+<photo-url><![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/Glovers_LandingPageBG_FullBG_FBJobs.jpg]]></photo-url>
+<description><![CDATA[Glovo busca repartidores como tú para entregar pedidos en tu ciudad.
+
+Recibirás pedidos a través de nuestra app, los cuales repartirás dentro de tu ciudad, desde comida a paquetes, llaves, teléfonos… ¡Incluso anillos de boda!
+Solamente entregarás paquetes pequeños que pesen menos de 8 kg.
+Si cabe en la bolsa, se puede entregar.
+
+Entrada inmediata
+Pago cada dos semanas
+Horario flexible: Tú eliges cuántas horas trabajar. ¡Tu horario, tus normas!
+Pago por pedido: Tarifa fija + variable en función de distancia y tiempo
+
+Requisitos:
+Hablar español fluido
+Smartphone
+Vehículo propio (bicicleta, coche o moto. También puedes elegir repartir a pie)
+Ganas de colaborar
+
+¿Cómo inscribirse?
+Haz click en el botón y regístrate en el formulario.
+Te enviaremos las siguientes instrucciones por correo electrónico.
+
+Gracias,
+Equipo de Glovo]]></description>
+
+<!-- company info -->
+<company-name><![CDATA[Glovo (Default)]]></company-name>
+<company-id><![CDATA[754054234653394]]></company-id>
+<company-full-address><![CDATA[Barcelona, Spain 08005]]></company-full-address>
+<company-facebook-url>
+    <![CDATA[https://www.facebook.com/glovoappES/]]>
+</company-facebook-url>
+<company-data-policy-url>
+    <![CDATA[https://glovoapp.com/es/legal/terms]]>
+</company-data-policy-url>
+<company-url><![CDATA[https://glovoapp.com/es/glovers?utm_source=fb_jobs&utm_campaign=fbjobs]]></company-url>
+<company-page-matching-approach><![CDATA[standard]]></company-page-matching-approach>
+
+<!-- location -->
+<city><![CDATA[Huancayo]]></city>
+<country><![CDATA[PE]]></country>
+<postal-code><![CDATA[12000]]></postal-code>
+
+
+<!-- integration configuration -->
+
+<facebook-apply-data>
+    <application-callback-url>
+    <![CDATA[https://hooks.zapier.com/hooks/catch/6544537/ogdn5q6/]]>
+    </application-callback-url>
+    <custom-questions-url>
+    <![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/FBjobs_JSON_CustomQuestion_PE.xml]]>
+    </custom-questions-url>
+    <form-config>
+        <email-field>
+            <optional><![CDATA[false]]></optional>
+        </email-field>
+        <phone-number-field>
+            <optional><![CDATA[false]]></optional>
+        </phone-number-field>
+        <work-experience-field>
+            <optional><![CDATA[true]]></optional>
+        </work-experience-field>
+    </form-config>
+</facebook-apply-data>
+
+</job>
+
+<job>
+
+<!-- basic info -->
+<title><![CDATA[Repartidor/a]]></title>
+<date><![CDATA[10/27/2020 0:00:00]]></date>
+<id><![CDATA[ALM001]]></id>
+<photo-url><![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/Glovers_LandingPageBG_FullBG_FBJobs.jpg]]></photo-url>
+<description><![CDATA[Glovo busca repartidores como tú para entregar pedidos en tu ciudad.
+
+Recibirás pedidos a través de nuestra app, los cuales repartirás dentro de tu ciudad, desde comida a paquetes, llaves, teléfonos… ¡Incluso anillos de boda!
+Solamente entregarás paquetes pequeños que pesen menos de 8 kg.
+Si cabe en la bolsa, se puede entregar.
+
+Entrada inmediata
+Pago cada dos semanas
+Horario flexible: Tú eliges cuántas horas trabajar. ¡Tu horario, tus normas!
+Pago por pedido: Tarifa fija + variable en función de distancia y tiempo
+
+Requisitos:
+Hablar español fluido
+Smartphone
+Vehículo propio (bicicleta, coche o moto. También puedes elegir repartir a pie)
+Ganas de colaborar
+
+¿Cómo inscribirse?
+Haz click en el botón y regístrate en el formulario.
+Te enviaremos las siguientes instrucciones por correo electrónico.
+
+Gracias,
+Equipo de Glovo]]></description>
+
+<!-- company info -->
+<company-name><![CDATA[Glovo (Default)]]></company-name>
+<company-id><![CDATA[754054234653394]]></company-id>
+<company-full-address><![CDATA[Barcelona, Spain 08005]]></company-full-address>
+<company-facebook-url>
+    <![CDATA[https://www.facebook.com/glovoappES/]]>
+</company-facebook-url>
+<company-data-policy-url>
+    <![CDATA[https://glovoapp.com/es/legal/terms]]>
+</company-data-policy-url>
+<company-url><![CDATA[https://glovoapp.com/es/glovers?utm_source=fb_jobs&utm_campaign=fbjobs]]></company-url>
+<company-page-matching-approach><![CDATA[standard]]></company-page-matching-approach>
+
+<!-- location -->
+<city><![CDATA[Ica]]></city>
+<country><![CDATA[PE]]></country>
+<postal-code><![CDATA[11000]]></postal-code>
+
+
+<!-- integration configuration -->
+
+<facebook-apply-data>
+    <application-callback-url>
+    <![CDATA[https://hooks.zapier.com/hooks/catch/6544537/ogdn5q6/]]>
+    </application-callback-url>
+    <custom-questions-url>
+    <![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/FBjobs_JSON_CustomQuestion_PE.xml]]>
+    </custom-questions-url>
+    <form-config>
+        <email-field>
+            <optional><![CDATA[false]]></optional>
+        </email-field>
+        <phone-number-field>
+            <optional><![CDATA[false]]></optional>
+        </phone-number-field>
+        <work-experience-field>
+            <optional><![CDATA[true]]></optional>
+        </work-experience-field>
+    </form-config>
+</facebook-apply-data>
+
+</job>
+
+<job>
+
+<!-- basic info -->
+<title><![CDATA[Repartidor/a]]></title>
+<date><![CDATA[10/27/2020 0:00:00]]></date>
+<id><![CDATA[ALM001]]></id>
+<photo-url><![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/Glovers_LandingPageBG_FullBG_FBJobs.jpg]]></photo-url>
+<description><![CDATA[Glovo busca repartidores como tú para entregar pedidos en tu ciudad.
+
+Recibirás pedidos a través de nuestra app, los cuales repartirás dentro de tu ciudad, desde comida a paquetes, llaves, teléfonos… ¡Incluso anillos de boda!
+Solamente entregarás paquetes pequeños que pesen menos de 8 kg.
+Si cabe en la bolsa, se puede entregar.
+
+Entrada inmediata
+Pago cada dos semanas
+Horario flexible: Tú eliges cuántas horas trabajar. ¡Tu horario, tus normas!
+Pago por pedido: Tarifa fija + variable en función de distancia y tiempo
+
+Requisitos:
+Hablar español fluido
+Smartphone
+Vehículo propio (bicicleta, coche o moto. También puedes elegir repartir a pie)
+Ganas de colaborar
+
+¿Cómo inscribirse?
+Haz click en el botón y regístrate en el formulario.
+Te enviaremos las siguientes instrucciones por correo electrónico.
+
+Gracias,
+Equipo de Glovo]]></description>
+
+<!-- company info -->
+<company-name><![CDATA[Glovo (Default)]]></company-name>
+<company-id><![CDATA[754054234653394]]></company-id>
+<company-full-address><![CDATA[Barcelona, Spain 08005]]></company-full-address>
+<company-facebook-url>
+    <![CDATA[https://www.facebook.com/glovoappES/]]>
+</company-facebook-url>
+<company-data-policy-url>
+    <![CDATA[https://glovoapp.com/es/legal/terms]]>
+</company-data-policy-url>
+<company-url><![CDATA[https://glovoapp.com/es/glovers?utm_source=fb_jobs&utm_campaign=fbjobs]]></company-url>
+<company-page-matching-approach><![CDATA[standard]]></company-page-matching-approach>
+
+<!-- location -->
+<city><![CDATA[Lima]]></city>
+<country><![CDATA[PE]]></country>
+<postal-code><![CDATA[00033]]></postal-code>
+
+
+<!-- integration configuration -->
+
+<facebook-apply-data>
+    <application-callback-url>
+    <![CDATA[https://hooks.zapier.com/hooks/catch/6544537/ogdn5q6/]]>
+    </application-callback-url>
+    <custom-questions-url>
+    <![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/FBjobs_JSON_CustomQuestion_PE.xml]]>
+    </custom-questions-url>
+    <form-config>
+        <email-field>
+            <optional><![CDATA[false]]></optional>
+        </email-field>
+        <phone-number-field>
+            <optional><![CDATA[false]]></optional>
+        </phone-number-field>
+        <work-experience-field>
+            <optional><![CDATA[true]]></optional>
+        </work-experience-field>
+    </form-config>
+</facebook-apply-data>
+
+</job>
+
+<job>
+
+<!-- basic info -->
+<title><![CDATA[Repartidor/a]]></title>
+<date><![CDATA[10/27/2020 0:00:00]]></date>
+<id><![CDATA[ALM001]]></id>
+<photo-url><![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/Glovers_LandingPageBG_FullBG_FBJobs.jpg]]></photo-url>
+<description><![CDATA[Glovo busca repartidores como tú para entregar pedidos en tu ciudad.
+
+Recibirás pedidos a través de nuestra app, los cuales repartirás dentro de tu ciudad, desde comida a paquetes, llaves, teléfonos… ¡Incluso anillos de boda!
+Solamente entregarás paquetes pequeños que pesen menos de 8 kg.
+Si cabe en la bolsa, se puede entregar.
+
+Entrada inmediata
+Pago cada dos semanas
+Horario flexible: Tú eliges cuántas horas trabajar. ¡Tu horario, tus normas!
+Pago por pedido: Tarifa fija + variable en función de distancia y tiempo
+
+Requisitos:
+Hablar español fluido
+Smartphone
+Vehículo propio (bicicleta, coche o moto. También puedes elegir repartir a pie)
+Ganas de colaborar
+
+¿Cómo inscribirse?
+Haz click en el botón y regístrate en el formulario.
+Te enviaremos las siguientes instrucciones por correo electrónico.
+
+Gracias,
+Equipo de Glovo]]></description>
+
+<!-- company info -->
+<company-name><![CDATA[Glovo (Default)]]></company-name>
+<company-id><![CDATA[754054234653394]]></company-id>
+<company-full-address><![CDATA[Barcelona, Spain 08005]]></company-full-address>
+<company-facebook-url>
+    <![CDATA[https://www.facebook.com/glovoappES/]]>
+</company-facebook-url>
+<company-data-policy-url>
+    <![CDATA[https://glovoapp.com/es/legal/terms]]>
+</company-data-policy-url>
+<company-url><![CDATA[https://glovoapp.com/es/glovers?utm_source=fb_jobs&utm_campaign=fbjobs]]></company-url>
+<company-page-matching-approach><![CDATA[standard]]></company-page-matching-approach>
+
+<!-- location -->
+<city><![CDATA[Piura]]></city>
+<country><![CDATA[PE]]></country>
+<postal-code><![CDATA[20000]]></postal-code>
+
+
+<!-- integration configuration -->
+
+<facebook-apply-data>
+    <application-callback-url>
+    <![CDATA[https://hooks.zapier.com/hooks/catch/6544537/ogdn5q6/]]>
+    </application-callback-url>
+    <custom-questions-url>
+    <![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/FBjobs_JSON_CustomQuestion_PE.xml]]>
+    </custom-questions-url>
+    <form-config>
+        <email-field>
+            <optional><![CDATA[false]]></optional>
+        </email-field>
+        <phone-number-field>
+            <optional><![CDATA[false]]></optional>
+        </phone-number-field>
+        <work-experience-field>
+            <optional><![CDATA[true]]></optional>
+        </work-experience-field>
+    </form-config>
+</facebook-apply-data>
+
+</job>
+
+<job>
+
+<!-- basic info -->
+<title><![CDATA[Repartidor/a]]></title>
+<date><![CDATA[10/27/2020 0:00:00]]></date>
+<id><![CDATA[ALM001]]></id>
+<photo-url><![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/Glovers_LandingPageBG_FullBG_FBJobs.jpg]]></photo-url>
+<description><![CDATA[Glovo busca repartidores como tú para entregar pedidos en tu ciudad.
+
+Recibirás pedidos a través de nuestra app, los cuales repartirás dentro de tu ciudad, desde comida a paquetes, llaves, teléfonos… ¡Incluso anillos de boda!
+Solamente entregarás paquetes pequeños que pesen menos de 8 kg.
+Si cabe en la bolsa, se puede entregar.
+
+Entrada inmediata
+Pago cada dos semanas
+Horario flexible: Tú eliges cuántas horas trabajar. ¡Tu horario, tus normas!
+Pago por pedido: Tarifa fija + variable en función de distancia y tiempo
+
+Requisitos:
+Hablar español fluido
+Smartphone
+Vehículo propio (bicicleta, coche o moto. También puedes elegir repartir a pie)
+Ganas de colaborar
+
+¿Cómo inscribirse?
+Haz click en el botón y regístrate en el formulario.
+Te enviaremos las siguientes instrucciones por correo electrónico.
+
+Gracias,
+Equipo de Glovo]]></description>
+
+<!-- company info -->
+<company-name><![CDATA[Glovo (Default)]]></company-name>
+<company-id><![CDATA[754054234653394]]></company-id>
+<company-full-address><![CDATA[Barcelona, Spain 08005]]></company-full-address>
+<company-facebook-url>
+    <![CDATA[https://www.facebook.com/glovoappES/]]>
+</company-facebook-url>
+<company-data-policy-url>
+    <![CDATA[https://glovoapp.com/es/legal/terms]]>
+</company-data-policy-url>
+<company-url><![CDATA[https://glovoapp.com/es/glovers?utm_source=fb_jobs&utm_campaign=fbjobs]]></company-url>
+<company-page-matching-approach><![CDATA[standard]]></company-page-matching-approach>
+
+<!-- location -->
+<city><![CDATA[Punta Hermosa]]></city>
+<country><![CDATA[PE]]></country>
+<postal-code><![CDATA[00024]]></postal-code>
+
+
+<!-- integration configuration -->
+
+<facebook-apply-data>
+    <application-callback-url>
+    <![CDATA[https://hooks.zapier.com/hooks/catch/6544537/ogdn5q6/]]>
+    </application-callback-url>
+    <custom-questions-url>
+    <![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/FBjobs_JSON_CustomQuestion_PE.xml]]>
+    </custom-questions-url>
+    <form-config>
+        <email-field>
+            <optional><![CDATA[false]]></optional>
+        </email-field>
+        <phone-number-field>
+            <optional><![CDATA[false]]></optional>
+        </phone-number-field>
+        <work-experience-field>
+            <optional><![CDATA[true]]></optional>
+        </work-experience-field>
+    </form-config>
+</facebook-apply-data>
+
+</job>
+
+<job>
+
+<!-- basic info -->
+<title><![CDATA[Repartidor/a]]></title>
+<date><![CDATA[10/27/2020 0:00:00]]></date>
+<id><![CDATA[ALM001]]></id>
+<photo-url><![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/Glovers_LandingPageBG_FullBG_FBJobs.jpg]]></photo-url>
+<description><![CDATA[Glovo busca repartidores como tú para entregar pedidos en tu ciudad.
+
+Recibirás pedidos a través de nuestra app, los cuales repartirás dentro de tu ciudad, desde comida a paquetes, llaves, teléfonos… ¡Incluso anillos de boda!
+Solamente entregarás paquetes pequeños que pesen menos de 8 kg.
+Si cabe en la bolsa, se puede entregar.
+
+Entrada inmediata
+Pago cada dos semanas
+Horario flexible: Tú eliges cuántas horas trabajar. ¡Tu horario, tus normas!
+Pago por pedido: Tarifa fija + variable en función de distancia y tiempo
+
+Requisitos:
+Hablar español fluido
+Smartphone
+Vehículo propio (bicicleta, coche o moto. También puedes elegir repartir a pie)
+Ganas de colaborar
+
+¿Cómo inscribirse?
+Haz click en el botón y regístrate en el formulario.
+Te enviaremos las siguientes instrucciones por correo electrónico.
+
+Gracias,
+Equipo de Glovo]]></description>
+
+<!-- company info -->
+<company-name><![CDATA[Glovo (Default)]]></company-name>
+<company-id><![CDATA[754054234653394]]></company-id>
+<company-full-address><![CDATA[Barcelona, Spain 08005]]></company-full-address>
+<company-facebook-url>
+    <![CDATA[https://www.facebook.com/glovoappES/]]>
+</company-facebook-url>
+<company-data-policy-url>
+    <![CDATA[https://glovoapp.com/es/legal/terms]]>
+</company-data-policy-url>
+<company-url><![CDATA[https://glovoapp.com/es/glovers?utm_source=fb_jobs&utm_campaign=fbjobs]]></company-url>
+<company-page-matching-approach><![CDATA[standard]]></company-page-matching-approach>
+
+<!-- location -->
+<city><![CDATA[San Juan de Lurigancho]]></city>
+<country><![CDATA[PE]]></country>
+<postal-code><![CDATA[15401]]></postal-code>
+
+
+<!-- integration configuration -->
+
+<facebook-apply-data>
+    <application-callback-url>
+    <![CDATA[https://hooks.zapier.com/hooks/catch/6544537/ogdn5q6/]]>
+    </application-callback-url>
+    <custom-questions-url>
+    <![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/FBjobs_JSON_CustomQuestion_PE.xml]]>
+    </custom-questions-url>
+    <form-config>
+        <email-field>
+            <optional><![CDATA[false]]></optional>
+        </email-field>
+        <phone-number-field>
+            <optional><![CDATA[false]]></optional>
+        </phone-number-field>
+        <work-experience-field>
+            <optional><![CDATA[true]]></optional>
+        </work-experience-field>
+    </form-config>
+</facebook-apply-data>
+
+</job>
+
+<job>
+
+<!-- basic info -->
+<title><![CDATA[Repartidor/a]]></title>
+<date><![CDATA[10/27/2020 0:00:00]]></date>
+<id><![CDATA[ALM001]]></id>
+<photo-url><![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/Glovers_LandingPageBG_FullBG_FBJobs.jpg]]></photo-url>
+<description><![CDATA[Glovo busca repartidores como tú para entregar pedidos en tu ciudad.
+
+Recibirás pedidos a través de nuestra app, los cuales repartirás dentro de tu ciudad, desde comida a paquetes, llaves, teléfonos… ¡Incluso anillos de boda!
+Solamente entregarás paquetes pequeños que pesen menos de 8 kg.
+Si cabe en la bolsa, se puede entregar.
+
+Entrada inmediata
+Pago cada dos semanas
+Horario flexible: Tú eliges cuántas horas trabajar. ¡Tu horario, tus normas!
+Pago por pedido: Tarifa fija + variable en función de distancia y tiempo
+
+Requisitos:
+Hablar español fluido
+Smartphone
+Vehículo propio (bicicleta, coche o moto. También puedes elegir repartir a pie)
+Ganas de colaborar
+
+¿Cómo inscribirse?
+Haz click en el botón y regístrate en el formulario.
+Te enviaremos las siguientes instrucciones por correo electrónico.
+
+Gracias,
+Equipo de Glovo]]></description>
+
+<!-- company info -->
+<company-name><![CDATA[Glovo (Default)]]></company-name>
+<company-id><![CDATA[754054234653394]]></company-id>
+<company-full-address><![CDATA[Barcelona, Spain 08005]]></company-full-address>
+<company-facebook-url>
+    <![CDATA[https://www.facebook.com/glovoappES/]]>
+</company-facebook-url>
+<company-data-policy-url>
+    <![CDATA[https://glovoapp.com/es/legal/terms]]>
+</company-data-policy-url>
+<company-url><![CDATA[https://glovoapp.com/es/glovers?utm_source=fb_jobs&utm_campaign=fbjobs]]></company-url>
+<company-page-matching-approach><![CDATA[standard]]></company-page-matching-approach>
+
+<!-- location -->
+<city><![CDATA[Trujillo]]></city>
+<country><![CDATA[PE]]></country>
+<postal-code><![CDATA[13001]]></postal-code>
+
+
+<!-- integration configuration -->
+
+<facebook-apply-data>
+    <application-callback-url>
+    <![CDATA[https://hooks.zapier.com/hooks/catch/6544537/ogdn5q6/]]>
+    </application-callback-url>
+    <custom-questions-url>
+    <![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/FBjobs_JSON_CustomQuestion_PE.xml]]>
+    </custom-questions-url>
+    <form-config>
+        <email-field>
+            <optional><![CDATA[false]]></optional>
+        </email-field>
+        <phone-number-field>
+            <optional><![CDATA[false]]></optional>
+        </phone-number-field>
+        <work-experience-field>
+            <optional><![CDATA[true]]></optional>
+        </work-experience-field>
+    </form-config>
+</facebook-apply-data>
+
+</job>
+
+<!-- EC -->
+
+<!-- CR -->
+
+<!-- HN -->
+
+<!-- GT -->
+
+<!-- PL -->
+
+<!-- RO -->
+
+<!-- MD -->
+
+<!-- UA -->
+
+<!-- KG -->
+
+<!-- RS -->
+
+<!-- HR -->
+
 </source>
