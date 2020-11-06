@@ -1,0 +1,44 @@
+[
+  {
+    "is_required": true,
+    "question_type": "MULTIPLE_CHOICE",
+    "label": "Selecciona la ciudad de reparto",
+    "multiple_choice_options": [
+"Arequipa",
+"Asia",
+"Chimbote",
+"Chiclayo",
+"Cajamarca",
+"Chincha",
+"Cuzco",
+"Huancayo",
+"Ica",
+"Lima",
+"Punta Hermosa",
+"Piura",
+"San Juan de Lurigancho",
+"Tacna",
+"Trujillo" ]
+  } ,
+    {
+    "is_required": true,
+    "question_type": "MULTIPLE_CHOICE",
+    "label": "¿Con qué vehículo vas a repartir?",
+    "multiple_choice_options": [
+      "Moto",
+      "Carro",
+      "Bicicleta"
+    ]
+  } ,
+    {
+    "is_required": true,
+    "question_type": "MULTIPLE_CHOICE",
+    "label": "Selecciona tus horas de colaboración preferidas",
+    "multiple_choice_options": [
+      "Fines de semana: almuerzo / cena (demanda muy alta)",
+      "Fines de semana: mañana / tarde / noche (menos demanda)",
+      "Entre semana: almuerzo / cena (alta demanda)",
+      "Entre semana: mañana / tarde / noche (menos demanda)"
+    ]
+  } 
+]
