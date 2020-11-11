@@ -1,0 +1,31 @@
+[
+{
+    "is_required": true,
+    "question_type": "MULTIPLE_CHOICE",
+    "label": "Selecciona la ciudad de reparto",
+    "multiple_choice_options": [
+"Chisinau"
+]
+  } ,
+    {
+    "is_required": true,
+    "question_type": "MULTIPLE_CHOICE",
+    "label": "Cum vei livra?",
+    "multiple_choice_options": [
+      "Motocicletă",
+      "Mașină",
+      "Bicicletă"
+    ]
+  } ,
+    {
+    "is_required": true,
+    "question_type": "MULTIPLE_CHOICE",
+    "label": "Selectează orele de colaborare preferate",
+    "multiple_choice_options": [
+      "În weekend: prânz / cină (cerere foarte ridicată)",
+      "În weekend: dimineața / după-amiaza / noaptea (cerere mai scăzută)",
+      "În timpul săptămânii: prânz / cină (cerere ridicată)",
+      "În timpul săptămânii: dimineața / după-amiaza / noaptea (cerere mai scăzută)"
+    ]
+  }
+]

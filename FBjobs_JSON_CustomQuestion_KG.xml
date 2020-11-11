@@ -1,0 +1,31 @@
+[
+{
+    "is_required": true,
+    "question_type": "MULTIPLE_CHOICE",
+    "label": "Город / зона доставки",
+    "multiple_choice_options": [
+    "Bishkek"
+]
+  } ,
+    {
+    "is_required": true,
+    "question_type": "MULTIPLE_CHOICE",
+    "label": "Как вы будете выполнять доставку?",
+    "multiple_choice_options": [
+      "Мотоцикл",
+      "Автомобиль",
+      "Велосипед"
+    ]
+  } ,
+    {
+    "is_required": true,
+    "question_type": "MULTIPLE_CHOICE",
+    "label": "Выберите предпочтительные часы сотрудничества",
+    "multiple_choice_options": [
+      "Выходные дни: обед/ужин (пиковые часы)",
+      "Выходные дни: утро/день/ночь (более низкий спрос)",
+      "Будние дни: обед/ужин (пиковые часы)",
+      "Будние дни: утро/день/ночь (более низкий спрос)"
+    ]
+  }
+]
