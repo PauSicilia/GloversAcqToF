@@ -49122,6 +49122,2592 @@ Echipa Glovo]]></description>
 <!-- END RO -->
 <!-- END RO -->
 
+<!-- UA -->
+<!-- UA -->
+<!-- UA -->
+<!-- UA -->
+<!-- UA -->
+
+<job>
+
+<!-- basic info -->
+<title><![CDATA[кур'єр]]></title>
+<date><![CDATA[11/13/2020 0:00:00]]></date>
+<id><![CDATA[ZHY001]]></id>
+<photo-url><![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/Glovers_LandingPageBG_FullBG_FBJobs.jpg]]></photo-url>
+<description><![CDATA[Glovo потрібні кур'єри вашому місті. І ми хочемо, щоб такі, як ви доставляли з нами!
+
+Що ви робитимете:
+У ролі кур'єра ви будете отримувати замовлення в нашому додатку та доставляти їх адресатам у межах міста. Від їжі з ресторану до продуктів з магазину, від подарунків до забутого зарядного пристрою — ви приємно здивовуватимете клієнтів, доставляючи їм щозавгодно!
+До доставки приймаються тільки невеликі замовлення вагою до 8 кг. Ми доставляємо тільки те, що поміщається в рюкзак кур'єра. Деякі з переваг:
+
+Розпочніть вже зараз
+
+Отримуйте дохід щотижня
+
+Доставляйте у зручний час та за гнучким графіком: ви самі обираєте кількість годин щотижня, — ваш графік, ваші правила!
+
+Дохід за замовлення складається з фіксованої плати + додаткової плати за кілометраж і час
+
+Що вам знадобиться:
+Вільне володіння українською чи російською мовою
+Наявність смартфона
+Свій власний транспорт (велосипед, автомобіль або мотоцикл; ви також можете доставляти замовлення пішки)
+Готовність доставляти!
+
+Як зареєструватися:
+Натисніть на кнопку вище, зареєструйтесь, заповнивши форму, і ми негайно надішлемо вам електронного листа з інформацією про подальші кроки.
+
+
+Дякуємо,
+Команда Glovo]]></description>
+
+<!-- company info -->
+<company-name><![CDATA[Glovo]]></company-name>
+<company-id><![CDATA[694544614247106]]></company-id>
+<company-full-address><![CDATA[Barcelona, Spain 08005]]></company-full-address>
+<company-facebook-url>
+    <![CDATA[https://www.facebook.com/GlovoAppUA/]]>
+</company-facebook-url>
+<company-data-policy-url>
+    <![CDATA[https://glovoapp.com/uk/legal/terms]]>
+</company-data-policy-url>
+<company-url><![CDATA[https://glovoapp.com/uk/glovers?utm_source=fb_jobs&utm_campaign=fbjobs]]></company-url>
+<company-page-matching-approach><![CDATA[standard]]></company-page-matching-approach>
+
+<!-- location -->
+<city><![CDATA[Zhytomyr]]></city>
+<country><![CDATA[UA]]></country>
+<postal-code><![CDATA[10000]]></postal-code>
+
+<!-- salary -->
+
+<salary><![CDATA[110]]></salary>
+<salary-currency><![CDATA[UAH]]></salary-currency>
+<salary-type><![CDATA[hourly]]></salary-type>
+
+<!-- integration configuration -->
+
+<facebook-apply-data>
+    <application-callback-url>
+    <![CDATA[https://hooks.zapier.com/hooks/catch/6544537/ogdn5q6/]]>
+    </application-callback-url>
+    <custom-questions-url>
+    <![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/FBjobs_JSON_CustomQuestion_UA.xml]]>
+    </custom-questions-url>
+    <form-config>
+        <email-field>
+            <optional><![CDATA[false]]></optional>
+        </email-field>
+        <phone-number-field>
+            <optional><![CDATA[false]]></optional>
+        </phone-number-field>
+        <work-experience-field>
+            <optional><![CDATA[true]]></optional>
+        </work-experience-field>
+    </form-config>
+</facebook-apply-data>
+
+</job>
+
+
+<job>
+
+<!-- basic info -->
+<title><![CDATA[кур'єр]]></title>
+<date><![CDATA[11/13/2020 0:00:00]]></date>
+<id><![CDATA[KYI001]]></id>
+<photo-url><![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/Glovers_LandingPageBG_FullBG_FBJobs.jpg]]></photo-url>
+<description><![CDATA[Glovo потрібні кур'єри вашому місті. І ми хочемо, щоб такі, як ви доставляли з нами!
+
+Що ви робитимете:
+У ролі кур'єра ви будете отримувати замовлення в нашому додатку та доставляти їх адресатам у межах міста. Від їжі з ресторану до продуктів з магазину, від подарунків до забутого зарядного пристрою — ви приємно здивовуватимете клієнтів, доставляючи їм щозавгодно!
+До доставки приймаються тільки невеликі замовлення вагою до 8 кг. Ми доставляємо тільки те, що поміщається в рюкзак кур'єра. Деякі з переваг:
+
+Розпочніть вже зараз
+
+Отримуйте дохід щотижня
+
+Доставляйте у зручний час та за гнучким графіком: ви самі обираєте кількість годин щотижня, — ваш графік, ваші правила!
+
+Дохід за замовлення складається з фіксованої плати + додаткової плати за кілометраж і час
+
+Що вам знадобиться:
+Вільне володіння українською чи російською мовою
+Наявність смартфона
+Свій власний транспорт (велосипед, автомобіль або мотоцикл; ви також можете доставляти замовлення пішки)
+Готовність доставляти!
+
+Як зареєструватися:
+Натисніть на кнопку вище, зареєструйтесь, заповнивши форму, і ми негайно надішлемо вам електронного листа з інформацією про подальші кроки.
+
+
+Дякуємо,
+Команда Glovo]]></description>
+
+<!-- company info -->
+<company-name><![CDATA[Glovo]]></company-name>
+<company-id><![CDATA[694544614247106]]></company-id>
+<company-full-address><![CDATA[Barcelona, Spain 08005]]></company-full-address>
+<company-facebook-url>
+    <![CDATA[https://www.facebook.com/GlovoAppUA/]]>
+</company-facebook-url>
+<company-data-policy-url>
+    <![CDATA[https://glovoapp.com/uk/legal/terms]]>
+</company-data-policy-url>
+<company-url><![CDATA[https://glovoapp.com/uk/glovers?utm_source=fb_jobs&utm_campaign=fbjobs]]></company-url>
+<company-page-matching-approach><![CDATA[standard]]></company-page-matching-approach>
+
+<!-- location -->
+<city><![CDATA[Kyiv Left]]></city>
+<country><![CDATA[UA]]></country>
+<postal-code><![CDATA[01001]]></postal-code>
+
+<!-- salary -->
+
+<salary><![CDATA[110]]></salary>
+<salary-currency><![CDATA[UAH]]></salary-currency>
+<salary-type><![CDATA[hourly]]></salary-type>
+
+<!-- integration configuration -->
+
+<facebook-apply-data>
+    <application-callback-url>
+    <![CDATA[https://hooks.zapier.com/hooks/catch/6544537/ogdn5q6/]]>
+    </application-callback-url>
+    <custom-questions-url>
+    <![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/FBjobs_JSON_CustomQuestion_UA.xml]]>
+    </custom-questions-url>
+    <form-config>
+        <email-field>
+            <optional><![CDATA[false]]></optional>
+        </email-field>
+        <phone-number-field>
+            <optional><![CDATA[false]]></optional>
+        </phone-number-field>
+        <work-experience-field>
+            <optional><![CDATA[true]]></optional>
+        </work-experience-field>
+    </form-config>
+</facebook-apply-data>
+
+</job>
+
+
+<job>
+
+<!-- basic info -->
+<title><![CDATA[кур'єр]]></title>
+<date><![CDATA[11/13/2020 0:00:00]]></date>
+<id><![CDATA[LUT001]]></id>
+<photo-url><![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/Glovers_LandingPageBG_FullBG_FBJobs.jpg]]></photo-url>
+<description><![CDATA[Glovo потрібні кур'єри вашому місті. І ми хочемо, щоб такі, як ви доставляли з нами!
+
+Що ви робитимете:
+У ролі кур'єра ви будете отримувати замовлення в нашому додатку та доставляти їх адресатам у межах міста. Від їжі з ресторану до продуктів з магазину, від подарунків до забутого зарядного пристрою — ви приємно здивовуватимете клієнтів, доставляючи їм щозавгодно!
+До доставки приймаються тільки невеликі замовлення вагою до 8 кг. Ми доставляємо тільки те, що поміщається в рюкзак кур'єра. Деякі з переваг:
+
+Розпочніть вже зараз
+
+Отримуйте дохід щотижня
+
+Доставляйте у зручний час та за гнучким графіком: ви самі обираєте кількість годин щотижня, — ваш графік, ваші правила!
+
+Дохід за замовлення складається з фіксованої плати + додаткової плати за кілометраж і час
+
+Що вам знадобиться:
+Вільне володіння українською чи російською мовою
+Наявність смартфона
+Свій власний транспорт (велосипед, автомобіль або мотоцикл; ви також можете доставляти замовлення пішки)
+Готовність доставляти!
+
+Як зареєструватися:
+Натисніть на кнопку вище, зареєструйтесь, заповнивши форму, і ми негайно надішлемо вам електронного листа з інформацією про подальші кроки.
+
+
+Дякуємо,
+Команда Glovo]]></description>
+
+<!-- company info -->
+<company-name><![CDATA[Glovo]]></company-name>
+<company-id><![CDATA[694544614247106]]></company-id>
+<company-full-address><![CDATA[Barcelona, Spain 08005]]></company-full-address>
+<company-facebook-url>
+    <![CDATA[https://www.facebook.com/GlovoAppUA/]]>
+</company-facebook-url>
+<company-data-policy-url>
+    <![CDATA[https://glovoapp.com/uk/legal/terms]]>
+</company-data-policy-url>
+<company-url><![CDATA[https://glovoapp.com/uk/glovers?utm_source=fb_jobs&utm_campaign=fbjobs]]></company-url>
+<company-page-matching-approach><![CDATA[standard]]></company-page-matching-approach>
+
+<!-- location -->
+<city><![CDATA[Lutsk]]></city>
+<country><![CDATA[UA]]></country>
+<postal-code><![CDATA[43000]]></postal-code>
+
+<!-- salary -->
+
+<salary><![CDATA[110]]></salary>
+<salary-currency><![CDATA[UAH]]></salary-currency>
+<salary-type><![CDATA[hourly]]></salary-type>
+
+<!-- integration configuration -->
+
+<facebook-apply-data>
+    <application-callback-url>
+    <![CDATA[https://hooks.zapier.com/hooks/catch/6544537/ogdn5q6/]]>
+    </application-callback-url>
+    <custom-questions-url>
+    <![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/FBjobs_JSON_CustomQuestion_UA.xml]]>
+    </custom-questions-url>
+    <form-config>
+        <email-field>
+            <optional><![CDATA[false]]></optional>
+        </email-field>
+        <phone-number-field>
+            <optional><![CDATA[false]]></optional>
+        </phone-number-field>
+        <work-experience-field>
+            <optional><![CDATA[true]]></optional>
+        </work-experience-field>
+    </form-config>
+</facebook-apply-data>
+
+</job>
+
+
+<job>
+
+<!-- basic info -->
+<title><![CDATA[кур'єр]]></title>
+<date><![CDATA[11/13/2020 0:00:00]]></date>
+<id><![CDATA[CHK001]]></id>
+<photo-url><![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/Glovers_LandingPageBG_FullBG_FBJobs.jpg]]></photo-url>
+<description><![CDATA[Glovo потрібні кур'єри вашому місті. І ми хочемо, щоб такі, як ви доставляли з нами!
+
+Що ви робитимете:
+У ролі кур'єра ви будете отримувати замовлення в нашому додатку та доставляти їх адресатам у межах міста. Від їжі з ресторану до продуктів з магазину, від подарунків до забутого зарядного пристрою — ви приємно здивовуватимете клієнтів, доставляючи їм щозавгодно!
+До доставки приймаються тільки невеликі замовлення вагою до 8 кг. Ми доставляємо тільки те, що поміщається в рюкзак кур'єра. Деякі з переваг:
+
+Розпочніть вже зараз
+
+Отримуйте дохід щотижня
+
+Доставляйте у зручний час та за гнучким графіком: ви самі обираєте кількість годин щотижня, — ваш графік, ваші правила!
+
+Дохід за замовлення складається з фіксованої плати + додаткової плати за кілометраж і час
+
+Що вам знадобиться:
+Вільне володіння українською чи російською мовою
+Наявність смартфона
+Свій власний транспорт (велосипед, автомобіль або мотоцикл; ви також можете доставляти замовлення пішки)
+Готовність доставляти!
+
+Як зареєструватися:
+Натисніть на кнопку вище, зареєструйтесь, заповнивши форму, і ми негайно надішлемо вам електронного листа з інформацією про подальші кроки.
+
+
+Дякуємо,
+Команда Glovo]]></description>
+
+<!-- company info -->
+<company-name><![CDATA[Glovo]]></company-name>
+<company-id><![CDATA[694544614247106]]></company-id>
+<company-full-address><![CDATA[Barcelona, Spain 08005]]></company-full-address>
+<company-facebook-url>
+    <![CDATA[https://www.facebook.com/GlovoAppUA/]]>
+</company-facebook-url>
+<company-data-policy-url>
+    <![CDATA[https://glovoapp.com/uk/legal/terms]]>
+</company-data-policy-url>
+<company-url><![CDATA[https://glovoapp.com/uk/glovers?utm_source=fb_jobs&utm_campaign=fbjobs]]></company-url>
+<company-page-matching-approach><![CDATA[standard]]></company-page-matching-approach>
+
+<!-- location -->
+<city><![CDATA[Cherkasy]]></city>
+<country><![CDATA[UA]]></country>
+<postal-code><![CDATA[18000]]></postal-code>
+
+<!-- salary -->
+
+<salary><![CDATA[110]]></salary>
+<salary-currency><![CDATA[UAH]]></salary-currency>
+<salary-type><![CDATA[hourly]]></salary-type>
+
+<!-- integration configuration -->
+
+<facebook-apply-data>
+    <application-callback-url>
+    <![CDATA[https://hooks.zapier.com/hooks/catch/6544537/ogdn5q6/]]>
+    </application-callback-url>
+    <custom-questions-url>
+    <![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/FBjobs_JSON_CustomQuestion_UA.xml]]>
+    </custom-questions-url>
+    <form-config>
+        <email-field>
+            <optional><![CDATA[false]]></optional>
+        </email-field>
+        <phone-number-field>
+            <optional><![CDATA[false]]></optional>
+        </phone-number-field>
+        <work-experience-field>
+            <optional><![CDATA[true]]></optional>
+        </work-experience-field>
+    </form-config>
+</facebook-apply-data>
+
+</job>
+
+
+<job>
+
+<!-- basic info -->
+<title><![CDATA[кур'єр]]></title>
+<date><![CDATA[11/13/2020 0:00:00]]></date>
+<id><![CDATA[ODE001]]></id>
+<photo-url><![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/Glovers_LandingPageBG_FullBG_FBJobs.jpg]]></photo-url>
+<description><![CDATA[Glovo потрібні кур'єри вашому місті. І ми хочемо, щоб такі, як ви доставляли з нами!
+
+Що ви робитимете:
+У ролі кур'єра ви будете отримувати замовлення в нашому додатку та доставляти їх адресатам у межах міста. Від їжі з ресторану до продуктів з магазину, від подарунків до забутого зарядного пристрою — ви приємно здивовуватимете клієнтів, доставляючи їм щозавгодно!
+До доставки приймаються тільки невеликі замовлення вагою до 8 кг. Ми доставляємо тільки те, що поміщається в рюкзак кур'єра. Деякі з переваг:
+
+Розпочніть вже зараз
+
+Отримуйте дохід щотижня
+
+Доставляйте у зручний час та за гнучким графіком: ви самі обираєте кількість годин щотижня, — ваш графік, ваші правила!
+
+Дохід за замовлення складається з фіксованої плати + додаткової плати за кілометраж і час
+
+Що вам знадобиться:
+Вільне володіння українською чи російською мовою
+Наявність смартфона
+Свій власний транспорт (велосипед, автомобіль або мотоцикл; ви також можете доставляти замовлення пішки)
+Готовність доставляти!
+
+Як зареєструватися:
+Натисніть на кнопку вище, зареєструйтесь, заповнивши форму, і ми негайно надішлемо вам електронного листа з інформацією про подальші кроки.
+
+
+Дякуємо,
+Команда Glovo]]></description>
+
+<!-- company info -->
+<company-name><![CDATA[Glovo]]></company-name>
+<company-id><![CDATA[694544614247106]]></company-id>
+<company-full-address><![CDATA[Barcelona, Spain 08005]]></company-full-address>
+<company-facebook-url>
+    <![CDATA[https://www.facebook.com/GlovoAppUA/]]>
+</company-facebook-url>
+<company-data-policy-url>
+    <![CDATA[https://glovoapp.com/uk/legal/terms]]>
+</company-data-policy-url>
+<company-url><![CDATA[https://glovoapp.com/uk/glovers?utm_source=fb_jobs&utm_campaign=fbjobs]]></company-url>
+<company-page-matching-approach><![CDATA[standard]]></company-page-matching-approach>
+
+<!-- location -->
+<city><![CDATA[Odessa Суворовский]]></city>
+<country><![CDATA[UA]]></country>
+<postal-code><![CDATA[65000]]></postal-code>
+
+<!-- salary -->
+
+<salary><![CDATA[110]]></salary>
+<salary-currency><![CDATA[UAH]]></salary-currency>
+<salary-type><![CDATA[hourly]]></salary-type>
+
+<!-- integration configuration -->
+
+<facebook-apply-data>
+    <application-callback-url>
+    <![CDATA[https://hooks.zapier.com/hooks/catch/6544537/ogdn5q6/]]>
+    </application-callback-url>
+    <custom-questions-url>
+    <![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/FBjobs_JSON_CustomQuestion_UA.xml]]>
+    </custom-questions-url>
+    <form-config>
+        <email-field>
+            <optional><![CDATA[false]]></optional>
+        </email-field>
+        <phone-number-field>
+            <optional><![CDATA[false]]></optional>
+        </phone-number-field>
+        <work-experience-field>
+            <optional><![CDATA[true]]></optional>
+        </work-experience-field>
+    </form-config>
+</facebook-apply-data>
+
+</job>
+
+
+<job>
+
+<!-- basic info -->
+<title><![CDATA[кур'єр]]></title>
+<date><![CDATA[11/13/2020 0:00:00]]></date>
+<id><![CDATA[KIW001]]></id>
+<photo-url><![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/Glovers_LandingPageBG_FullBG_FBJobs.jpg]]></photo-url>
+<description><![CDATA[Glovo потрібні кур'єри вашому місті. І ми хочемо, щоб такі, як ви доставляли з нами!
+
+Що ви робитимете:
+У ролі кур'єра ви будете отримувати замовлення в нашому додатку та доставляти їх адресатам у межах міста. Від їжі з ресторану до продуктів з магазину, від подарунків до забутого зарядного пристрою — ви приємно здивовуватимете клієнтів, доставляючи їм щозавгодно!
+До доставки приймаються тільки невеликі замовлення вагою до 8 кг. Ми доставляємо тільки те, що поміщається в рюкзак кур'єра. Деякі з переваг:
+
+Розпочніть вже зараз
+
+Отримуйте дохід щотижня
+
+Доставляйте у зручний час та за гнучким графіком: ви самі обираєте кількість годин щотижня, — ваш графік, ваші правила!
+
+Дохід за замовлення складається з фіксованої плати + додаткової плати за кілометраж і час
+
+Що вам знадобиться:
+Вільне володіння українською чи російською мовою
+Наявність смартфона
+Свій власний транспорт (велосипед, автомобіль або мотоцикл; ви також можете доставляти замовлення пішки)
+Готовність доставляти!
+
+Як зареєструватися:
+Натисніть на кнопку вище, зареєструйтесь, заповнивши форму, і ми негайно надішлемо вам електронного листа з інформацією про подальші кроки.
+
+
+Дякуємо,
+Команда Glovo]]></description>
+
+<!-- company info -->
+<company-name><![CDATA[Glovo]]></company-name>
+<company-id><![CDATA[694544614247106]]></company-id>
+<company-full-address><![CDATA[Barcelona, Spain 08005]]></company-full-address>
+<company-facebook-url>
+    <![CDATA[https://www.facebook.com/GlovoAppUA/]]>
+</company-facebook-url>
+<company-data-policy-url>
+    <![CDATA[https://glovoapp.com/uk/legal/terms]]>
+</company-data-policy-url>
+<company-url><![CDATA[https://glovoapp.com/uk/glovers?utm_source=fb_jobs&utm_campaign=fbjobs]]></company-url>
+<company-page-matching-approach><![CDATA[standard]]></company-page-matching-approach>
+
+<!-- location -->
+<city><![CDATA[Kyiv West]]></city>
+<country><![CDATA[UA]]></country>
+<postal-code><![CDATA[01001]]></postal-code>
+
+<!-- salary -->
+
+<salary><![CDATA[110]]></salary>
+<salary-currency><![CDATA[UAH]]></salary-currency>
+<salary-type><![CDATA[hourly]]></salary-type>
+
+<!-- integration configuration -->
+
+<facebook-apply-data>
+    <application-callback-url>
+    <![CDATA[https://hooks.zapier.com/hooks/catch/6544537/ogdn5q6/]]>
+    </application-callback-url>
+    <custom-questions-url>
+    <![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/FBjobs_JSON_CustomQuestion_UA.xml]]>
+    </custom-questions-url>
+    <form-config>
+        <email-field>
+            <optional><![CDATA[false]]></optional>
+        </email-field>
+        <phone-number-field>
+            <optional><![CDATA[false]]></optional>
+        </phone-number-field>
+        <work-experience-field>
+            <optional><![CDATA[true]]></optional>
+        </work-experience-field>
+    </form-config>
+</facebook-apply-data>
+
+</job>
+
+
+<job>
+
+<!-- basic info -->
+<title><![CDATA[кур'єр]]></title>
+<date><![CDATA[11/13/2020 0:00:00]]></date>
+<id><![CDATA[POL001]]></id>
+<photo-url><![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/Glovers_LandingPageBG_FullBG_FBJobs.jpg]]></photo-url>
+<description><![CDATA[Glovo потрібні кур'єри вашому місті. І ми хочемо, щоб такі, як ви доставляли з нами!
+
+Що ви робитимете:
+У ролі кур'єра ви будете отримувати замовлення в нашому додатку та доставляти їх адресатам у межах міста. Від їжі з ресторану до продуктів з магазину, від подарунків до забутого зарядного пристрою — ви приємно здивовуватимете клієнтів, доставляючи їм щозавгодно!
+До доставки приймаються тільки невеликі замовлення вагою до 8 кг. Ми доставляємо тільки те, що поміщається в рюкзак кур'єра. Деякі з переваг:
+
+Розпочніть вже зараз
+
+Отримуйте дохід щотижня
+
+Доставляйте у зручний час та за гнучким графіком: ви самі обираєте кількість годин щотижня, — ваш графік, ваші правила!
+
+Дохід за замовлення складається з фіксованої плати + додаткової плати за кілометраж і час
+
+Що вам знадобиться:
+Вільне володіння українською чи російською мовою
+Наявність смартфона
+Свій власний транспорт (велосипед, автомобіль або мотоцикл; ви також можете доставляти замовлення пішки)
+Готовність доставляти!
+
+Як зареєструватися:
+Натисніть на кнопку вище, зареєструйтесь, заповнивши форму, і ми негайно надішлемо вам електронного листа з інформацією про подальші кроки.
+
+
+Дякуємо,
+Команда Glovo]]></description>
+
+<!-- company info -->
+<company-name><![CDATA[Glovo]]></company-name>
+<company-id><![CDATA[694544614247106]]></company-id>
+<company-full-address><![CDATA[Barcelona, Spain 08005]]></company-full-address>
+<company-facebook-url>
+    <![CDATA[https://www.facebook.com/GlovoAppUA/]]>
+</company-facebook-url>
+<company-data-policy-url>
+    <![CDATA[https://glovoapp.com/uk/legal/terms]]>
+</company-data-policy-url>
+<company-url><![CDATA[https://glovoapp.com/uk/glovers?utm_source=fb_jobs&utm_campaign=fbjobs]]></company-url>
+<company-page-matching-approach><![CDATA[standard]]></company-page-matching-approach>
+
+<!-- location -->
+<city><![CDATA[Poltava]]></city>
+<country><![CDATA[UA]]></country>
+<postal-code><![CDATA[36000]]></postal-code>
+
+<!-- salary -->
+
+<salary><![CDATA[110]]></salary>
+<salary-currency><![CDATA[UAH]]></salary-currency>
+<salary-type><![CDATA[hourly]]></salary-type>
+
+<!-- integration configuration -->
+
+<facebook-apply-data>
+    <application-callback-url>
+    <![CDATA[https://hooks.zapier.com/hooks/catch/6544537/ogdn5q6/]]>
+    </application-callback-url>
+    <custom-questions-url>
+    <![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/FBjobs_JSON_CustomQuestion_UA.xml]]>
+    </custom-questions-url>
+    <form-config>
+        <email-field>
+            <optional><![CDATA[false]]></optional>
+        </email-field>
+        <phone-number-field>
+            <optional><![CDATA[false]]></optional>
+        </phone-number-field>
+        <work-experience-field>
+            <optional><![CDATA[true]]></optional>
+        </work-experience-field>
+    </form-config>
+</facebook-apply-data>
+
+</job>
+
+
+<job>
+
+<!-- basic info -->
+<title><![CDATA[кур'єр]]></title>
+<date><![CDATA[11/13/2020 0:00:00]]></date>
+<id><![CDATA[CHE001]]></id>
+<photo-url><![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/Glovers_LandingPageBG_FullBG_FBJobs.jpg]]></photo-url>
+<description><![CDATA[Glovo потрібні кур'єри вашому місті. І ми хочемо, щоб такі, як ви доставляли з нами!
+
+Що ви робитимете:
+У ролі кур'єра ви будете отримувати замовлення в нашому додатку та доставляти їх адресатам у межах міста. Від їжі з ресторану до продуктів з магазину, від подарунків до забутого зарядного пристрою — ви приємно здивовуватимете клієнтів, доставляючи їм щозавгодно!
+До доставки приймаються тільки невеликі замовлення вагою до 8 кг. Ми доставляємо тільки те, що поміщається в рюкзак кур'єра. Деякі з переваг:
+
+Розпочніть вже зараз
+
+Отримуйте дохід щотижня
+
+Доставляйте у зручний час та за гнучким графіком: ви самі обираєте кількість годин щотижня, — ваш графік, ваші правила!
+
+Дохід за замовлення складається з фіксованої плати + додаткової плати за кілометраж і час
+
+Що вам знадобиться:
+Вільне володіння українською чи російською мовою
+Наявність смартфона
+Свій власний транспорт (велосипед, автомобіль або мотоцикл; ви також можете доставляти замовлення пішки)
+Готовність доставляти!
+
+Як зареєструватися:
+Натисніть на кнопку вище, зареєструйтесь, заповнивши форму, і ми негайно надішлемо вам електронного листа з інформацією про подальші кроки.
+
+
+Дякуємо,
+Команда Glovo]]></description>
+
+<!-- company info -->
+<company-name><![CDATA[Glovo]]></company-name>
+<company-id><![CDATA[694544614247106]]></company-id>
+<company-full-address><![CDATA[Barcelona, Spain 08005]]></company-full-address>
+<company-facebook-url>
+    <![CDATA[https://www.facebook.com/GlovoAppUA/]]>
+</company-facebook-url>
+<company-data-policy-url>
+    <![CDATA[https://glovoapp.com/uk/legal/terms]]>
+</company-data-policy-url>
+<company-url><![CDATA[https://glovoapp.com/uk/glovers?utm_source=fb_jobs&utm_campaign=fbjobs]]></company-url>
+<company-page-matching-approach><![CDATA[standard]]></company-page-matching-approach>
+
+<!-- location -->
+<city><![CDATA[Chernigov]]></city>
+<country><![CDATA[UA]]></country>
+<postal-code><![CDATA[14000]]></postal-code>
+
+<!-- salary -->
+
+<salary><![CDATA[110]]></salary>
+<salary-currency><![CDATA[UAH]]></salary-currency>
+<salary-type><![CDATA[hourly]]></salary-type>
+
+<!-- integration configuration -->
+
+<facebook-apply-data>
+    <application-callback-url>
+    <![CDATA[https://hooks.zapier.com/hooks/catch/6544537/ogdn5q6/]]>
+    </application-callback-url>
+    <custom-questions-url>
+    <![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/FBjobs_JSON_CustomQuestion_UA.xml]]>
+    </custom-questions-url>
+    <form-config>
+        <email-field>
+            <optional><![CDATA[false]]></optional>
+        </email-field>
+        <phone-number-field>
+            <optional><![CDATA[false]]></optional>
+        </phone-number-field>
+        <work-experience-field>
+            <optional><![CDATA[true]]></optional>
+        </work-experience-field>
+    </form-config>
+</facebook-apply-data>
+
+</job>
+
+
+<job>
+
+<!-- basic info -->
+<title><![CDATA[кур'єр]]></title>
+<date><![CDATA[11/13/2020 0:00:00]]></date>
+<id><![CDATA[IRP001]]></id>
+<photo-url><![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/Glovers_LandingPageBG_FullBG_FBJobs.jpg]]></photo-url>
+<description><![CDATA[Glovo потрібні кур'єри вашому місті. І ми хочемо, щоб такі, як ви доставляли з нами!
+
+Що ви робитимете:
+У ролі кур'єра ви будете отримувати замовлення в нашому додатку та доставляти їх адресатам у межах міста. Від їжі з ресторану до продуктів з магазину, від подарунків до забутого зарядного пристрою — ви приємно здивовуватимете клієнтів, доставляючи їм щозавгодно!
+До доставки приймаються тільки невеликі замовлення вагою до 8 кг. Ми доставляємо тільки те, що поміщається в рюкзак кур'єра. Деякі з переваг:
+
+Розпочніть вже зараз
+
+Отримуйте дохід щотижня
+
+Доставляйте у зручний час та за гнучким графіком: ви самі обираєте кількість годин щотижня, — ваш графік, ваші правила!
+
+Дохід за замовлення складається з фіксованої плати + додаткової плати за кілометраж і час
+
+Що вам знадобиться:
+Вільне володіння українською чи російською мовою
+Наявність смартфона
+Свій власний транспорт (велосипед, автомобіль або мотоцикл; ви також можете доставляти замовлення пішки)
+Готовність доставляти!
+
+Як зареєструватися:
+Натисніть на кнопку вище, зареєструйтесь, заповнивши форму, і ми негайно надішлемо вам електронного листа з інформацією про подальші кроки.
+
+
+Дякуємо,
+Команда Glovo]]></description>
+
+<!-- company info -->
+<company-name><![CDATA[Glovo]]></company-name>
+<company-id><![CDATA[694544614247106]]></company-id>
+<company-full-address><![CDATA[Barcelona, Spain 08005]]></company-full-address>
+<company-facebook-url>
+    <![CDATA[https://www.facebook.com/GlovoAppUA/]]>
+</company-facebook-url>
+<company-data-policy-url>
+    <![CDATA[https://glovoapp.com/uk/legal/terms]]>
+</company-data-policy-url>
+<company-url><![CDATA[https://glovoapp.com/uk/glovers?utm_source=fb_jobs&utm_campaign=fbjobs]]></company-url>
+<company-page-matching-approach><![CDATA[standard]]></company-page-matching-approach>
+
+<!-- location -->
+<city><![CDATA[Irpin - Bucha]]></city>
+<country><![CDATA[UA]]></country>
+<postal-code><![CDATA[08200]]></postal-code>
+
+<!-- salary -->
+
+<salary><![CDATA[110]]></salary>
+<salary-currency><![CDATA[UAH]]></salary-currency>
+<salary-type><![CDATA[hourly]]></salary-type>
+
+<!-- integration configuration -->
+
+<facebook-apply-data>
+    <application-callback-url>
+    <![CDATA[https://hooks.zapier.com/hooks/catch/6544537/ogdn5q6/]]>
+    </application-callback-url>
+    <custom-questions-url>
+    <![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/FBjobs_JSON_CustomQuestion_UA.xml]]>
+    </custom-questions-url>
+    <form-config>
+        <email-field>
+            <optional><![CDATA[false]]></optional>
+        </email-field>
+        <phone-number-field>
+            <optional><![CDATA[false]]></optional>
+        </phone-number-field>
+        <work-experience-field>
+            <optional><![CDATA[true]]></optional>
+        </work-experience-field>
+    </form-config>
+</facebook-apply-data>
+
+</job>
+
+
+<job>
+
+<!-- basic info -->
+<title><![CDATA[кур'єр]]></title>
+<date><![CDATA[11/13/2020 0:00:00]]></date>
+<id><![CDATA[KHA001]]></id>
+<photo-url><![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/Glovers_LandingPageBG_FullBG_FBJobs.jpg]]></photo-url>
+<description><![CDATA[Glovo потрібні кур'єри вашому місті. І ми хочемо, щоб такі, як ви доставляли з нами!
+
+Що ви робитимете:
+У ролі кур'єра ви будете отримувати замовлення в нашому додатку та доставляти їх адресатам у межах міста. Від їжі з ресторану до продуктів з магазину, від подарунків до забутого зарядного пристрою — ви приємно здивовуватимете клієнтів, доставляючи їм щозавгодно!
+До доставки приймаються тільки невеликі замовлення вагою до 8 кг. Ми доставляємо тільки те, що поміщається в рюкзак кур'єра. Деякі з переваг:
+
+Розпочніть вже зараз
+
+Отримуйте дохід щотижня
+
+Доставляйте у зручний час та за гнучким графіком: ви самі обираєте кількість годин щотижня, — ваш графік, ваші правила!
+
+Дохід за замовлення складається з фіксованої плати + додаткової плати за кілометраж і час
+
+Що вам знадобиться:
+Вільне володіння українською чи російською мовою
+Наявність смартфона
+Свій власний транспорт (велосипед, автомобіль або мотоцикл; ви також можете доставляти замовлення пішки)
+Готовність доставляти!
+
+Як зареєструватися:
+Натисніть на кнопку вище, зареєструйтесь, заповнивши форму, і ми негайно надішлемо вам електронного листа з інформацією про подальші кроки.
+
+
+Дякуємо,
+Команда Glovo]]></description>
+
+<!-- company info -->
+<company-name><![CDATA[Glovo]]></company-name>
+<company-id><![CDATA[694544614247106]]></company-id>
+<company-full-address><![CDATA[Barcelona, Spain 08005]]></company-full-address>
+<company-facebook-url>
+    <![CDATA[https://www.facebook.com/GlovoAppUA/]]>
+</company-facebook-url>
+<company-data-policy-url>
+    <![CDATA[https://glovoapp.com/uk/legal/terms]]>
+</company-data-policy-url>
+<company-url><![CDATA[https://glovoapp.com/uk/glovers?utm_source=fb_jobs&utm_campaign=fbjobs]]></company-url>
+<company-page-matching-approach><![CDATA[standard]]></company-page-matching-approach>
+
+<!-- location -->
+<city><![CDATA[Kharkiv]]></city>
+<country><![CDATA[UA]]></country>
+<postal-code><![CDATA[61000]]></postal-code>
+
+<!-- salary -->
+
+<salary><![CDATA[110]]></salary>
+<salary-currency><![CDATA[UAH]]></salary-currency>
+<salary-type><![CDATA[hourly]]></salary-type>
+
+<!-- integration configuration -->
+
+<facebook-apply-data>
+    <application-callback-url>
+    <![CDATA[https://hooks.zapier.com/hooks/catch/6544537/ogdn5q6/]]>
+    </application-callback-url>
+    <custom-questions-url>
+    <![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/FBjobs_JSON_CustomQuestion_UA.xml]]>
+    </custom-questions-url>
+    <form-config>
+        <email-field>
+            <optional><![CDATA[false]]></optional>
+        </email-field>
+        <phone-number-field>
+            <optional><![CDATA[false]]></optional>
+        </phone-number-field>
+        <work-experience-field>
+            <optional><![CDATA[true]]></optional>
+        </work-experience-field>
+    </form-config>
+</facebook-apply-data>
+
+</job>
+
+
+<job>
+
+<!-- basic info -->
+<title><![CDATA[кур'єр]]></title>
+<date><![CDATA[11/13/2020 0:00:00]]></date>
+<id><![CDATA[KHM001]]></id>
+<photo-url><![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/Glovers_LandingPageBG_FullBG_FBJobs.jpg]]></photo-url>
+<description><![CDATA[Glovo потрібні кур'єри вашому місті. І ми хочемо, щоб такі, як ви доставляли з нами!
+
+Що ви робитимете:
+У ролі кур'єра ви будете отримувати замовлення в нашому додатку та доставляти їх адресатам у межах міста. Від їжі з ресторану до продуктів з магазину, від подарунків до забутого зарядного пристрою — ви приємно здивовуватимете клієнтів, доставляючи їм щозавгодно!
+До доставки приймаються тільки невеликі замовлення вагою до 8 кг. Ми доставляємо тільки те, що поміщається в рюкзак кур'єра. Деякі з переваг:
+
+Розпочніть вже зараз
+
+Отримуйте дохід щотижня
+
+Доставляйте у зручний час та за гнучким графіком: ви самі обираєте кількість годин щотижня, — ваш графік, ваші правила!
+
+Дохід за замовлення складається з фіксованої плати + додаткової плати за кілометраж і час
+
+Що вам знадобиться:
+Вільне володіння українською чи російською мовою
+Наявність смартфона
+Свій власний транспорт (велосипед, автомобіль або мотоцикл; ви також можете доставляти замовлення пішки)
+Готовність доставляти!
+
+Як зареєструватися:
+Натисніть на кнопку вище, зареєструйтесь, заповнивши форму, і ми негайно надішлемо вам електронного листа з інформацією про подальші кроки.
+
+
+Дякуємо,
+Команда Glovo]]></description>
+
+<!-- company info -->
+<company-name><![CDATA[Glovo]]></company-name>
+<company-id><![CDATA[694544614247106]]></company-id>
+<company-full-address><![CDATA[Barcelona, Spain 08005]]></company-full-address>
+<company-facebook-url>
+    <![CDATA[https://www.facebook.com/GlovoAppUA/]]>
+</company-facebook-url>
+<company-data-policy-url>
+    <![CDATA[https://glovoapp.com/uk/legal/terms]]>
+</company-data-policy-url>
+<company-url><![CDATA[https://glovoapp.com/uk/glovers?utm_source=fb_jobs&utm_campaign=fbjobs]]></company-url>
+<company-page-matching-approach><![CDATA[standard]]></company-page-matching-approach>
+
+<!-- location -->
+<city><![CDATA[Khmelnytskyi]]></city>
+<country><![CDATA[UA]]></country>
+<postal-code><![CDATA[29000]]></postal-code>
+
+<!-- salary -->
+
+<salary><![CDATA[110]]></salary>
+<salary-currency><![CDATA[UAH]]></salary-currency>
+<salary-type><![CDATA[hourly]]></salary-type>
+
+<!-- integration configuration -->
+
+<facebook-apply-data>
+    <application-callback-url>
+    <![CDATA[https://hooks.zapier.com/hooks/catch/6544537/ogdn5q6/]]>
+    </application-callback-url>
+    <custom-questions-url>
+    <![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/FBjobs_JSON_CustomQuestion_UA.xml]]>
+    </custom-questions-url>
+    <form-config>
+        <email-field>
+            <optional><![CDATA[false]]></optional>
+        </email-field>
+        <phone-number-field>
+            <optional><![CDATA[false]]></optional>
+        </phone-number-field>
+        <work-experience-field>
+            <optional><![CDATA[true]]></optional>
+        </work-experience-field>
+    </form-config>
+</facebook-apply-data>
+
+</job>
+
+
+<job>
+
+<!-- basic info -->
+<title><![CDATA[кур'єр]]></title>
+<date><![CDATA[11/13/2020 0:00:00]]></date>
+<id><![CDATA[KIE001]]></id>
+<photo-url><![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/Glovers_LandingPageBG_FullBG_FBJobs.jpg]]></photo-url>
+<description><![CDATA[Glovo потрібні кур'єри вашому місті. І ми хочемо, щоб такі, як ви доставляли з нами!
+
+Що ви робитимете:
+У ролі кур'єра ви будете отримувати замовлення в нашому додатку та доставляти їх адресатам у межах міста. Від їжі з ресторану до продуктів з магазину, від подарунків до забутого зарядного пристрою — ви приємно здивовуватимете клієнтів, доставляючи їм щозавгодно!
+До доставки приймаються тільки невеликі замовлення вагою до 8 кг. Ми доставляємо тільки те, що поміщається в рюкзак кур'єра. Деякі з переваг:
+
+Розпочніть вже зараз
+
+Отримуйте дохід щотижня
+
+Доставляйте у зручний час та за гнучким графіком: ви самі обираєте кількість годин щотижня, — ваш графік, ваші правила!
+
+Дохід за замовлення складається з фіксованої плати + додаткової плати за кілометраж і час
+
+Що вам знадобиться:
+Вільне володіння українською чи російською мовою
+Наявність смартфона
+Свій власний транспорт (велосипед, автомобіль або мотоцикл; ви також можете доставляти замовлення пішки)
+Готовність доставляти!
+
+Як зареєструватися:
+Натисніть на кнопку вище, зареєструйтесь, заповнивши форму, і ми негайно надішлемо вам електронного листа з інформацією про подальші кроки.
+
+
+Дякуємо,
+Команда Glovo]]></description>
+
+<!-- company info -->
+<company-name><![CDATA[Glovo]]></company-name>
+<company-id><![CDATA[694544614247106]]></company-id>
+<company-full-address><![CDATA[Barcelona, Spain 08005]]></company-full-address>
+<company-facebook-url>
+    <![CDATA[https://www.facebook.com/GlovoAppUA/]]>
+</company-facebook-url>
+<company-data-policy-url>
+    <![CDATA[https://glovoapp.com/uk/legal/terms]]>
+</company-data-policy-url>
+<company-url><![CDATA[https://glovoapp.com/uk/glovers?utm_source=fb_jobs&utm_campaign=fbjobs]]></company-url>
+<company-page-matching-approach><![CDATA[standard]]></company-page-matching-approach>
+
+<!-- location -->
+<city><![CDATA[Kyiv Center]]></city>
+<country><![CDATA[UA]]></country>
+<postal-code><![CDATA[01001]]></postal-code>
+
+<!-- salary -->
+
+<salary><![CDATA[110]]></salary>
+<salary-currency><![CDATA[UAH]]></salary-currency>
+<salary-type><![CDATA[hourly]]></salary-type>
+
+<!-- integration configuration -->
+
+<facebook-apply-data>
+    <application-callback-url>
+    <![CDATA[https://hooks.zapier.com/hooks/catch/6544537/ogdn5q6/]]>
+    </application-callback-url>
+    <custom-questions-url>
+    <![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/FBjobs_JSON_CustomQuestion_UA.xml]]>
+    </custom-questions-url>
+    <form-config>
+        <email-field>
+            <optional><![CDATA[false]]></optional>
+        </email-field>
+        <phone-number-field>
+            <optional><![CDATA[false]]></optional>
+        </phone-number-field>
+        <work-experience-field>
+            <optional><![CDATA[true]]></optional>
+        </work-experience-field>
+    </form-config>
+</facebook-apply-data>
+
+</job>
+
+
+<job>
+
+<!-- basic info -->
+<title><![CDATA[кур'єр]]></title>
+<date><![CDATA[11/13/2020 0:00:00]]></date>
+<id><![CDATA[ZPR001]]></id>
+<photo-url><![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/Glovers_LandingPageBG_FullBG_FBJobs.jpg]]></photo-url>
+<description><![CDATA[Glovo потрібні кур'єри вашому місті. І ми хочемо, щоб такі, як ви доставляли з нами!
+
+Що ви робитимете:
+У ролі кур'єра ви будете отримувати замовлення в нашому додатку та доставляти їх адресатам у межах міста. Від їжі з ресторану до продуктів з магазину, від подарунків до забутого зарядного пристрою — ви приємно здивовуватимете клієнтів, доставляючи їм щозавгодно!
+До доставки приймаються тільки невеликі замовлення вагою до 8 кг. Ми доставляємо тільки те, що поміщається в рюкзак кур'єра. Деякі з переваг:
+
+Розпочніть вже зараз
+
+Отримуйте дохід щотижня
+
+Доставляйте у зручний час та за гнучким графіком: ви самі обираєте кількість годин щотижня, — ваш графік, ваші правила!
+
+Дохід за замовлення складається з фіксованої плати + додаткової плати за кілометраж і час
+
+Що вам знадобиться:
+Вільне володіння українською чи російською мовою
+Наявність смартфона
+Свій власний транспорт (велосипед, автомобіль або мотоцикл; ви також можете доставляти замовлення пішки)
+Готовність доставляти!
+
+Як зареєструватися:
+Натисніть на кнопку вище, зареєструйтесь, заповнивши форму, і ми негайно надішлемо вам електронного листа з інформацією про подальші кроки.
+
+
+Дякуємо,
+Команда Glovo]]></description>
+
+<!-- company info -->
+<company-name><![CDATA[Glovo]]></company-name>
+<company-id><![CDATA[694544614247106]]></company-id>
+<company-full-address><![CDATA[Barcelona, Spain 08005]]></company-full-address>
+<company-facebook-url>
+    <![CDATA[https://www.facebook.com/GlovoAppUA/]]>
+</company-facebook-url>
+<company-data-policy-url>
+    <![CDATA[https://glovoapp.com/uk/legal/terms]]>
+</company-data-policy-url>
+<company-url><![CDATA[https://glovoapp.com/uk/glovers?utm_source=fb_jobs&utm_campaign=fbjobs]]></company-url>
+<company-page-matching-approach><![CDATA[standard]]></company-page-matching-approach>
+
+<!-- location -->
+<city><![CDATA[Zaporozhye]]></city>
+<country><![CDATA[UA]]></country>
+<postal-code><![CDATA[69000]]></postal-code>
+
+<!-- salary -->
+
+<salary><![CDATA[110]]></salary>
+<salary-currency><![CDATA[UAH]]></salary-currency>
+<salary-type><![CDATA[hourly]]></salary-type>
+
+<!-- integration configuration -->
+
+<facebook-apply-data>
+    <application-callback-url>
+    <![CDATA[https://hooks.zapier.com/hooks/catch/6544537/ogdn5q6/]]>
+    </application-callback-url>
+    <custom-questions-url>
+    <![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/FBjobs_JSON_CustomQuestion_UA.xml]]>
+    </custom-questions-url>
+    <form-config>
+        <email-field>
+            <optional><![CDATA[false]]></optional>
+        </email-field>
+        <phone-number-field>
+            <optional><![CDATA[false]]></optional>
+        </phone-number-field>
+        <work-experience-field>
+            <optional><![CDATA[true]]></optional>
+        </work-experience-field>
+    </form-config>
+</facebook-apply-data>
+
+</job>
+
+
+<job>
+
+<!-- basic info -->
+<title><![CDATA[кур'єр]]></title>
+<date><![CDATA[11/13/2020 0:00:00]]></date>
+<id><![CDATA[ODS001]]></id>
+<photo-url><![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/Glovers_LandingPageBG_FullBG_FBJobs.jpg]]></photo-url>
+<description><![CDATA[Glovo потрібні кур'єри вашому місті. І ми хочемо, щоб такі, як ви доставляли з нами!
+
+Що ви робитимете:
+У ролі кур'єра ви будете отримувати замовлення в нашому додатку та доставляти їх адресатам у межах міста. Від їжі з ресторану до продуктів з магазину, від подарунків до забутого зарядного пристрою — ви приємно здивовуватимете клієнтів, доставляючи їм щозавгодно!
+До доставки приймаються тільки невеликі замовлення вагою до 8 кг. Ми доставляємо тільки те, що поміщається в рюкзак кур'єра. Деякі з переваг:
+
+Розпочніть вже зараз
+
+Отримуйте дохід щотижня
+
+Доставляйте у зручний час та за гнучким графіком: ви самі обираєте кількість годин щотижня, — ваш графік, ваші правила!
+
+Дохід за замовлення складається з фіксованої плати + додаткової плати за кілометраж і час
+
+Що вам знадобиться:
+Вільне володіння українською чи російською мовою
+Наявність смартфона
+Свій власний транспорт (велосипед, автомобіль або мотоцикл; ви також можете доставляти замовлення пішки)
+Готовність доставляти!
+
+Як зареєструватися:
+Натисніть на кнопку вище, зареєструйтесь, заповнивши форму, і ми негайно надішлемо вам електронного листа з інформацією про подальші кроки.
+
+
+Дякуємо,
+Команда Glovo]]></description>
+
+<!-- company info -->
+<company-name><![CDATA[Glovo]]></company-name>
+<company-id><![CDATA[694544614247106]]></company-id>
+<company-full-address><![CDATA[Barcelona, Spain 08005]]></company-full-address>
+<company-facebook-url>
+    <![CDATA[https://www.facebook.com/GlovoAppUA/]]>
+</company-facebook-url>
+<company-data-policy-url>
+    <![CDATA[https://glovoapp.com/uk/legal/terms]]>
+</company-data-policy-url>
+<company-url><![CDATA[https://glovoapp.com/uk/glovers?utm_source=fb_jobs&utm_campaign=fbjobs]]></company-url>
+<company-page-matching-approach><![CDATA[standard]]></company-page-matching-approach>
+
+<!-- location -->
+<city><![CDATA[Odessa]]></city>
+<country><![CDATA[UA]]></country>
+<postal-code><![CDATA[65000]]></postal-code>
+
+<!-- salary -->
+
+<salary><![CDATA[110]]></salary>
+<salary-currency><![CDATA[UAH]]></salary-currency>
+<salary-type><![CDATA[hourly]]></salary-type>
+
+<!-- integration configuration -->
+
+<facebook-apply-data>
+    <application-callback-url>
+    <![CDATA[https://hooks.zapier.com/hooks/catch/6544537/ogdn5q6/]]>
+    </application-callback-url>
+    <custom-questions-url>
+    <![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/FBjobs_JSON_CustomQuestion_UA.xml]]>
+    </custom-questions-url>
+    <form-config>
+        <email-field>
+            <optional><![CDATA[false]]></optional>
+        </email-field>
+        <phone-number-field>
+            <optional><![CDATA[false]]></optional>
+        </phone-number-field>
+        <work-experience-field>
+            <optional><![CDATA[true]]></optional>
+        </work-experience-field>
+    </form-config>
+</facebook-apply-data>
+
+</job>
+
+
+<job>
+
+<!-- basic info -->
+<title><![CDATA[кур'єр]]></title>
+<date><![CDATA[11/13/2020 0:00:00]]></date>
+<id><![CDATA[BRO001]]></id>
+<photo-url><![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/Glovers_LandingPageBG_FullBG_FBJobs.jpg]]></photo-url>
+<description><![CDATA[Glovo потрібні кур'єри вашому місті. І ми хочемо, щоб такі, як ви доставляли з нами!
+
+Що ви робитимете:
+У ролі кур'єра ви будете отримувати замовлення в нашому додатку та доставляти їх адресатам у межах міста. Від їжі з ресторану до продуктів з магазину, від подарунків до забутого зарядного пристрою — ви приємно здивовуватимете клієнтів, доставляючи їм щозавгодно!
+До доставки приймаються тільки невеликі замовлення вагою до 8 кг. Ми доставляємо тільки те, що поміщається в рюкзак кур'єра. Деякі з переваг:
+
+Розпочніть вже зараз
+
+Отримуйте дохід щотижня
+
+Доставляйте у зручний час та за гнучким графіком: ви самі обираєте кількість годин щотижня, — ваш графік, ваші правила!
+
+Дохід за замовлення складається з фіксованої плати + додаткової плати за кілометраж і час
+
+Що вам знадобиться:
+Вільне володіння українською чи російською мовою
+Наявність смартфона
+Свій власний транспорт (велосипед, автомобіль або мотоцикл; ви також можете доставляти замовлення пішки)
+Готовність доставляти!
+
+Як зареєструватися:
+Натисніть на кнопку вище, зареєструйтесь, заповнивши форму, і ми негайно надішлемо вам електронного листа з інформацією про подальші кроки.
+
+
+Дякуємо,
+Команда Glovo]]></description>
+
+<!-- company info -->
+<company-name><![CDATA[Glovo]]></company-name>
+<company-id><![CDATA[694544614247106]]></company-id>
+<company-full-address><![CDATA[Barcelona, Spain 08005]]></company-full-address>
+<company-facebook-url>
+    <![CDATA[https://www.facebook.com/GlovoAppUA/]]>
+</company-facebook-url>
+<company-data-policy-url>
+    <![CDATA[https://glovoapp.com/uk/legal/terms]]>
+</company-data-policy-url>
+<company-url><![CDATA[https://glovoapp.com/uk/glovers?utm_source=fb_jobs&utm_campaign=fbjobs]]></company-url>
+<company-page-matching-approach><![CDATA[standard]]></company-page-matching-approach>
+
+<!-- location -->
+<city><![CDATA[Brovary]]></city>
+<country><![CDATA[UA]]></country>
+<postal-code><![CDATA[07400]]></postal-code>
+
+<!-- salary -->
+
+<salary><![CDATA[110]]></salary>
+<salary-currency><![CDATA[UAH]]></salary-currency>
+<salary-type><![CDATA[hourly]]></salary-type>
+
+<!-- integration configuration -->
+
+<facebook-apply-data>
+    <application-callback-url>
+    <![CDATA[https://hooks.zapier.com/hooks/catch/6544537/ogdn5q6/]]>
+    </application-callback-url>
+    <custom-questions-url>
+    <![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/FBjobs_JSON_CustomQuestion_UA.xml]]>
+    </custom-questions-url>
+    <form-config>
+        <email-field>
+            <optional><![CDATA[false]]></optional>
+        </email-field>
+        <phone-number-field>
+            <optional><![CDATA[false]]></optional>
+        </phone-number-field>
+        <work-experience-field>
+            <optional><![CDATA[true]]></optional>
+        </work-experience-field>
+    </form-config>
+</facebook-apply-data>
+
+</job>
+
+
+<job>
+
+<!-- basic info -->
+<title><![CDATA[кур'єр]]></title>
+<date><![CDATA[11/13/2020 0:00:00]]></date>
+<id><![CDATA[KRO001]]></id>
+<photo-url><![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/Glovers_LandingPageBG_FullBG_FBJobs.jpg]]></photo-url>
+<description><![CDATA[Glovo потрібні кур'єри вашому місті. І ми хочемо, щоб такі, як ви доставляли з нами!
+
+Що ви робитимете:
+У ролі кур'єра ви будете отримувати замовлення в нашому додатку та доставляти їх адресатам у межах міста. Від їжі з ресторану до продуктів з магазину, від подарунків до забутого зарядного пристрою — ви приємно здивовуватимете клієнтів, доставляючи їм щозавгодно!
+До доставки приймаються тільки невеликі замовлення вагою до 8 кг. Ми доставляємо тільки те, що поміщається в рюкзак кур'єра. Деякі з переваг:
+
+Розпочніть вже зараз
+
+Отримуйте дохід щотижня
+
+Доставляйте у зручний час та за гнучким графіком: ви самі обираєте кількість годин щотижня, — ваш графік, ваші правила!
+
+Дохід за замовлення складається з фіксованої плати + додаткової плати за кілометраж і час
+
+Що вам знадобиться:
+Вільне володіння українською чи російською мовою
+Наявність смартфона
+Свій власний транспорт (велосипед, автомобіль або мотоцикл; ви також можете доставляти замовлення пішки)
+Готовність доставляти!
+
+Як зареєструватися:
+Натисніть на кнопку вище, зареєструйтесь, заповнивши форму, і ми негайно надішлемо вам електронного листа з інформацією про подальші кроки.
+
+
+Дякуємо,
+Команда Glovo]]></description>
+
+<!-- company info -->
+<company-name><![CDATA[Glovo]]></company-name>
+<company-id><![CDATA[694544614247106]]></company-id>
+<company-full-address><![CDATA[Barcelona, Spain 08005]]></company-full-address>
+<company-facebook-url>
+    <![CDATA[https://www.facebook.com/GlovoAppUA/]]>
+</company-facebook-url>
+<company-data-policy-url>
+    <![CDATA[https://glovoapp.com/uk/legal/terms]]>
+</company-data-policy-url>
+<company-url><![CDATA[https://glovoapp.com/uk/glovers?utm_source=fb_jobs&utm_campaign=fbjobs]]></company-url>
+<company-page-matching-approach><![CDATA[standard]]></company-page-matching-approach>
+
+<!-- location -->
+<city><![CDATA[Kropyvnytskyi]]></city>
+<country><![CDATA[UA]]></country>
+<postal-code><![CDATA[25000]]></postal-code>
+
+<!-- salary -->
+
+<salary><![CDATA[110]]></salary>
+<salary-currency><![CDATA[UAH]]></salary-currency>
+<salary-type><![CDATA[hourly]]></salary-type>
+
+<!-- integration configuration -->
+
+<facebook-apply-data>
+    <application-callback-url>
+    <![CDATA[https://hooks.zapier.com/hooks/catch/6544537/ogdn5q6/]]>
+    </application-callback-url>
+    <custom-questions-url>
+    <![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/FBjobs_JSON_CustomQuestion_UA.xml]]>
+    </custom-questions-url>
+    <form-config>
+        <email-field>
+            <optional><![CDATA[false]]></optional>
+        </email-field>
+        <phone-number-field>
+            <optional><![CDATA[false]]></optional>
+        </phone-number-field>
+        <work-experience-field>
+            <optional><![CDATA[true]]></optional>
+        </work-experience-field>
+    </form-config>
+</facebook-apply-data>
+
+</job>
+
+
+<job>
+
+<!-- basic info -->
+<title><![CDATA[кур'єр]]></title>
+<date><![CDATA[11/13/2020 0:00:00]]></date>
+<id><![CDATA[KHE001]]></id>
+<photo-url><![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/Glovers_LandingPageBG_FullBG_FBJobs.jpg]]></photo-url>
+<description><![CDATA[Glovo потрібні кур'єри вашому місті. І ми хочемо, щоб такі, як ви доставляли з нами!
+
+Що ви робитимете:
+У ролі кур'єра ви будете отримувати замовлення в нашому додатку та доставляти їх адресатам у межах міста. Від їжі з ресторану до продуктів з магазину, від подарунків до забутого зарядного пристрою — ви приємно здивовуватимете клієнтів, доставляючи їм щозавгодно!
+До доставки приймаються тільки невеликі замовлення вагою до 8 кг. Ми доставляємо тільки те, що поміщається в рюкзак кур'єра. Деякі з переваг:
+
+Розпочніть вже зараз
+
+Отримуйте дохід щотижня
+
+Доставляйте у зручний час та за гнучким графіком: ви самі обираєте кількість годин щотижня, — ваш графік, ваші правила!
+
+Дохід за замовлення складається з фіксованої плати + додаткової плати за кілометраж і час
+
+Що вам знадобиться:
+Вільне володіння українською чи російською мовою
+Наявність смартфона
+Свій власний транспорт (велосипед, автомобіль або мотоцикл; ви також можете доставляти замовлення пішки)
+Готовність доставляти!
+
+Як зареєструватися:
+Натисніть на кнопку вище, зареєструйтесь, заповнивши форму, і ми негайно надішлемо вам електронного листа з інформацією про подальші кроки.
+
+
+Дякуємо,
+Команда Glovo]]></description>
+
+<!-- company info -->
+<company-name><![CDATA[Glovo]]></company-name>
+<company-id><![CDATA[694544614247106]]></company-id>
+<company-full-address><![CDATA[Barcelona, Spain 08005]]></company-full-address>
+<company-facebook-url>
+    <![CDATA[https://www.facebook.com/GlovoAppUA/]]>
+</company-facebook-url>
+<company-data-policy-url>
+    <![CDATA[https://glovoapp.com/uk/legal/terms]]>
+</company-data-policy-url>
+<company-url><![CDATA[https://glovoapp.com/uk/glovers?utm_source=fb_jobs&utm_campaign=fbjobs]]></company-url>
+<company-page-matching-approach><![CDATA[standard]]></company-page-matching-approach>
+
+<!-- location -->
+<city><![CDATA[Kherson]]></city>
+<country><![CDATA[UA]]></country>
+<postal-code><![CDATA[73000]]></postal-code>
+
+<!-- salary -->
+
+<salary><![CDATA[110]]></salary>
+<salary-currency><![CDATA[UAH]]></salary-currency>
+<salary-type><![CDATA[hourly]]></salary-type>
+
+<!-- integration configuration -->
+
+<facebook-apply-data>
+    <application-callback-url>
+    <![CDATA[https://hooks.zapier.com/hooks/catch/6544537/ogdn5q6/]]>
+    </application-callback-url>
+    <custom-questions-url>
+    <![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/FBjobs_JSON_CustomQuestion_UA.xml]]>
+    </custom-questions-url>
+    <form-config>
+        <email-field>
+            <optional><![CDATA[false]]></optional>
+        </email-field>
+        <phone-number-field>
+            <optional><![CDATA[false]]></optional>
+        </phone-number-field>
+        <work-experience-field>
+            <optional><![CDATA[true]]></optional>
+        </work-experience-field>
+    </form-config>
+</facebook-apply-data>
+
+</job>
+
+
+<job>
+
+<!-- basic info -->
+<title><![CDATA[кур'єр]]></title>
+<date><![CDATA[11/13/2020 0:00:00]]></date>
+<id><![CDATA[VNT001]]></id>
+<photo-url><![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/Glovers_LandingPageBG_FullBG_FBJobs.jpg]]></photo-url>
+<description><![CDATA[Glovo потрібні кур'єри вашому місті. І ми хочемо, щоб такі, як ви доставляли з нами!
+
+Що ви робитимете:
+У ролі кур'єра ви будете отримувати замовлення в нашому додатку та доставляти їх адресатам у межах міста. Від їжі з ресторану до продуктів з магазину, від подарунків до забутого зарядного пристрою — ви приємно здивовуватимете клієнтів, доставляючи їм щозавгодно!
+До доставки приймаються тільки невеликі замовлення вагою до 8 кг. Ми доставляємо тільки те, що поміщається в рюкзак кур'єра. Деякі з переваг:
+
+Розпочніть вже зараз
+
+Отримуйте дохід щотижня
+
+Доставляйте у зручний час та за гнучким графіком: ви самі обираєте кількість годин щотижня, — ваш графік, ваші правила!
+
+Дохід за замовлення складається з фіксованої плати + додаткової плати за кілометраж і час
+
+Що вам знадобиться:
+Вільне володіння українською чи російською мовою
+Наявність смартфона
+Свій власний транспорт (велосипед, автомобіль або мотоцикл; ви також можете доставляти замовлення пішки)
+Готовність доставляти!
+
+Як зареєструватися:
+Натисніть на кнопку вище, зареєструйтесь, заповнивши форму, і ми негайно надішлемо вам електронного листа з інформацією про подальші кроки.
+
+
+Дякуємо,
+Команда Glovo]]></description>
+
+<!-- company info -->
+<company-name><![CDATA[Glovo]]></company-name>
+<company-id><![CDATA[694544614247106]]></company-id>
+<company-full-address><![CDATA[Barcelona, Spain 08005]]></company-full-address>
+<company-facebook-url>
+    <![CDATA[https://www.facebook.com/GlovoAppUA/]]>
+</company-facebook-url>
+<company-data-policy-url>
+    <![CDATA[https://glovoapp.com/uk/legal/terms]]>
+</company-data-policy-url>
+<company-url><![CDATA[https://glovoapp.com/uk/glovers?utm_source=fb_jobs&utm_campaign=fbjobs]]></company-url>
+<company-page-matching-approach><![CDATA[standard]]></company-page-matching-approach>
+
+<!-- location -->
+<city><![CDATA[Vinnitsa]]></city>
+<country><![CDATA[UA]]></country>
+<postal-code><![CDATA[12036]]></postal-code>
+
+<!-- salary -->
+
+<salary><![CDATA[110]]></salary>
+<salary-currency><![CDATA[UAH]]></salary-currency>
+<salary-type><![CDATA[hourly]]></salary-type>
+
+<!-- integration configuration -->
+
+<facebook-apply-data>
+    <application-callback-url>
+    <![CDATA[https://hooks.zapier.com/hooks/catch/6544537/ogdn5q6/]]>
+    </application-callback-url>
+    <custom-questions-url>
+    <![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/FBjobs_JSON_CustomQuestion_UA.xml]]>
+    </custom-questions-url>
+    <form-config>
+        <email-field>
+            <optional><![CDATA[false]]></optional>
+        </email-field>
+        <phone-number-field>
+            <optional><![CDATA[false]]></optional>
+        </phone-number-field>
+        <work-experience-field>
+            <optional><![CDATA[true]]></optional>
+        </work-experience-field>
+    </form-config>
+</facebook-apply-data>
+
+</job>
+
+
+<job>
+
+<!-- basic info -->
+<title><![CDATA[кур'єр]]></title>
+<date><![CDATA[11/13/2020 0:00:00]]></date>
+<id><![CDATA[RVN001]]></id>
+<photo-url><![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/Glovers_LandingPageBG_FullBG_FBJobs.jpg]]></photo-url>
+<description><![CDATA[Glovo потрібні кур'єри вашому місті. І ми хочемо, щоб такі, як ви доставляли з нами!
+
+Що ви робитимете:
+У ролі кур'єра ви будете отримувати замовлення в нашому додатку та доставляти їх адресатам у межах міста. Від їжі з ресторану до продуктів з магазину, від подарунків до забутого зарядного пристрою — ви приємно здивовуватимете клієнтів, доставляючи їм щозавгодно!
+До доставки приймаються тільки невеликі замовлення вагою до 8 кг. Ми доставляємо тільки те, що поміщається в рюкзак кур'єра. Деякі з переваг:
+
+Розпочніть вже зараз
+
+Отримуйте дохід щотижня
+
+Доставляйте у зручний час та за гнучким графіком: ви самі обираєте кількість годин щотижня, — ваш графік, ваші правила!
+
+Дохід за замовлення складається з фіксованої плати + додаткової плати за кілометраж і час
+
+Що вам знадобиться:
+Вільне володіння українською чи російською мовою
+Наявність смартфона
+Свій власний транспорт (велосипед, автомобіль або мотоцикл; ви також можете доставляти замовлення пішки)
+Готовність доставляти!
+
+Як зареєструватися:
+Натисніть на кнопку вище, зареєструйтесь, заповнивши форму, і ми негайно надішлемо вам електронного листа з інформацією про подальші кроки.
+
+
+Дякуємо,
+Команда Glovo]]></description>
+
+<!-- company info -->
+<company-name><![CDATA[Glovo]]></company-name>
+<company-id><![CDATA[694544614247106]]></company-id>
+<company-full-address><![CDATA[Barcelona, Spain 08005]]></company-full-address>
+<company-facebook-url>
+    <![CDATA[https://www.facebook.com/GlovoAppUA/]]>
+</company-facebook-url>
+<company-data-policy-url>
+    <![CDATA[https://glovoapp.com/uk/legal/terms]]>
+</company-data-policy-url>
+<company-url><![CDATA[https://glovoapp.com/uk/glovers?utm_source=fb_jobs&utm_campaign=fbjobs]]></company-url>
+<company-page-matching-approach><![CDATA[standard]]></company-page-matching-approach>
+
+<!-- location -->
+<city><![CDATA[Rivne]]></city>
+<country><![CDATA[UA]]></country>
+<postal-code><![CDATA[33000]]></postal-code>
+
+<!-- salary -->
+
+<salary><![CDATA[110]]></salary>
+<salary-currency><![CDATA[UAH]]></salary-currency>
+<salary-type><![CDATA[hourly]]></salary-type>
+
+<!-- integration configuration -->
+
+<facebook-apply-data>
+    <application-callback-url>
+    <![CDATA[https://hooks.zapier.com/hooks/catch/6544537/ogdn5q6/]]>
+    </application-callback-url>
+    <custom-questions-url>
+    <![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/FBjobs_JSON_CustomQuestion_UA.xml]]>
+    </custom-questions-url>
+    <form-config>
+        <email-field>
+            <optional><![CDATA[false]]></optional>
+        </email-field>
+        <phone-number-field>
+            <optional><![CDATA[false]]></optional>
+        </phone-number-field>
+        <work-experience-field>
+            <optional><![CDATA[true]]></optional>
+        </work-experience-field>
+    </form-config>
+</facebook-apply-data>
+
+</job>
+
+
+<job>
+
+<!-- basic info -->
+<title><![CDATA[кур'єр]]></title>
+<date><![CDATA[11/13/2020 0:00:00]]></date>
+<id><![CDATA[LVI001]]></id>
+<photo-url><![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/Glovers_LandingPageBG_FullBG_FBJobs.jpg]]></photo-url>
+<description><![CDATA[Glovo потрібні кур'єри вашому місті. І ми хочемо, щоб такі, як ви доставляли з нами!
+
+Що ви робитимете:
+У ролі кур'єра ви будете отримувати замовлення в нашому додатку та доставляти їх адресатам у межах міста. Від їжі з ресторану до продуктів з магазину, від подарунків до забутого зарядного пристрою — ви приємно здивовуватимете клієнтів, доставляючи їм щозавгодно!
+До доставки приймаються тільки невеликі замовлення вагою до 8 кг. Ми доставляємо тільки те, що поміщається в рюкзак кур'єра. Деякі з переваг:
+
+Розпочніть вже зараз
+
+Отримуйте дохід щотижня
+
+Доставляйте у зручний час та за гнучким графіком: ви самі обираєте кількість годин щотижня, — ваш графік, ваші правила!
+
+Дохід за замовлення складається з фіксованої плати + додаткової плати за кілометраж і час
+
+Що вам знадобиться:
+Вільне володіння українською чи російською мовою
+Наявність смартфона
+Свій власний транспорт (велосипед, автомобіль або мотоцикл; ви також можете доставляти замовлення пішки)
+Готовність доставляти!
+
+Як зареєструватися:
+Натисніть на кнопку вище, зареєструйтесь, заповнивши форму, і ми негайно надішлемо вам електронного листа з інформацією про подальші кроки.
+
+
+Дякуємо,
+Команда Glovo]]></description>
+
+<!-- company info -->
+<company-name><![CDATA[Glovo]]></company-name>
+<company-id><![CDATA[694544614247106]]></company-id>
+<company-full-address><![CDATA[Barcelona, Spain 08005]]></company-full-address>
+<company-facebook-url>
+    <![CDATA[https://www.facebook.com/GlovoAppUA/]]>
+</company-facebook-url>
+<company-data-policy-url>
+    <![CDATA[https://glovoapp.com/uk/legal/terms]]>
+</company-data-policy-url>
+<company-url><![CDATA[https://glovoapp.com/uk/glovers?utm_source=fb_jobs&utm_campaign=fbjobs]]></company-url>
+<company-page-matching-approach><![CDATA[standard]]></company-page-matching-approach>
+
+<!-- location -->
+<city><![CDATA[Lviv]]></city>
+<country><![CDATA[UA]]></country>
+<postal-code><![CDATA[79000]]></postal-code>
+
+<!-- salary -->
+
+<salary><![CDATA[110]]></salary>
+<salary-currency><![CDATA[UAH]]></salary-currency>
+<salary-type><![CDATA[hourly]]></salary-type>
+
+<!-- integration configuration -->
+
+<facebook-apply-data>
+    <application-callback-url>
+    <![CDATA[https://hooks.zapier.com/hooks/catch/6544537/ogdn5q6/]]>
+    </application-callback-url>
+    <custom-questions-url>
+    <![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/FBjobs_JSON_CustomQuestion_UA.xml]]>
+    </custom-questions-url>
+    <form-config>
+        <email-field>
+            <optional><![CDATA[false]]></optional>
+        </email-field>
+        <phone-number-field>
+            <optional><![CDATA[false]]></optional>
+        </phone-number-field>
+        <work-experience-field>
+            <optional><![CDATA[true]]></optional>
+        </work-experience-field>
+    </form-config>
+</facebook-apply-data>
+
+</job>
+
+
+<job>
+
+<!-- basic info -->
+<title><![CDATA[кур'єр]]></title>
+<date><![CDATA[11/13/2020 0:00:00]]></date>
+<id><![CDATA[VSG001]]></id>
+<photo-url><![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/Glovers_LandingPageBG_FullBG_FBJobs.jpg]]></photo-url>
+<description><![CDATA[Glovo потрібні кур'єри вашому місті. І ми хочемо, щоб такі, як ви доставляли з нами!
+
+Що ви робитимете:
+У ролі кур'єра ви будете отримувати замовлення в нашому додатку та доставляти їх адресатам у межах міста. Від їжі з ресторану до продуктів з магазину, від подарунків до забутого зарядного пристрою — ви приємно здивовуватимете клієнтів, доставляючи їм щозавгодно!
+До доставки приймаються тільки невеликі замовлення вагою до 8 кг. Ми доставляємо тільки те, що поміщається в рюкзак кур'єра. Деякі з переваг:
+
+Розпочніть вже зараз
+
+Отримуйте дохід щотижня
+
+Доставляйте у зручний час та за гнучким графіком: ви самі обираєте кількість годин щотижня, — ваш графік, ваші правила!
+
+Дохід за замовлення складається з фіксованої плати + додаткової плати за кілометраж і час
+
+Що вам знадобиться:
+Вільне володіння українською чи російською мовою
+Наявність смартфона
+Свій власний транспорт (велосипед, автомобіль або мотоцикл; ви також можете доставляти замовлення пішки)
+Готовність доставляти!
+
+Як зареєструватися:
+Натисніть на кнопку вище, зареєструйтесь, заповнивши форму, і ми негайно надішлемо вам електронного листа з інформацією про подальші кроки.
+
+
+Дякуємо,
+Команда Glovo]]></description>
+
+<!-- company info -->
+<company-name><![CDATA[Glovo]]></company-name>
+<company-id><![CDATA[694544614247106]]></company-id>
+<company-full-address><![CDATA[Barcelona, Spain 08005]]></company-full-address>
+<company-facebook-url>
+    <![CDATA[https://www.facebook.com/GlovoAppUA/]]>
+</company-facebook-url>
+<company-data-policy-url>
+    <![CDATA[https://glovoapp.com/uk/legal/terms]]>
+</company-data-policy-url>
+<company-url><![CDATA[https://glovoapp.com/uk/glovers?utm_source=fb_jobs&utm_campaign=fbjobs]]></company-url>
+<company-page-matching-approach><![CDATA[standard]]></company-page-matching-approach>
+
+<!-- location -->
+<city><![CDATA[Vyshgorod]]></city>
+<country><![CDATA[UA]]></country>
+<postal-code><![CDATA[07300]]></postal-code>
+
+<!-- salary -->
+
+<salary><![CDATA[110]]></salary>
+<salary-currency><![CDATA[UAH]]></salary-currency>
+<salary-type><![CDATA[hourly]]></salary-type>
+
+<!-- integration configuration -->
+
+<facebook-apply-data>
+    <application-callback-url>
+    <![CDATA[https://hooks.zapier.com/hooks/catch/6544537/ogdn5q6/]]>
+    </application-callback-url>
+    <custom-questions-url>
+    <![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/FBjobs_JSON_CustomQuestion_UA.xml]]>
+    </custom-questions-url>
+    <form-config>
+        <email-field>
+            <optional><![CDATA[false]]></optional>
+        </email-field>
+        <phone-number-field>
+            <optional><![CDATA[false]]></optional>
+        </phone-number-field>
+        <work-experience-field>
+            <optional><![CDATA[true]]></optional>
+        </work-experience-field>
+    </form-config>
+</facebook-apply-data>
+
+</job>
+
+
+<job>
+
+<!-- basic info -->
+<title><![CDATA[кур'єр]]></title>
+<date><![CDATA[11/13/2020 0:00:00]]></date>
+<id><![CDATA[TNP001]]></id>
+<photo-url><![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/Glovers_LandingPageBG_FullBG_FBJobs.jpg]]></photo-url>
+<description><![CDATA[Glovo потрібні кур'єри вашому місті. І ми хочемо, щоб такі, як ви доставляли з нами!
+
+Що ви робитимете:
+У ролі кур'єра ви будете отримувати замовлення в нашому додатку та доставляти їх адресатам у межах міста. Від їжі з ресторану до продуктів з магазину, від подарунків до забутого зарядного пристрою — ви приємно здивовуватимете клієнтів, доставляючи їм щозавгодно!
+До доставки приймаються тільки невеликі замовлення вагою до 8 кг. Ми доставляємо тільки те, що поміщається в рюкзак кур'єра. Деякі з переваг:
+
+Розпочніть вже зараз
+
+Отримуйте дохід щотижня
+
+Доставляйте у зручний час та за гнучким графіком: ви самі обираєте кількість годин щотижня, — ваш графік, ваші правила!
+
+Дохід за замовлення складається з фіксованої плати + додаткової плати за кілометраж і час
+
+Що вам знадобиться:
+Вільне володіння українською чи російською мовою
+Наявність смартфона
+Свій власний транспорт (велосипед, автомобіль або мотоцикл; ви також можете доставляти замовлення пішки)
+Готовність доставляти!
+
+Як зареєструватися:
+Натисніть на кнопку вище, зареєструйтесь, заповнивши форму, і ми негайно надішлемо вам електронного листа з інформацією про подальші кроки.
+
+
+Дякуємо,
+Команда Glovo]]></description>
+
+<!-- company info -->
+<company-name><![CDATA[Glovo]]></company-name>
+<company-id><![CDATA[694544614247106]]></company-id>
+<company-full-address><![CDATA[Barcelona, Spain 08005]]></company-full-address>
+<company-facebook-url>
+    <![CDATA[https://www.facebook.com/GlovoAppUA/]]>
+</company-facebook-url>
+<company-data-policy-url>
+    <![CDATA[https://glovoapp.com/uk/legal/terms]]>
+</company-data-policy-url>
+<company-url><![CDATA[https://glovoapp.com/uk/glovers?utm_source=fb_jobs&utm_campaign=fbjobs]]></company-url>
+<company-page-matching-approach><![CDATA[standard]]></company-page-matching-approach>
+
+<!-- location -->
+<city><![CDATA[Ternopil]]></city>
+<country><![CDATA[UA]]></country>
+<postal-code><![CDATA[46000]]></postal-code>
+
+<!-- salary -->
+
+<salary><![CDATA[110]]></salary>
+<salary-currency><![CDATA[UAH]]></salary-currency>
+<salary-type><![CDATA[hourly]]></salary-type>
+
+<!-- integration configuration -->
+
+<facebook-apply-data>
+    <application-callback-url>
+    <![CDATA[https://hooks.zapier.com/hooks/catch/6544537/ogdn5q6/]]>
+    </application-callback-url>
+    <custom-questions-url>
+    <![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/FBjobs_JSON_CustomQuestion_UA.xml]]>
+    </custom-questions-url>
+    <form-config>
+        <email-field>
+            <optional><![CDATA[false]]></optional>
+        </email-field>
+        <phone-number-field>
+            <optional><![CDATA[false]]></optional>
+        </phone-number-field>
+        <work-experience-field>
+            <optional><![CDATA[true]]></optional>
+        </work-experience-field>
+    </form-config>
+</facebook-apply-data>
+
+</job>
+
+
+<job>
+
+<!-- basic info -->
+<title><![CDATA[кур'єр]]></title>
+<date><![CDATA[11/13/2020 0:00:00]]></date>
+<id><![CDATA[DNP001]]></id>
+<photo-url><![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/Glovers_LandingPageBG_FullBG_FBJobs.jpg]]></photo-url>
+<description><![CDATA[Glovo потрібні кур'єри вашому місті. І ми хочемо, щоб такі, як ви доставляли з нами!
+
+Що ви робитимете:
+У ролі кур'єра ви будете отримувати замовлення в нашому додатку та доставляти їх адресатам у межах міста. Від їжі з ресторану до продуктів з магазину, від подарунків до забутого зарядного пристрою — ви приємно здивовуватимете клієнтів, доставляючи їм щозавгодно!
+До доставки приймаються тільки невеликі замовлення вагою до 8 кг. Ми доставляємо тільки те, що поміщається в рюкзак кур'єра. Деякі з переваг:
+
+Розпочніть вже зараз
+
+Отримуйте дохід щотижня
+
+Доставляйте у зручний час та за гнучким графіком: ви самі обираєте кількість годин щотижня, — ваш графік, ваші правила!
+
+Дохід за замовлення складається з фіксованої плати + додаткової плати за кілометраж і час
+
+Що вам знадобиться:
+Вільне володіння українською чи російською мовою
+Наявність смартфона
+Свій власний транспорт (велосипед, автомобіль або мотоцикл; ви також можете доставляти замовлення пішки)
+Готовність доставляти!
+
+Як зареєструватися:
+Натисніть на кнопку вище, зареєструйтесь, заповнивши форму, і ми негайно надішлемо вам електронного листа з інформацією про подальші кроки.
+
+
+Дякуємо,
+Команда Glovo]]></description>
+
+<!-- company info -->
+<company-name><![CDATA[Glovo]]></company-name>
+<company-id><![CDATA[694544614247106]]></company-id>
+<company-full-address><![CDATA[Barcelona, Spain 08005]]></company-full-address>
+<company-facebook-url>
+    <![CDATA[https://www.facebook.com/GlovoAppUA/]]>
+</company-facebook-url>
+<company-data-policy-url>
+    <![CDATA[https://glovoapp.com/uk/legal/terms]]>
+</company-data-policy-url>
+<company-url><![CDATA[https://glovoapp.com/uk/glovers?utm_source=fb_jobs&utm_campaign=fbjobs]]></company-url>
+<company-page-matching-approach><![CDATA[standard]]></company-page-matching-approach>
+
+<!-- location -->
+<city><![CDATA[Dnipro]]></city>
+<country><![CDATA[UA]]></country>
+<postal-code><![CDATA[49000]]></postal-code>
+
+<!-- salary -->
+
+<salary><![CDATA[110]]></salary>
+<salary-currency><![CDATA[UAH]]></salary-currency>
+<salary-type><![CDATA[hourly]]></salary-type>
+
+<!-- integration configuration -->
+
+<facebook-apply-data>
+    <application-callback-url>
+    <![CDATA[https://hooks.zapier.com/hooks/catch/6544537/ogdn5q6/]]>
+    </application-callback-url>
+    <custom-questions-url>
+    <![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/FBjobs_JSON_CustomQuestion_UA.xml]]>
+    </custom-questions-url>
+    <form-config>
+        <email-field>
+            <optional><![CDATA[false]]></optional>
+        </email-field>
+        <phone-number-field>
+            <optional><![CDATA[false]]></optional>
+        </phone-number-field>
+        <work-experience-field>
+            <optional><![CDATA[true]]></optional>
+        </work-experience-field>
+    </form-config>
+</facebook-apply-data>
+
+</job>
+
+
+<job>
+
+<!-- basic info -->
+<title><![CDATA[кур'єр]]></title>
+<date><![CDATA[11/13/2020 0:00:00]]></date>
+<id><![CDATA[KRR001]]></id>
+<photo-url><![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/Glovers_LandingPageBG_FullBG_FBJobs.jpg]]></photo-url>
+<description><![CDATA[Glovo потрібні кур'єри вашому місті. І ми хочемо, щоб такі, як ви доставляли з нами!
+
+Що ви робитимете:
+У ролі кур'єра ви будете отримувати замовлення в нашому додатку та доставляти їх адресатам у межах міста. Від їжі з ресторану до продуктів з магазину, від подарунків до забутого зарядного пристрою — ви приємно здивовуватимете клієнтів, доставляючи їм щозавгодно!
+До доставки приймаються тільки невеликі замовлення вагою до 8 кг. Ми доставляємо тільки те, що поміщається в рюкзак кур'єра. Деякі з переваг:
+
+Розпочніть вже зараз
+
+Отримуйте дохід щотижня
+
+Доставляйте у зручний час та за гнучким графіком: ви самі обираєте кількість годин щотижня, — ваш графік, ваші правила!
+
+Дохід за замовлення складається з фіксованої плати + додаткової плати за кілометраж і час
+
+Що вам знадобиться:
+Вільне володіння українською чи російською мовою
+Наявність смартфона
+Свій власний транспорт (велосипед, автомобіль або мотоцикл; ви також можете доставляти замовлення пішки)
+Готовність доставляти!
+
+Як зареєструватися:
+Натисніть на кнопку вище, зареєструйтесь, заповнивши форму, і ми негайно надішлемо вам електронного листа з інформацією про подальші кроки.
+
+
+Дякуємо,
+Команда Glovo]]></description>
+
+<!-- company info -->
+<company-name><![CDATA[Glovo]]></company-name>
+<company-id><![CDATA[694544614247106]]></company-id>
+<company-full-address><![CDATA[Barcelona, Spain 08005]]></company-full-address>
+<company-facebook-url>
+    <![CDATA[https://www.facebook.com/GlovoAppUA/]]>
+</company-facebook-url>
+<company-data-policy-url>
+    <![CDATA[https://glovoapp.com/uk/legal/terms]]>
+</company-data-policy-url>
+<company-url><![CDATA[https://glovoapp.com/uk/glovers?utm_source=fb_jobs&utm_campaign=fbjobs]]></company-url>
+<company-page-matching-approach><![CDATA[standard]]></company-page-matching-approach>
+
+<!-- location -->
+<city><![CDATA[Kryvyi Rih]]></city>
+<country><![CDATA[UA]]></country>
+<postal-code><![CDATA[50000]]></postal-code>
+
+<!-- salary -->
+
+<salary><![CDATA[110]]></salary>
+<salary-currency><![CDATA[UAH]]></salary-currency>
+<salary-type><![CDATA[hourly]]></salary-type>
+
+<!-- integration configuration -->
+
+<facebook-apply-data>
+    <application-callback-url>
+    <![CDATA[https://hooks.zapier.com/hooks/catch/6544537/ogdn5q6/]]>
+    </application-callback-url>
+    <custom-questions-url>
+    <![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/FBjobs_JSON_CustomQuestion_UA.xml]]>
+    </custom-questions-url>
+    <form-config>
+        <email-field>
+            <optional><![CDATA[false]]></optional>
+        </email-field>
+        <phone-number-field>
+            <optional><![CDATA[false]]></optional>
+        </phone-number-field>
+        <work-experience-field>
+            <optional><![CDATA[true]]></optional>
+        </work-experience-field>
+    </form-config>
+</facebook-apply-data>
+
+</job>
+
+
+<job>
+
+<!-- basic info -->
+<title><![CDATA[кур'єр]]></title>
+<date><![CDATA[11/13/2020 0:00:00]]></date>
+<id><![CDATA[IVF001]]></id>
+<photo-url><![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/Glovers_LandingPageBG_FullBG_FBJobs.jpg]]></photo-url>
+<description><![CDATA[Glovo потрібні кур'єри вашому місті. І ми хочемо, щоб такі, як ви доставляли з нами!
+
+Що ви робитимете:
+У ролі кур'єра ви будете отримувати замовлення в нашому додатку та доставляти їх адресатам у межах міста. Від їжі з ресторану до продуктів з магазину, від подарунків до забутого зарядного пристрою — ви приємно здивовуватимете клієнтів, доставляючи їм щозавгодно!
+До доставки приймаються тільки невеликі замовлення вагою до 8 кг. Ми доставляємо тільки те, що поміщається в рюкзак кур'єра. Деякі з переваг:
+
+Розпочніть вже зараз
+
+Отримуйте дохід щотижня
+
+Доставляйте у зручний час та за гнучким графіком: ви самі обираєте кількість годин щотижня, — ваш графік, ваші правила!
+
+Дохід за замовлення складається з фіксованої плати + додаткової плати за кілометраж і час
+
+Що вам знадобиться:
+Вільне володіння українською чи російською мовою
+Наявність смартфона
+Свій власний транспорт (велосипед, автомобіль або мотоцикл; ви також можете доставляти замовлення пішки)
+Готовність доставляти!
+
+Як зареєструватися:
+Натисніть на кнопку вище, зареєструйтесь, заповнивши форму, і ми негайно надішлемо вам електронного листа з інформацією про подальші кроки.
+
+
+Дякуємо,
+Команда Glovo]]></description>
+
+<!-- company info -->
+<company-name><![CDATA[Glovo]]></company-name>
+<company-id><![CDATA[694544614247106]]></company-id>
+<company-full-address><![CDATA[Barcelona, Spain 08005]]></company-full-address>
+<company-facebook-url>
+    <![CDATA[https://www.facebook.com/GlovoAppUA/]]>
+</company-facebook-url>
+<company-data-policy-url>
+    <![CDATA[https://glovoapp.com/uk/legal/terms]]>
+</company-data-policy-url>
+<company-url><![CDATA[https://glovoapp.com/uk/glovers?utm_source=fb_jobs&utm_campaign=fbjobs]]></company-url>
+<company-page-matching-approach><![CDATA[standard]]></company-page-matching-approach>
+
+<!-- location -->
+<city><![CDATA[Ivano-Frankivsk]]></city>
+<country><![CDATA[UA]]></country>
+<postal-code><![CDATA[76000]]></postal-code>
+
+<!-- salary -->
+
+<salary><![CDATA[110]]></salary>
+<salary-currency><![CDATA[UAH]]></salary-currency>
+<salary-type><![CDATA[hourly]]></salary-type>
+
+<!-- integration configuration -->
+
+<facebook-apply-data>
+    <application-callback-url>
+    <![CDATA[https://hooks.zapier.com/hooks/catch/6544537/ogdn5q6/]]>
+    </application-callback-url>
+    <custom-questions-url>
+    <![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/FBjobs_JSON_CustomQuestion_UA.xml]]>
+    </custom-questions-url>
+    <form-config>
+        <email-field>
+            <optional><![CDATA[false]]></optional>
+        </email-field>
+        <phone-number-field>
+            <optional><![CDATA[false]]></optional>
+        </phone-number-field>
+        <work-experience-field>
+            <optional><![CDATA[true]]></optional>
+        </work-experience-field>
+    </form-config>
+</facebook-apply-data>
+
+</job>
+
+
+<job>
+
+<!-- basic info -->
+<title><![CDATA[кур'єр]]></title>
+<date><![CDATA[11/13/2020 0:00:00]]></date>
+<id><![CDATA[MKL001]]></id>
+<photo-url><![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/Glovers_LandingPageBG_FullBG_FBJobs.jpg]]></photo-url>
+<description><![CDATA[Glovo потрібні кур'єри вашому місті. І ми хочемо, щоб такі, як ви доставляли з нами!
+
+Що ви робитимете:
+У ролі кур'єра ви будете отримувати замовлення в нашому додатку та доставляти їх адресатам у межах міста. Від їжі з ресторану до продуктів з магазину, від подарунків до забутого зарядного пристрою — ви приємно здивовуватимете клієнтів, доставляючи їм щозавгодно!
+До доставки приймаються тільки невеликі замовлення вагою до 8 кг. Ми доставляємо тільки те, що поміщається в рюкзак кур'єра. Деякі з переваг:
+
+Розпочніть вже зараз
+
+Отримуйте дохід щотижня
+
+Доставляйте у зручний час та за гнучким графіком: ви самі обираєте кількість годин щотижня, — ваш графік, ваші правила!
+
+Дохід за замовлення складається з фіксованої плати + додаткової плати за кілометраж і час
+
+Що вам знадобиться:
+Вільне володіння українською чи російською мовою
+Наявність смартфона
+Свій власний транспорт (велосипед, автомобіль або мотоцикл; ви також можете доставляти замовлення пішки)
+Готовність доставляти!
+
+Як зареєструватися:
+Натисніть на кнопку вище, зареєструйтесь, заповнивши форму, і ми негайно надішлемо вам електронного листа з інформацією про подальші кроки.
+
+
+Дякуємо,
+Команда Glovo]]></description>
+
+<!-- company info -->
+<company-name><![CDATA[Glovo]]></company-name>
+<company-id><![CDATA[694544614247106]]></company-id>
+<company-full-address><![CDATA[Barcelona, Spain 08005]]></company-full-address>
+<company-facebook-url>
+    <![CDATA[https://www.facebook.com/GlovoAppUA/]]>
+</company-facebook-url>
+<company-data-policy-url>
+    <![CDATA[https://glovoapp.com/uk/legal/terms]]>
+</company-data-policy-url>
+<company-url><![CDATA[https://glovoapp.com/uk/glovers?utm_source=fb_jobs&utm_campaign=fbjobs]]></company-url>
+<company-page-matching-approach><![CDATA[standard]]></company-page-matching-approach>
+
+<!-- location -->
+<city><![CDATA[Mykolaiv]]></city>
+<country><![CDATA[UA]]></country>
+<postal-code><![CDATA[54000]]></postal-code>
+
+<!-- salary -->
+
+<salary><![CDATA[110]]></salary>
+<salary-currency><![CDATA[UAH]]></salary-currency>
+<salary-type><![CDATA[hourly]]></salary-type>
+
+<!-- integration configuration -->
+
+<facebook-apply-data>
+    <application-callback-url>
+    <![CDATA[https://hooks.zapier.com/hooks/catch/6544537/ogdn5q6/]]>
+    </application-callback-url>
+    <custom-questions-url>
+    <![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/FBjobs_JSON_CustomQuestion_UA.xml]]>
+    </custom-questions-url>
+    <form-config>
+        <email-field>
+            <optional><![CDATA[false]]></optional>
+        </email-field>
+        <phone-number-field>
+            <optional><![CDATA[false]]></optional>
+        </phone-number-field>
+        <work-experience-field>
+            <optional><![CDATA[true]]></optional>
+        </work-experience-field>
+    </form-config>
+</facebook-apply-data>
+
+</job>
+
+
+<job>
+
+<!-- basic info -->
+<title><![CDATA[кур'єр]]></title>
+<date><![CDATA[11/13/2020 0:00:00]]></date>
+<id><![CDATA[SUM001]]></id>
+<photo-url><![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/Glovers_LandingPageBG_FullBG_FBJobs.jpg]]></photo-url>
+<description><![CDATA[Glovo потрібні кур'єри вашому місті. І ми хочемо, щоб такі, як ви доставляли з нами!
+
+Що ви робитимете:
+У ролі кур'єра ви будете отримувати замовлення в нашому додатку та доставляти їх адресатам у межах міста. Від їжі з ресторану до продуктів з магазину, від подарунків до забутого зарядного пристрою — ви приємно здивовуватимете клієнтів, доставляючи їм щозавгодно!
+До доставки приймаються тільки невеликі замовлення вагою до 8 кг. Ми доставляємо тільки те, що поміщається в рюкзак кур'єра. Деякі з переваг:
+
+Розпочніть вже зараз
+
+Отримуйте дохід щотижня
+
+Доставляйте у зручний час та за гнучким графіком: ви самі обираєте кількість годин щотижня, — ваш графік, ваші правила!
+
+Дохід за замовлення складається з фіксованої плати + додаткової плати за кілометраж і час
+
+Що вам знадобиться:
+Вільне володіння українською чи російською мовою
+Наявність смартфона
+Свій власний транспорт (велосипед, автомобіль або мотоцикл; ви також можете доставляти замовлення пішки)
+Готовність доставляти!
+
+Як зареєструватися:
+Натисніть на кнопку вище, зареєструйтесь, заповнивши форму, і ми негайно надішлемо вам електронного листа з інформацією про подальші кроки.
+
+
+Дякуємо,
+Команда Glovo]]></description>
+
+<!-- company info -->
+<company-name><![CDATA[Glovo]]></company-name>
+<company-id><![CDATA[694544614247106]]></company-id>
+<company-full-address><![CDATA[Barcelona, Spain 08005]]></company-full-address>
+<company-facebook-url>
+    <![CDATA[https://www.facebook.com/GlovoAppUA/]]>
+</company-facebook-url>
+<company-data-policy-url>
+    <![CDATA[https://glovoapp.com/uk/legal/terms]]>
+</company-data-policy-url>
+<company-url><![CDATA[https://glovoapp.com/uk/glovers?utm_source=fb_jobs&utm_campaign=fbjobs]]></company-url>
+<company-page-matching-approach><![CDATA[standard]]></company-page-matching-approach>
+
+<!-- location -->
+<city><![CDATA[Sumy]]></city>
+<country><![CDATA[UA]]></country>
+<postal-code><![CDATA[40000]]></postal-code>
+
+<!-- salary -->
+
+<salary><![CDATA[110]]></salary>
+<salary-currency><![CDATA[UAH]]></salary-currency>
+<salary-type><![CDATA[hourly]]></salary-type>
+
+<!-- integration configuration -->
+
+<facebook-apply-data>
+    <application-callback-url>
+    <![CDATA[https://hooks.zapier.com/hooks/catch/6544537/ogdn5q6/]]>
+    </application-callback-url>
+    <custom-questions-url>
+    <![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/FBjobs_JSON_CustomQuestion_UA.xml]]>
+    </custom-questions-url>
+    <form-config>
+        <email-field>
+            <optional><![CDATA[false]]></optional>
+        </email-field>
+        <phone-number-field>
+            <optional><![CDATA[false]]></optional>
+        </phone-number-field>
+        <work-experience-field>
+            <optional><![CDATA[true]]></optional>
+        </work-experience-field>
+    </form-config>
+</facebook-apply-data>
+
+</job>
+
+
+<job>
+
+<!-- basic info -->
+<title><![CDATA[кур'єр]]></title>
+<date><![CDATA[11/13/2020 0:00:00]]></date>
+<id><![CDATA[VYS001]]></id>
+<photo-url><![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/Glovers_LandingPageBG_FullBG_FBJobs.jpg]]></photo-url>
+<description><![CDATA[Glovo потрібні кур'єри вашому місті. І ми хочемо, щоб такі, як ви доставляли з нами!
+
+Що ви робитимете:
+У ролі кур'єра ви будете отримувати замовлення в нашому додатку та доставляти їх адресатам у межах міста. Від їжі з ресторану до продуктів з магазину, від подарунків до забутого зарядного пристрою — ви приємно здивовуватимете клієнтів, доставляючи їм щозавгодно!
+До доставки приймаються тільки невеликі замовлення вагою до 8 кг. Ми доставляємо тільки те, що поміщається в рюкзак кур'єра. Деякі з переваг:
+
+Розпочніть вже зараз
+
+Отримуйте дохід щотижня
+
+Доставляйте у зручний час та за гнучким графіком: ви самі обираєте кількість годин щотижня, — ваш графік, ваші правила!
+
+Дохід за замовлення складається з фіксованої плати + додаткової плати за кілометраж і час
+
+Що вам знадобиться:
+Вільне володіння українською чи російською мовою
+Наявність смартфона
+Свій власний транспорт (велосипед, автомобіль або мотоцикл; ви також можете доставляти замовлення пішки)
+Готовність доставляти!
+
+Як зареєструватися:
+Натисніть на кнопку вище, зареєструйтесь, заповнивши форму, і ми негайно надішлемо вам електронного листа з інформацією про подальші кроки.
+
+
+Дякуємо,
+Команда Glovo]]></description>
+
+<!-- company info -->
+<company-name><![CDATA[Glovo]]></company-name>
+<company-id><![CDATA[694544614247106]]></company-id>
+<company-full-address><![CDATA[Barcelona, Spain 08005]]></company-full-address>
+<company-facebook-url>
+    <![CDATA[https://www.facebook.com/GlovoAppUA/]]>
+</company-facebook-url>
+<company-data-policy-url>
+    <![CDATA[https://glovoapp.com/uk/legal/terms]]>
+</company-data-policy-url>
+<company-url><![CDATA[https://glovoapp.com/uk/glovers?utm_source=fb_jobs&utm_campaign=fbjobs]]></company-url>
+<company-page-matching-approach><![CDATA[standard]]></company-page-matching-approach>
+
+<!-- location -->
+<city><![CDATA[Vyshneve]]></city>
+<country><![CDATA[UA]]></country>
+<postal-code><![CDATA[02000]]></postal-code>
+
+<!-- salary -->
+
+<salary><![CDATA[110]]></salary>
+<salary-currency><![CDATA[UAH]]></salary-currency>
+<salary-type><![CDATA[hourly]]></salary-type>
+
+<!-- integration configuration -->
+
+<facebook-apply-data>
+    <application-callback-url>
+    <![CDATA[https://hooks.zapier.com/hooks/catch/6544537/ogdn5q6/]]>
+    </application-callback-url>
+    <custom-questions-url>
+    <![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/FBjobs_JSON_CustomQuestion_UA.xml]]>
+    </custom-questions-url>
+    <form-config>
+        <email-field>
+            <optional><![CDATA[false]]></optional>
+        </email-field>
+        <phone-number-field>
+            <optional><![CDATA[false]]></optional>
+        </phone-number-field>
+        <work-experience-field>
+            <optional><![CDATA[true]]></optional>
+        </work-experience-field>
+    </form-config>
+</facebook-apply-data>
+
+</job>
+
+
+<job>
+
+<!-- basic info -->
+<title><![CDATA[кур'єр]]></title>
+<date><![CDATA[11/13/2020 0:00:00]]></date>
+<id><![CDATA[CHN001]]></id>
+<photo-url><![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/Glovers_LandingPageBG_FullBG_FBJobs.jpg]]></photo-url>
+<description><![CDATA[Glovo потрібні кур'єри вашому місті. І ми хочемо, щоб такі, як ви доставляли з нами!
+
+Що ви робитимете:
+У ролі кур'єра ви будете отримувати замовлення в нашому додатку та доставляти їх адресатам у межах міста. Від їжі з ресторану до продуктів з магазину, від подарунків до забутого зарядного пристрою — ви приємно здивовуватимете клієнтів, доставляючи їм щозавгодно!
+До доставки приймаються тільки невеликі замовлення вагою до 8 кг. Ми доставляємо тільки те, що поміщається в рюкзак кур'єра. Деякі з переваг:
+
+Розпочніть вже зараз
+
+Отримуйте дохід щотижня
+
+Доставляйте у зручний час та за гнучким графіком: ви самі обираєте кількість годин щотижня, — ваш графік, ваші правила!
+
+Дохід за замовлення складається з фіксованої плати + додаткової плати за кілометраж і час
+
+Що вам знадобиться:
+Вільне володіння українською чи російською мовою
+Наявність смартфона
+Свій власний транспорт (велосипед, автомобіль або мотоцикл; ви також можете доставляти замовлення пішки)
+Готовність доставляти!
+
+Як зареєструватися:
+Натисніть на кнопку вище, зареєструйтесь, заповнивши форму, і ми негайно надішлемо вам електронного листа з інформацією про подальші кроки.
+
+
+Дякуємо,
+Команда Glovo]]></description>
+
+<!-- company info -->
+<company-name><![CDATA[Glovo]]></company-name>
+<company-id><![CDATA[694544614247106]]></company-id>
+<company-full-address><![CDATA[Barcelona, Spain 08005]]></company-full-address>
+<company-facebook-url>
+    <![CDATA[https://www.facebook.com/GlovoAppUA/]]>
+</company-facebook-url>
+<company-data-policy-url>
+    <![CDATA[https://glovoapp.com/uk/legal/terms]]>
+</company-data-policy-url>
+<company-url><![CDATA[https://glovoapp.com/uk/glovers?utm_source=fb_jobs&utm_campaign=fbjobs]]></company-url>
+<company-page-matching-approach><![CDATA[standard]]></company-page-matching-approach>
+
+<!-- location -->
+<city><![CDATA[Chernivtsi]]></city>
+<country><![CDATA[UA]]></country>
+<postal-code><![CDATA[58000]]></postal-code>
+
+<!-- salary -->
+
+<salary><![CDATA[110]]></salary>
+<salary-currency><![CDATA[UAH]]></salary-currency>
+<salary-type><![CDATA[hourly]]></salary-type>
+
+<!-- integration configuration -->
+
+<facebook-apply-data>
+    <application-callback-url>
+    <![CDATA[https://hooks.zapier.com/hooks/catch/6544537/ogdn5q6/]]>
+    </application-callback-url>
+    <custom-questions-url>
+    <![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/FBjobs_JSON_CustomQuestion_UA.xml]]>
+    </custom-questions-url>
+    <form-config>
+        <email-field>
+            <optional><![CDATA[false]]></optional>
+        </email-field>
+        <phone-number-field>
+            <optional><![CDATA[false]]></optional>
+        </phone-number-field>
+        <work-experience-field>
+            <optional><![CDATA[true]]></optional>
+        </work-experience-field>
+    </form-config>
+</facebook-apply-data>
+
+</job>
+
+
+<job>
+
+<!-- basic info -->
+<title><![CDATA[кур'єр]]></title>
+<date><![CDATA[11/13/2020 0:00:00]]></date>
+<id><![CDATA[BOR001]]></id>
+<photo-url><![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/Glovers_LandingPageBG_FullBG_FBJobs.jpg]]></photo-url>
+<description><![CDATA[Glovo потрібні кур'єри вашому місті. І ми хочемо, щоб такі, як ви доставляли з нами!
+
+Що ви робитимете:
+У ролі кур'єра ви будете отримувати замовлення в нашому додатку та доставляти їх адресатам у межах міста. Від їжі з ресторану до продуктів з магазину, від подарунків до забутого зарядного пристрою — ви приємно здивовуватимете клієнтів, доставляючи їм щозавгодно!
+До доставки приймаються тільки невеликі замовлення вагою до 8 кг. Ми доставляємо тільки те, що поміщається в рюкзак кур'єра. Деякі з переваг:
+
+Розпочніть вже зараз
+
+Отримуйте дохід щотижня
+
+Доставляйте у зручний час та за гнучким графіком: ви самі обираєте кількість годин щотижня, — ваш графік, ваші правила!
+
+Дохід за замовлення складається з фіксованої плати + додаткової плати за кілометраж і час
+
+Що вам знадобиться:
+Вільне володіння українською чи російською мовою
+Наявність смартфона
+Свій власний транспорт (велосипед, автомобіль або мотоцикл; ви також можете доставляти замовлення пішки)
+Готовність доставляти!
+
+Як зареєструватися:
+Натисніть на кнопку вище, зареєструйтесь, заповнивши форму, і ми негайно надішлемо вам електронного листа з інформацією про подальші кроки.
+
+
+Дякуємо,
+Команда Glovo]]></description>
+
+<!-- company info -->
+<company-name><![CDATA[Glovo]]></company-name>
+<company-id><![CDATA[694544614247106]]></company-id>
+<company-full-address><![CDATA[Barcelona, Spain 08005]]></company-full-address>
+<company-facebook-url>
+    <![CDATA[https://www.facebook.com/GlovoAppUA/]]>
+</company-facebook-url>
+<company-data-policy-url>
+    <![CDATA[https://glovoapp.com/uk/legal/terms]]>
+</company-data-policy-url>
+<company-url><![CDATA[https://glovoapp.com/uk/glovers?utm_source=fb_jobs&utm_campaign=fbjobs]]></company-url>
+<company-page-matching-approach><![CDATA[standard]]></company-page-matching-approach>
+
+<!-- location -->
+<city><![CDATA[Boryspil]]></city>
+<country><![CDATA[UA]]></country>
+<postal-code><![CDATA[08300]]></postal-code>
+
+<!-- salary -->
+
+<salary><![CDATA[110]]></salary>
+<salary-currency><![CDATA[UAH]]></salary-currency>
+<salary-type><![CDATA[hourly]]></salary-type>
+
+<!-- integration configuration -->
+
+<facebook-apply-data>
+    <application-callback-url>
+    <![CDATA[https://hooks.zapier.com/hooks/catch/6544537/ogdn5q6/]]>
+    </application-callback-url>
+    <custom-questions-url>
+    <![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/FBjobs_JSON_CustomQuestion_UA.xml]]>
+    </custom-questions-url>
+    <form-config>
+        <email-field>
+            <optional><![CDATA[false]]></optional>
+        </email-field>
+        <phone-number-field>
+            <optional><![CDATA[false]]></optional>
+        </phone-number-field>
+        <work-experience-field>
+            <optional><![CDATA[true]]></optional>
+        </work-experience-field>
+    </form-config>
+</facebook-apply-data>
+
+</job>
+
+
+<job>
+
+<!-- basic info -->
+<title><![CDATA[кур'єр]]></title>
+<date><![CDATA[11/13/2020 0:00:00]]></date>
+<id><![CDATA[KIN001]]></id>
+<photo-url><![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/Glovers_LandingPageBG_FullBG_FBJobs.jpg]]></photo-url>
+<description><![CDATA[Glovo потрібні кур'єри вашому місті. І ми хочемо, щоб такі, як ви доставляли з нами!
+
+Що ви робитимете:
+У ролі кур'єра ви будете отримувати замовлення в нашому додатку та доставляти їх адресатам у межах міста. Від їжі з ресторану до продуктів з магазину, від подарунків до забутого зарядного пристрою — ви приємно здивовуватимете клієнтів, доставляючи їм щозавгодно!
+До доставки приймаються тільки невеликі замовлення вагою до 8 кг. Ми доставляємо тільки те, що поміщається в рюкзак кур'єра. Деякі з переваг:
+
+Розпочніть вже зараз
+
+Отримуйте дохід щотижня
+
+Доставляйте у зручний час та за гнучким графіком: ви самі обираєте кількість годин щотижня, — ваш графік, ваші правила!
+
+Дохід за замовлення складається з фіксованої плати + додаткової плати за кілометраж і час
+
+Що вам знадобиться:
+Вільне володіння українською чи російською мовою
+Наявність смартфона
+Свій власний транспорт (велосипед, автомобіль або мотоцикл; ви також можете доставляти замовлення пішки)
+Готовність доставляти!
+
+Як зареєструватися:
+Натисніть на кнопку вище, зареєструйтесь, заповнивши форму, і ми негайно надішлемо вам електронного листа з інформацією про подальші кроки.
+
+
+Дякуємо,
+Команда Glovo]]></description>
+
+<!-- company info -->
+<company-name><![CDATA[Glovo]]></company-name>
+<company-id><![CDATA[694544614247106]]></company-id>
+<company-full-address><![CDATA[Barcelona, Spain 08005]]></company-full-address>
+<company-facebook-url>
+    <![CDATA[https://www.facebook.com/GlovoAppUA/]]>
+</company-facebook-url>
+<company-data-policy-url>
+    <![CDATA[https://glovoapp.com/uk/legal/terms]]>
+</company-data-policy-url>
+<company-url><![CDATA[https://glovoapp.com/uk/glovers?utm_source=fb_jobs&utm_campaign=fbjobs]]></company-url>
+<company-page-matching-approach><![CDATA[standard]]></company-page-matching-approach>
+
+<!-- location -->
+<city><![CDATA[Kyiv North]]></city>
+<country><![CDATA[UA]]></country>
+<postal-code><![CDATA[02000]]></postal-code>
+
+<!-- salary -->
+
+<salary><![CDATA[110]]></salary>
+<salary-currency><![CDATA[UAH]]></salary-currency>
+<salary-type><![CDATA[hourly]]></salary-type>
+
+<!-- integration configuration -->
+
+<facebook-apply-data>
+    <application-callback-url>
+    <![CDATA[https://hooks.zapier.com/hooks/catch/6544537/ogdn5q6/]]>
+    </application-callback-url>
+    <custom-questions-url>
+    <![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/FBjobs_JSON_CustomQuestion_UA.xml]]>
+    </custom-questions-url>
+    <form-config>
+        <email-field>
+            <optional><![CDATA[false]]></optional>
+        </email-field>
+        <phone-number-field>
+            <optional><![CDATA[false]]></optional>
+        </phone-number-field>
+        <work-experience-field>
+            <optional><![CDATA[true]]></optional>
+        </work-experience-field>
+    </form-config>
+</facebook-apply-data>
+
+</job>
+
+
+
+<!-- END UA -->
+<!-- END UA -->
+<!-- END UA -->
+<!-- END UA -->
+<!-- END UA -->
+
 <!-- UG -->
 <!-- UG -->
 <!-- UG -->
