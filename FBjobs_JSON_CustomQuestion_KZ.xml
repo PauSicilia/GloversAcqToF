@@ -4,10 +4,10 @@
     "question_type": "MULTIPLE_CHOICE",
     "label": "Город / зона доставки",
     "multiple_choice_options": [
-"Almaty",
-"Atyrau",
-"Nur-Sultan",
-"Shymkent"
+      "Almaty",
+      "Atyrau",
+      "Nur-Sultan",
+      "Shymkent"
 ]
   } ,
     {
@@ -30,5 +30,5 @@
       "Будние дни: обед/ужин (пиковые часы)",
       "Будние дни: утро/день/ночь (более низкий спрос)"
     ]
-  } 
+  }
 ]
