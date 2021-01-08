@@ -1,1 +1,27 @@
-
+{
+  "jobs": [
+    {
+      "title": "JOOBLE TEST VACANCY",
+      "url": "https://us.jooble.org/desc/4377369753429884123",
+      "updated": "2019-06-12",
+      "expire": "2019-09-12",
+      "Location": {
+        "country": "United States of America",
+        "state": "California",
+        "city": "South San Francisco",
+        "address": "Akhmatovoy 15, 04208"
+      },
+      "desc": "Your desc with HTML-tags",
+      "jobtype": "Full-time",
+      "salary": {
+        "currency": "USD",
+        "value": "100",
+        "period": "per hour"
+      },
+      "email": "test@employer.com",
+      "phone": "88005553535",
+      "company": "Jooble",
+      "apply_url": "https://hourlyjobs-raisingcanes.icims.com/jobs/13203/crewmembers-needed---closing-shift-%285pm---1am%29----holidays-off%21/login"
+    }
+  ]
+}
