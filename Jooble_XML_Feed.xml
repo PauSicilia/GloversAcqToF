@@ -22039,4 +22039,77 @@ Co będziesz robić?
 <salary><![CDATA[25 per hour]]></salary>
 </job>
 
+<job id="123456">
+<name><![CDATA[Estafeta]]></name>
+<pubdate>27.01.2021</pubdate>
+<description><![CDATA[<br><b>A Glovo está à procura de candidatos como tu para fazer entregas na tua cidade!</b>
+<br>
+<br>Vão ser estas as tuas funções:
+<br>Enquanto estafeta, recebes pedidos através da nossa app e tratas de os entregar na tua cidade. <br>De refeições, compras de supermercado ou prendas a carregadores de telemóvel esquecidos – há surpresas todos os dias quando se pode entregar qualquer coisa!
+<br>Só farás entregas de volumes pequenos, com um peso máximo de 8 kg. <br>Se cabe na mochila, podemos entregá-lo. São estes alguns dos benefícios:
+<br>
+<br>Início Imediato
+<br>
+<br>Pagamento quinzenal
+<br>
+<br>Horários flexíveis: escolhes quantas horas queres colaborar. O teu horário, as tuas regras!
+<br>
+<br>Ganhos por pedido: taxa base + variáveis com base na distância e tempo
+<br>
+<br>Do que vais precisar:
+<br>Fluência em português
+<br>Um smartphone
+<br>Veículo próprio (bicicleta, carro ou mota.)
+<br>Vontade de colaborar!
+<br>
+<br>Como começar a colaborar:
+<br>Basta clicares no botão em baixo, inscreveres-te através do formulário e receberás os próximos passos por e-mail.
+<br>
+<br>
+<br>Obrigado,
+<br>A equipa Glovo ]]>
+</description>
+<company><![CDATA[Glovo]]></company>
+<jobtype><![CDATA[Full-time]]></jobtype>
+<region><![CDATA[Lisbon, Portugal]]></region>
+<apply-url><![CDATA[https://glovoapp.com/pt/glovers?utm_source=jooble&utm_campaign=jooble_xml]]></apply-url>
+<link><![CDATA[https://glovoapp.com/pt/glovers?utm_source=jooble&utm_campaign=jooble_xml]]></link>
+<salary><![CDATA[10 per hour]]></salary>
+</job>
+
+<job id="123456">
+<name><![CDATA[Curieri]]></name>
+<pubdate>27.01.2021</pubdate>
+<description><![CDATA[<br><b>Glovo caută persoane ca tine pentru a fi curier în orașul tău!</b>
+<br>
+<br>Ce vei face:
+<br>În calitate de curier vei primi comenzi prin intermediul aplicației noastre și le vei livra în orașul tău. De la mâncare, la cumpărături, de la cadouri până la încărcătorul de telefon uitat, fiecare zi este o surpriză când poți livra orice!
+<br>
+<br>Începi imediat
+<br>
+<br>Plata săptămânală
+<br>
+<br>Program flexibil: tu alegi câte ore vrei să colaborezi. Programul tău, regulile tale!
+<br>
+<br>Câștiguri per comandă: taxă fixă + bonusuri în funcție de distanță și timp de așteptare
+<br>
+<br>Ce ai nevoie:
+<br>Un telefon inteligent
+<br>Propriul tău vehicul (bicicletă, mașină sau motocicletă). Poți să alegi să livrezi și pe jos.
+<br>Dorință de colaborare!
+<br>
+<br>Cum să te înscrii:
+<br>Apasă butonul de mai jos, înregistrează-te în formular și noi îți trimitem etapele următoare prin email.
+<br>
+<br>Mulțumim,
+<br>Echipa Glovo ]]>
+</description>
+<company><![CDATA[Glovo]]></company>
+<jobtype><![CDATA[Full-time]]></jobtype>
+<region><![CDATA[Bucharest, Romania]]></region>
+<apply-url><![CDATA[https://glovoapp.com/ro/glovers?utm_source=jooble&utm_campaign=jooble_xml]]></apply-url>
+<link><![CDATA[https://glovoapp.com/ro/glovers?utm_source=jooble&utm_campaign=jooble_xml]]></link>
+<salary><![CDATA[25 per hour]]></salary>
+</job>
+
 </jobs>
