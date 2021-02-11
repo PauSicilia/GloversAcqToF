@@ -1,1 +1,37 @@
-test
+<jobs>
+<job id="123456">
+  <name><![CDATA[Repartidor/a]]></name>
+  <pubdate>11.02.2021</pubdate>
+  <description><![CDATA[<br><b>¡Glovo está buscando gente como tú para realizar entregas en tu ciudad!</b>
+  <br><br>
+  Qué harás:
+  <br>Como repartidor, recibirás pedidos a través de nuestra app y los entregarás por toda la ciudad. Comida, la compra del súper, regalos o incluso cargadores de teléfono olvidados... Entregamos lo que sea, ¡así que cada día es una sorpresa!
+  <br>Solo entregarás paquetes pequeños, con un peso máximo de 8 kg. <br>Si cabe en la mochila, podemos entregarlo. <br><br>Algunas ventajas:
+  <br>
+  <br>Empieza de inmediato
+  <br>
+  <br>Factura cada dos semanas
+  <br>
+  <br>Horario flexible: tú eliges cuántas horas colaboras. ¡Tu horario, tus reglas!
+  <br>
+  <br>Ganancias por pedido: tarifa fija + parte variable según la distancia y el tiempo
+  <br>
+  <br>Qué necesitas:
+  <br>Un teléfono móvil
+  <br>Una motocicleta
+  <br>¡Ganas de colaborar!
+  <br>
+  <br>Cómo registrarte:
+  <br>Haz clic en el botón de arriba, completa el formulario y te enviaremos un correo electrónico con los próximos pasos.
+  <br>
+  <br>
+  <br>Gracias.
+  <br>El equipo de Glovo ]]>
+  </description>
+  <company><![CDATA[Glovo]]></company>
+  <jobtype><![CDATA[Full-time]]></jobtype>
+  <region><![CDATA[Barcelona, Spain]]></region>
+  <apply-url><![CDATA[https://couriers.glovoapp.com/es/?utm_source=talentdotcom&utm_campaign={placement}-{clickid}]]></apply-url>
+  <salary><![CDATA[10€ por hora]]></salary>
+   </job>
+</jobs>
