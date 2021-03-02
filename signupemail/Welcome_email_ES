@@ -1,1 +1,144 @@
-test
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport"content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible"content="ie=edge">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700,800|Roboto:400,500,700,900"rel="stylesheet">
+
+  <style>
+  @media only screen and (max-width: 680px){
+  .body {
+    width:100%;
+    max-width:1000px;
+  }
+
+  table.container { width: 460px !important; }
+  table.columnContainer { width: 100% !important; }
+
+    }
+  </style>
+</head>
+
+
+<!-- Hello buddy. -->
+<div class="body" style="background-color: #ededed; background-color: #ededed ; font-family: 'Montserrat', Arial, Sans-serif; color: #313131; margin: 0px; text-align:center">
+  <table class="main"style="width: 100%;  max-width:700px; margin: 0 auto; border-spacing: 0px; background-color: #ffffff;">
+    <tbody>
+                                          <!-- Header -->
+      <tr class="header"style="background-color:#313131 !important; height: 68px">
+        <td class="header2"style="position:relative;text-align:left">
+          <img src="https://cdn.braze.eu/appboy/communication/assets/image_assets/images/5c7581669ae16844b4ea8966/original.png?1551204710" style="margin-left: 5%;"/>
+        </td>
+      </tr>
+                                        <!-- END - Header -->
+                            <!-- Bloque I - preheader - title + photo -->
+      <tr>
+        <td>
+<!--
+          <div class="intro"style="font-size: 14px; color: #f2cc38; font-weight: bold; text-transform: uppercase; text-align:center; margin-top: 40px;">
+            Lorem ipsum
+          </div>
+        </td>
+      </tr>     -->
+      <tr>
+        <td>
+          <h1 style="font-size: 32px; text-align:center; margin-top: 24px;margin-bottom: 0px;"> ¡Bienvenido a Glovo! </h1>
+        </td>
+      </tr>
+      <!-- IMG Width 100% -->
+
+      <tr>
+        <td>
+          <div class="content"style=" padding-right: 10%!important; padding-left: 10%; line-height: 22px; margin-top: 0px; margin-bottom: 0px; margin-bottom: 10px;font-size:15px">
+            <p> Gracias por haber mostrado interés en repartir con Glovo, la plataforma de reparto líder en España.
+      </p>
+          </div>
+       </td>
+     </tr>
+
+      <tr>
+        <td>
+          <!-- ALTERNATIVE PHOTO: https://github.com/PauSicilia/GloversAcqToF/blob/main/signupemail/photos/headers/Glovers_Motorbike21.jpg?raw=true -->
+          <img src="https://editor-assets.abtasty.com/47146/6033ea83280431614015107.png"width="100%"/>
+        </td>
+      </tr>
+                                          <!-- END - Bloque I -->
+                        <!-- Bloque II: Preheader + title + text/paragraph + cta -->
+    <!--  <tr>
+      <td>
+        <div class="intro"style="font-size: 14px; color: #f2cc38; font-weight: bold; text-transform: uppercase; text-align:center; margin-top: 40px;">
+          Lorem ipsum
+        </div>
+      </td>
+      </tr>
+      <tr>
+        <td>
+          <h1 style="font-size: 32px; text-align:center; margin-top: 14px;margin-bottom: 36px;"> ¡Tú decides cuando repartir! </h1>
+        </td>
+      </tr> -->
+<!-- Progress Bar -->
+      <tr>
+        <td>
+          <img src="https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/signupemail/photos/progressbar/progress%20bar-01.png"width="100%"/>
+        </td>
+      </tr>
+<!-- END Progress Bar -->
+<!-- Paragraphs -->
+      <tr>
+        <td>
+          <div class="content"style=" padding-right: 10%!important; padding-left: 10%; line-height: 26px; margin-top: 0px; margin-bottom: 0px; margin-bottom: 20px;font-size:15px">
+            <p>Para continuar el proceso de inscripción deberás completar un tutorial <b>haciendo click en el botón.</b></p>
+          </div>
+       </td>
+     </tr>
+     <!-- END Paragraphs -->
+      <!-- CTA -->
+      <tr>
+        <td>
+          <div class="greencta"align="center">
+            <a href="#"target="_blank"style=" border-radius: 25px; font-size: 14px; color: #ffffff; vertical-align: middle; text-transform: uppercase; text-decoration: none; display:inline-block; background-color:#00A082; padding: 15px 10% 15px 10%; margin-top:0px; margin-bottom: 15px;">
+              <b>EMPEZAR SESIÓN ONLINE</b>
+            </a>
+          </div>
+        </td>
+      </tr>
+      <!-- END CTA -->
+      <!-- Paragraphs -->
+            <tr>
+              <td>
+                <div class="content"style=" padding-right: 10%!important; padding-left: 10%; line-height: 20px; margin-top: 0px; margin-bottom: 0px; margin-bottom: 35px;font-size:12px">
+                  <p> Ahí te mostraremos unos vídeos explicativos con información que te servirá para poder colaborar con nosotros.<br>La sesión es fácil, corta, y totalmente online. Además, puedes empezarla cuando quieras, y retomarla más tarde si así lo prefieres.
+      </p>
+                  <p><b>¡Únete ya a la comunidad global de más de 50,000 riders!</b></p>
+                </div>
+             </td>
+           </tr>
+           <!-- END Paragraphs -->
+
+          <!-- END - Bloque II: Preheader + title + text/paragraph + cta -->
+                      <!-- Bloque III: Instructions with numbers -->
+              <!-- Instructions I -->
+
+
+        <tr class="footer"style=" background-color:#313131; margin-top:36px; margin-bottom:36px;">
+          <td style=" font-size: 12px; font-weight: 500; line-height: 1.8; text-align: center; color: #ffffff; padding-top:36px;padding-bottom:15px;">
+            {{content_blocks.${Company_details_name}}}
+            <br />
+          {{content_blocks.${Copyright_info}}}
+            <br />
+          {{content_blocks.${Company_info_fiscal-address}}}
+            <br />
+            <a href="{{${set_user_to_unsubscribed_url}}}"target="_blank"style="color:#313131; text-decoration:none;">
+              X
+            </a>
+          </td>
+        </tr>
+
+
+
+
+    </tbody>
+  </table>
+</div>
+</html>
