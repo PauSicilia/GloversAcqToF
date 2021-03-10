@@ -1,0 +1,5957 @@
+<script type="application/ld+json">
+{
+    "@context":"http://schema.org/",
+    "@type":"JobPosting",
+    "datePosted":"2021-03-12T01:00:00+00:00",
+    "validThrough":"2021-12-31T01:00:00+00:00",
+    "description":"Glovo sta cercando persone come te per effettuare le consegne nella tua città!\n\nCosa dovrai fare:\n\nCome corriere, riceverai gli ordini tramite la nostra app e dovrai consegnarli in tutta la città. Dal cibo alla spesa, ma anche regali o il caricabatteria del telefono... ogni giorno sarà una sorpresa perché potrai consegnare di tutto!\nDovrai consegnare soltanto piccoli pacchi dal peso massimo di 8 kg. Se entra nello zaino, possiamo consegnarlo.\n\nAlcuni dei vantaggi:\nPuoi iniziare subito\nRicevi la fattura ogni 2 settimane\nOrario flessibile: sei tu a scegliere quante ore collaborare. Il tuo orario, le tue regole!\nEntrate per ordine: commissione fissa + importo variabile in base alla distanza e al tempo\n\nChe cosa ti servirà:\nParlare correttamente l’italiano\nUno smartphone\nUn veicolo (bicicletta, auto o moto. Puoi anche scegliere di effettuare le consegne a piedi)\nVoglia di collaborare!\n\nCome iscriverti:\nFai clic sul pulsante qui sopra, compila il modulo e ti indicheremo i passaggi successivi tramite e-mail.\n\nGrazie,\nIl team Glovo\n",
+    "employmentType":"PART-TIME",
+    "industry":"Corriere",
+    "jobBenefits": null,
+    "qualifications":"",
+    "workHours":"Programma Flessibile",
+    "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Glovo",
+        "logo": "https://res.cloudinary.com/dl4i4vlgg/image/upload/c_thumb,w_200,g_face/v1592386234/Glovo-logo-yellow-bg.jpg"
+    },
+    "title": "Corriere (Offerta Ufficiale)",
+    "jobLocation": [
+    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Alba",
+        "addressRegion":"Alba",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":44.7009153,
+          "longitude":8.0356911
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Albenga",
+        "addressRegion":"Albenga",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":44.0519715999999,
+          "longitude":8.2072995
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Albano Laziale",
+        "addressRegion":"Albano Laziale",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":41.7284572,
+          "longitude":12.6589426
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Carrara",
+        "addressRegion":"Carrara",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":44.0490834,
+          "longitude":10.0516938
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Alcamo",
+        "addressRegion":"Alcamo",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":37.9783947,
+          "longitude":12.9686255
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Acireale",
+        "addressRegion":"Acireale",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":37.607802,
+          "longitude":15.166736
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Ardea",
+        "addressRegion":"Ardea",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":41.6079691,
+          "longitude":12.5432586
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Adrano",
+        "addressRegion":"Adrano",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":37.6627555,
+          "longitude":14.8326154
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Afragola",
+        "addressRegion":"Afragola",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":40.9292773,
+          "longitude":14.313451
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Acerra",
+        "addressRegion":"Acerra",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":40.9230386,
+          "longitude":14.3093039999999
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Alghero",
+        "addressRegion":"Alghero",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":40.5579517,
+          "longitude":8.3192949
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Agrigento",
+        "addressRegion":"Agrigento",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":37.3074454,
+          "longitude":13.5863816
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Augusta",
+        "addressRegion":"Augusta",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":37.2500684,
+          "longitude":15.2216971
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Sassari",
+        "addressRegion":"Sassari",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":40.7259269,
+          "longitude":8.55568259999995
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Assisi",
+        "addressRegion":"Assisi",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":43.0707017,
+          "longitude":12.6195966
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Alessandria",
+        "addressRegion":"Alessandria",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":44.9072727,
+          "longitude":8.6116796
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Savona",
+        "addressRegion":"Savona",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":44.2975603,
+          "longitude":8.46450000000004
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Alpignano",
+        "addressRegion":"Alpignano",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":45.0929487999999,
+          "longitude":7.52370399999995
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Altamura",
+        "addressRegion":"Altamura",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":40.8226665,
+          "longitude":16.551639
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Andria",
+        "addressRegion":"Andria",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":41.2302983,
+          "longitude":16.2919813
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Ancona",
+        "addressRegion":"Ancona",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":43.6074667,
+          "longitude":13.4977519999999
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Aosta",
+        "addressRegion":"Aosta",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":45.7349551,
+          "longitude":7.3130762
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Arese",
+        "addressRegion":"Arese",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":45.5588635,
+          "longitude":9.0612991
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Ascoli Piceno",
+        "addressRegion":"Ascoli Piceno",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":42.8536043,
+          "longitude":13.5749442
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Assago",
+        "addressRegion":"Assago",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":45.405233,
+          "longitude":9.131672
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Asti",
+        "addressRegion":"Asti",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":44.9007511999999,
+          "longitude":8.20642569999995
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Alatri",
+        "addressRegion":"Alatri",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":41.7252936,
+          "longitude":13.3412036
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Avola",
+        "addressRegion":"Avola",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":36.9095319,
+          "longitude":15.1348891
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Avellino",
+        "addressRegion":"Avellino",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":40.9202589,
+          "longitude":14.7936011
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Aversa",
+        "addressRegion":"Aversa",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":40.9731743,
+          "longitude":14.2076688
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Avezzano",
+        "addressRegion":"Avezzano",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":42.0281396,
+          "longitude":13.4255636999999
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Arezzo",
+        "addressRegion":"Arezzo",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":43.4632839,
+          "longitude":11.8796336
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Bari",
+        "addressRegion":"Bari",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":41.1284266,
+          "longitude":16.8700413999999
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Bellinzago L. Cassano d'A. Gorgonzola",
+        "addressRegion":"Bellinzago L. Cassano d'A. Gorgonzola",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":45.5387042,
+          "longitude":9.44790390000002
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Bassano Del Grappa",
+        "addressRegion":"Bassano Del Grappa",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":45.7657286,
+          "longitude":11.7272746999999
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Bragheria",
+        "addressRegion":"Bragheria",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":38.0789177999999,
+          "longitude":13.512365
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Bergamo",
+        "addressRegion":"Bergamo",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":45.6982642,
+          "longitude":9.67726979999997
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Bagheria",
+        "addressRegion":"Bagheria",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":38.0789177999999,
+          "longitude":13.512365
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Biella",
+        "addressRegion":"Biella",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":45.5628842,
+          "longitude":8.05833970000003
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Belluno",
+        "addressRegion":"Belluno",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":46.1424635,
+          "longitude":12.2167088
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Belpasso",
+        "addressRegion":"Belpasso",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":37.5898196,
+          "longitude":14.9768276
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Imola",
+        "addressRegion":"Imola",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":44.3599995999999,
+          "longitude":11.7124294
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Binasco",
+        "addressRegion":"Binasco",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":45.3317093,
+          "longitude":9.09961410000005
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Bologna",
+        "addressRegion":"Bologna",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":44.4949,
+          "longitude":11.3426
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Barcellona Pozzo di Gotto",
+        "addressRegion":"Barcellona Pozzo di Gotto",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":38.1472621,
+          "longitude":15.2128482
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Bra",
+        "addressRegion":"Bra",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":44.6923429,
+          "longitude":7.8551164
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Bisceglie",
+        "addressRegion":"Bisceglie",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":41.242726,
+          "longitude":16.502065
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Busnago",
+        "addressRegion":"Busnago",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":45.6164655,
+          "longitude":9.4644206
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Busto Arsizio",
+        "addressRegion":"Busto Arsizio",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":45.611892,
+          "longitude":8.85312650000003
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Bollate",
+        "addressRegion":"Bollate",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":45.5446792,
+          "longitude":9.1176956
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Battipaglia",
+        "addressRegion":"Battipaglia",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":40.612282,
+          "longitude":14.9839006
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Bitonto",
+        "addressRegion":"Bitonto",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":41.1111623,
+          "longitude":16.6915061
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Benevento",
+        "addressRegion":"Benevento",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":41.1297613,
+          "longitude":14.7826208
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Bolzano",
+        "addressRegion":"Bolzano",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":46.4982953,
+          "longitude":11.3547581999999
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Cagliari",
+        "addressRegion":"Cagliari",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":39.2238411,
+          "longitude":9.12166130000002
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Catania",
+        "addressRegion":"Catania",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":37.5079,
+          "longitude":15.083
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Carbonia",
+        "addressRegion":"Carbonia",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":39.1644280999999,
+          "longitude":8.5228853
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Campi Bisenzio",
+        "addressRegion":"Campi Bisenzio",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":43.8259774,
+          "longitude":11.1276470999999
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Canicattì",
+        "addressRegion":"Canicattì",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":37.3581785,
+          "longitude":13.8506902
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Città di Castello",
+        "addressRegion":"Città di Castello",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":43.4639783,
+          "longitude":12.2404869
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Cisterna di Latina",
+        "addressRegion":"Cisterna di Latina",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":41.5889412,
+          "longitude":12.8296115
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Casalecchio di Reno",
+        "addressRegion":"Casalecchio di Reno",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":44.4782468999999,
+          "longitude":11.2773797
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Cava de' Tirreni",
+        "addressRegion":"Cava de' Tirreni",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":40.7039778,
+          "longitude":14.7037495
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Cecina",
+        "addressRegion":"Cecina",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":43.3104232,
+          "longitude":10.5141919
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Crema",
+        "addressRegion":"Crema",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":45.3643375,
+          "longitude":9.6824841
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Cento",
+        "addressRegion":"Cento",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":44.7315319,
+          "longitude":11.2908156
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Cesenatico",
+        "addressRegion":"Cesenatico",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":44.200847,
+          "longitude":12.4052023
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Cesena",
+        "addressRegion":"Cesena",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":44.1396438,
+          "longitude":12.2464291999999
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Content Expansion",
+        "addressRegion":"Content Expansion",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":40.900942,
+          "longitude":14.244877
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Castelfranco Emilia",
+        "addressRegion":"Castelfranco Emilia",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":44.5951111,
+          "longitude":11.0522393
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Castelfranco Veneto",
+        "addressRegion":"Castelfranco Veneto",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":45.6716942,
+          "longitude":11.9282388
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Chioggia",
+        "addressRegion":"Chioggia",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":45.2190746,
+          "longitude":12.2786505
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Conegliano",
+        "addressRegion":"Conegliano",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":45.889197,
+          "longitude":12.3006368
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Chieri",
+        "addressRegion":"Chieri",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":45.008885,
+          "longitude":7.82755510000004
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Chiavari",
+        "addressRegion":"Chiavari",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":44.3168416,
+          "longitude":9.3199822
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Aprilia",
+        "addressRegion":"Aprilia",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":41.5944018,
+          "longitude":12.6560313999999
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Ragusa",
+        "addressRegion":"Ragusa",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":36.9269273,
+          "longitude":14.7255129
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Casale Monferrato",
+        "addressRegion":"Casale Monferrato",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":45.1316088,
+          "longitude":8.450503
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Carmagnola",
+        "addressRegion":"Carmagnola",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":44.8458851,
+          "longitude":7.7174363
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Castellammare di Stabia",
+        "addressRegion":"Castellammare di Stabia",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":40.7091719,
+          "longitude":14.4844274
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Casalnuovo di Napoli",
+        "addressRegion":"Casalnuovo di Napoli",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":40.9092206,
+          "longitude":14.339994
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Correggio",
+        "addressRegion":"Correggio",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":44.7708574,
+          "longitude":10.7819083
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Como",
+        "addressRegion":"Como",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":45.8080597,
+          "longitude":9.08517649999998
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Campobasso",
+        "addressRegion":"Campobasso",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":41.5602544,
+          "longitude":14.6627161
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Canosa di Puglia",
+        "addressRegion":"Canosa di Puglia",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":41.2224319,
+          "longitude":16.0660707
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Cerignola",
+        "addressRegion":"Cerignola",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":41.2615566,
+          "longitude":15.8943043
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Cremona",
+        "addressRegion":"Cremona",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":45.133249,
+          "longitude":10.0226510999999
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Carini",
+        "addressRegion":"Carini",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":38.1311611,
+          "longitude":13.1812609
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Crotone",
+        "addressRegion":"Crotone",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":39.0831539,
+          "longitude":17.1299486
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Carpi",
+        "addressRegion":"Carpi",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":44.7838779,
+          "longitude":10.8796628999999
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Cascina",
+        "addressRegion":"Cascina",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":43.6759139,
+          "longitude":10.5558967
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Cassino",
+        "addressRegion":"Cassino",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":41.4907889,
+          "longitude":13.8333776
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Casoria",
+        "addressRegion":"Casoria",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":40.9075976,
+          "longitude":14.2928248
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Chivasso",
+        "addressRegion":"Chivasso",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":45.1900384,
+          "longitude":7.88895200000001
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Cosenza",
+        "addressRegion":"Cosenza",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":39.2982629,
+          "longitude":16.2537356999999
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Caltagirone",
+        "addressRegion":"Caltagirone",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":37.2380929,
+          "longitude":14.5126066
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Chieti",
+        "addressRegion":"Chieti",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":42.3614125,
+          "longitude":14.158225
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Corato",
+        "addressRegion":"Corato",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":41.1534886,
+          "longitude":16.4131601
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Caltanissetta",
+        "addressRegion":"Caltanissetta",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":37.4901115,
+          "longitude":14.0628927999999
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"IT",
+        "addressLocality":"Cantù",
+        "addressRegion":"Cantù",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":45.7336838,
+          "longitude":9.1362202
+          }
+          },
+          {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Cuneo",
+              "addressRegion":"Cuneo",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":44.3844766,
+                "longitude":7.5426711
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Cervia",
+              "addressRegion":"Cervia",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":44.2635492,
+                "longitude":12.3476822
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Castelvetrano",
+              "addressRegion":"Castelvetrano",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":37.6785135,
+                "longitude":12.7917794
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Civitavecchia",
+              "addressRegion":"Civitavecchia",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":42.0924239,
+                "longitude":11.7954131999999
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Content Expansion - Catania",
+              "addressRegion":"Content Expansion - Catania",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":37.5078772,
+                "longitude":15.0830304
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Content Expansion - Palermo",
+              "addressRegion":"Content Expansion - Palermo",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":38.11569,
+                "longitude":13.3614868
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Desenzano del Garda",
+              "addressRegion":"Desenzano del Garda",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":45.4714531,
+                "longitude":10.5333351
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Dragona",
+              "addressRegion":"Dragona",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":41.772343,
+                "longitude":12.3807553
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Livorno",
+              "addressRegion":"Livorno",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":43.548473,
+                "longitude":10.3105673999999
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Eboli",
+              "addressRegion":"Eboli",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":40.6179234,
+                "longitude":15.0564332
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Rho - NOT IN USE",
+              "addressRegion":"Rho - NOT IN USE",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":45.5326476,
+                "longitude":9.03961219999999
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Barletta",
+              "addressRegion":"Barletta",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":41.3196635,
+                "longitude":16.2838206999999
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Empoli",
+              "addressRegion":"Empoli",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":43.7178919,
+                "longitude":10.9477782
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Fabriano",
+              "addressRegion":"Fabriano",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":43.345429,
+                "longitude":12.905336
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Francavilla al mare",
+              "addressRegion":"Francavilla al mare",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":42.421449,
+                "longitude":14.2880228
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Fano",
+              "addressRegion":"Fano",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":43.8398163999999,
+                "longitude":13.0194200999999
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Fasano",
+              "addressRegion":"Fasano",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":40.8366588,
+                "longitude":17.3609347
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Fiumicino",
+              "addressRegion":"Fiumicino",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":41.7735409,
+                "longitude":12.2397117
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Foligno",
+              "addressRegion":"Foligno",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":42.9508683,
+                "longitude":12.7014748999999
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Firenze",
+              "addressRegion":"Firenze",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":43.7696,
+                "longitude":11.2558
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Fermo",
+              "addressRegion":"Fermo",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":43.1588734,
+                "longitude":13.7200884
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Faenza",
+              "addressRegion":"Faenza",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":44.2898527,
+                "longitude":11.8774091
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Foggia",
+              "addressRegion":"Foggia",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":41.4621984,
+                "longitude":15.5446302
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Fondi",
+              "addressRegion":"Fondi",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":41.359119,
+                "longitude":13.4265681
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Fossano",
+              "addressRegion":"Fossano",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":44.552479,
+                "longitude":7.7217934
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Forlì",
+              "addressRegion":"Forlì",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":44.2227398,
+                "longitude":12.0407311999999
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Formia",
+              "addressRegion":"Formia",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":41.2559961,
+                "longitude":13.6068672
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Ferrara",
+              "addressRegion":"Ferrara",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":44.8381237,
+                "longitude":11.6197869999999
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Frosinone",
+              "addressRegion":"Frosinone",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":41.6396009,
+                "longitude":13.3426341
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Fonte Nuova",
+              "addressRegion":"Fonte Nuova",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":41.9987745,
+                "longitude":12.6331035
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Francavilla Fontana",
+              "addressRegion":"Francavilla Fontana",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":40.5304977,
+                "longitude":17.5827818
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Fidenza",
+              "addressRegion":"Fidenza",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":44.866279,
+                "longitude":10.0615953
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Gubbio",
+              "addressRegion":"Gubbio",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":43.3513193,
+                "longitude":12.5753166
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Gioia del Colle",
+              "addressRegion":"Gioia del Colle",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":40.7990706,
+                "longitude":16.9221587
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Gela",
+              "addressRegion":"Gela",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":37.0741526,
+                "longitude":14.2403537
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Genova",
+              "addressRegion":"Genova",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":44.4056,
+                "longitude":8.9463
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Gravina in Puglia",
+              "addressRegion":"Gravina in Puglia",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":40.8171447,
+                "longitude":16.418512
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Giugliano in Campania",
+              "addressRegion":"Giugliano in Campania",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":40.9285635,
+                "longitude":14.2032077
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Gallarate",
+              "addressRegion":"Gallarate",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":45.6623632,
+                "longitude":8.79212689999997
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Giarre",
+              "addressRegion":"Giarre",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":37.7269871,
+                "longitude":15.1842443
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Grottaglie",
+              "addressRegion":"Grottaglie",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":40.5379536,
+                "longitude":17.435493
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Gorizia",
+              "addressRegion":"Gorizia",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":45.9053899,
+                "longitude":13.5163725
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Giussano",
+              "addressRegion":"Giussano",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":45.7002381,
+                "longitude":9.2089664
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Guidonia",
+              "addressRegion":"Guidonia",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":41.9939694,
+                "longitude":12.7245044999999
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Imperia",
+              "addressRegion":"Imperia",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":43.8896857,
+                "longitude":8.039517
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Jesi",
+              "addressRegion":"Jesi",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":43.5270861,
+                "longitude":13.2463797
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Licata",
+              "addressRegion":"Licata",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":37.1017094,
+                "longitude":13.9373306
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Lecce",
+              "addressRegion":"Lecce",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":40.3515155,
+                "longitude":18.1750160999999
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Lido di Camaiore",
+              "addressRegion":"Lido di Camaiore",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":43.9050586,
+                "longitude":10.2291725
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Lanciano",
+              "addressRegion":"Lanciano",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":42.22655,
+                "longitude":14.3890227
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Lecco",
+              "addressRegion":"Lecco",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":45.8565698,
+                "longitude":9.39767040000003
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Lucca",
+              "addressRegion":"Lucca",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":43.8429197,
+                "longitude":10.5026977
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Lodi",
+              "addressRegion":"Lodi",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":45.3097228,
+                "longitude":9.50371599999999
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Lido di Ostia",
+              "addressRegion":"Lido di Ostia",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":41.7311181999999,
+                "longitude":12.2862694
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Ladispoli",
+              "addressRegion":"Ladispoli",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":41.9498965,
+                "longitude":12.0761044999999
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Legnano - NOT IN USE",
+              "addressRegion":"Legnano - NOT IN USE",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":45.5983403,
+                "longitude":8.91424849999998
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Lugo Ita",
+              "addressRegion":"Lugo Ita",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":44.4218313999999,
+                "longitude":11.9116835
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Reggio Emilia",
+              "addressRegion":"Reggio Emilia",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":44.6989932,
+                "longitude":10.6296859
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Limbiate",
+              "addressRegion":"Limbiate",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":45.6080291,
+                "longitude":9.1295461
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Lamezia Terme",
+              "addressRegion":"Lamezia Terme",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":38.9666775,
+                "longitude":16.3123069
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Lucera",
+              "addressRegion":"Lucera",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":41.5054806,
+                "longitude":15.3385282
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Catanzaro Lido",
+              "addressRegion":"Catanzaro Lido",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":38.821959,
+                "longitude":16.6127957999999
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"La Spezia",
+              "addressRegion":"La Spezia",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":44.1024504,
+                "longitude":9.82408259999999
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Leini Settimo Torinese",
+              "addressRegion":"Leini Settimo Torinese",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":45.1835252,
+                "longitude":7.7137308
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Locate Triulzi",
+              "addressRegion":"Locate Triulzi",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":45.3598054,
+                "longitude":9.2216611
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Macerata",
+              "addressRegion":"Macerata",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":43.2984268,
+                "longitude":13.4534767
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Modica",
+              "addressRegion":"Modica",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":36.863286,
+                "longitude":14.7605207
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Mola di Bari",
+              "addressRegion":"Mola di Bari",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":41.0629733,
+                "longitude":17.0903032
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Modugno",
+              "addressRegion":"Modugno",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":41.0827211999999,
+                "longitude":16.7824423
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Mazara del Vallo",
+              "addressRegion":"Mazara del Vallo",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":37.6563194,
+                "longitude":12.5918077
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Merano",
+              "addressRegion":"Merano",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":46.6712938,
+                "longitude":11.1525179
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Messina",
+              "addressRegion":"Messina",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":38.1937369,
+                "longitude":15.5542156999999
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Manfredonia",
+              "addressRegion":"Manfredonia",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":41.6307057,
+                "longitude":15.9185043
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Martina Franca",
+              "addressRegion":"Martina Franca",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":40.7028666,
+                "longitude":17.3392645
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Molfetta",
+              "addressRegion":"Molfetta",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":41.196165,
+                "longitude":16.5968824999999
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Mogliano Veneto",
+              "addressRegion":"Mogliano Veneto",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":45.5537964,
+                "longitude":12.2342958
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Milano",
+              "addressRegion":"Milano",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":45.4667,
+                "longitude":9.1833
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Mirano",
+              "addressRegion":"Mirano",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":45.4950138,
+                "longitude":12.1158683
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Mira",
+              "addressRegion":"Mira",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":45.4329011,
+                "longitude":12.123432
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Comiso",
+              "addressRegion":"Comiso",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":36.947379,
+                "longitude":14.6036774
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Montebelluna",
+              "addressRegion":"Montebelluna",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":45.775491,
+                "longitude":12.0439904
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Mascalucia",
+              "addressRegion":"Mascalucia",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":37.574146,
+                "longitude":15.0506429
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Manduria",
+              "addressRegion":"Manduria",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":40.3980418,
+                "longitude":17.6376863
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Monfalcone",
+              "addressRegion":"Monfalcone",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":45.8050468,
+                "longitude":13.5331727
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Marino",
+              "addressRegion":"Marino",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":41.7700866,
+                "longitude":12.6585371
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Monopoli",
+              "addressRegion":"Monopoli",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":40.9525166,
+                "longitude":17.2985559
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Marano di Napoli",
+              "addressRegion":"Marano di Napoli",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":40.8899594,
+                "longitude":14.1916736
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Marsala",
+              "addressRegion":"Marsala",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":37.8013109,
+                "longitude":12.4342321
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Misterbianco",
+              "addressRegion":"Misterbianco",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":37.5183103,
+                "longitude":15.0077396
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Massafra",
+              "addressRegion":"Massafra",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":40.5910849,
+                "longitude":17.1184062
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Misilmeri",
+              "addressRegion":"Misilmeri",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":38.0299031,
+                "longitude":13.4481866
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Matera",
+              "addressRegion":"Matera",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":40.6638938,
+                "longitude":16.6023201
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Montichiari",
+              "addressRegion":"Montichiari",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":45.4148389,
+                "longitude":10.3928713
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Monterotondo",
+              "addressRegion":"Monterotondo",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":42.0517785,
+                "longitude":12.6202874
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Mantova",
+              "addressRegion":"Mantova",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":45.1564168,
+                "longitude":10.7913750999999
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Montesilvano",
+              "addressRegion":"Montesilvano",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":42.5102078999999,
+                "longitude":14.1436995999999
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Montevarchi",
+              "addressRegion":"Montevarchi",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":43.530781,
+                "longitude":11.5639528
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Varese",
+              "addressRegion":"Varese",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":45.8205989,
+                "longitude":8.82505760000003
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Milazzo",
+              "addressRegion":"Milazzo",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":38.2207102,
+                "longitude":15.2419327
+                }
+                },    {
+            "@type":"Place",
+            "address":
+            {
+              "@type":"PostalAddress",
+              "addressCountry":"IT",
+              "addressLocality":"Napoli",
+              "addressRegion":"Napoli",
+              "streetAddress":"",
+              "postalCode":""
+              },
+
+              "geo":
+              {
+                "@type":"GeoCoordinates",
+                "latitude":40.85181,
+                "longitude":14.2710207999999
+                }
+                },
+                {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Nardò",
+                    "addressRegion":"Nardò",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":40.1798489,
+                      "longitude":18.0331588
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Nocera Inferiore",
+                    "addressRegion":"Nocera Inferiore",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":40.7460596,
+                      "longitude":14.6474887
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Novi Ligure",
+                    "addressRegion":"Novi Ligure",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":44.7620048,
+                      "longitude":8.7858956
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Milano Nord",
+                    "addressRegion":"Milano Nord",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":45.535347,
+                      "longitude":9.173603
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Noto",
+                    "addressRegion":"Noto",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":36.8924433,
+                      "longitude":15.0651945
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Novara",
+                    "addressRegion":"Novara",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":45.4469299999999,
+                      "longitude":8.62216119999993
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Nettuno Anzio",
+                    "addressRegion":"Nettuno Anzio",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":41.4577305,
+                      "longitude":12.6654914
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Nuoro",
+                    "addressRegion":"Nuoro",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":40.3202421,
+                      "longitude":9.3264377
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Grosseto",
+                    "addressRegion":"Grosseto",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":42.7635254,
+                      "longitude":11.1123634
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Olbia",
+                    "addressRegion":"Olbia",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":40.9235763999999,
+                      "longitude":9.49644290000003
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Abbiategrasso",
+                    "addressRegion":"Abbiategrasso",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":45.3990523,
+                      "longitude":8.91655530000002
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Oristano",
+                    "addressRegion":"Oristano",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":39.906182,
+                      "longitude":8.5883863
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Osimo",
+                    "addressRegion":"Osimo",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":43.4884025,
+                      "longitude":13.4785426
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Ostuni",
+                    "addressRegion":"Ostuni",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":40.7295235,
+                      "longitude":17.5779979
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Padova",
+                    "addressRegion":"Padova",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":45.4064,
+                      "longitude":11.8768
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Paternò",
+                    "addressRegion":"Paternò",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":37.5671795,
+                      "longitude":14.9017568
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Pavia",
+                    "addressRegion":"Pavia",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":45.1847248,
+                      "longitude":9.15820689999998
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Parabiago",
+                    "addressRegion":"Parabiago",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":45.558189,
+                      "longitude":8.9478154
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Piombino",
+                    "addressRegion":"Piombino",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":42.9256335,
+                      "longitude":10.5258891
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Partinico",
+                    "addressRegion":"Partinico",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":38.0466977,
+                      "longitude":13.1183541
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Pordenone",
+                    "addressRegion":"Pordenone",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":45.9626398,
+                      "longitude":12.6551362
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Perugia",
+                    "addressRegion":"Perugia",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":43.1107168,
+                      "longitude":12.3908278999999
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Pesaro",
+                    "addressRegion":"Pesaro",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":43.9124756,
+                      "longitude":12.9155494
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Poggibonsi",
+                    "addressRegion":"Poggibonsi",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":43.4725646,
+                      "longitude":11.146754
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Pagani - NOT IN USE",
+                    "addressRegion":"Pagani - NOT IN USE",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":40.7419397,
+                      "longitude":14.6145949
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Pioltello",
+                    "addressRegion":"Pioltello",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":45.5013851,
+                      "longitude":9.33047249999999
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Parma",
+                    "addressRegion":"Parma",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":44.801485,
+                      "longitude":10.3279036
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Palermo",
+                    "addressRegion":"Palermo",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":38.1157,
+                      "longitude":13.3613
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Pomezia",
+                    "addressRegion":"Pomezia",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":41.6693373,
+                      "longitude":12.5023439
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Pinerolo",
+                    "addressRegion":"Pinerolo",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":44.8845906,
+                      "longitude":7.33066759999999
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Parabiago",
+                    "addressRegion":"Parabiago",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":45.558189,
+                      "longitude":8.9478154
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Prato",
+                    "addressRegion":"Prato",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":43.8777049,
+                      "longitude":11.1022279999999
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Pisa",
+                    "addressRegion":"Pisa",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":43.7228386,
+                      "longitude":10.4016887999999
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Pescara",
+                    "addressRegion":"Pescara",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":42.4617902,
+                      "longitude":14.2160897999999
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Pistoia",
+                    "addressRegion":"Pistoia",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":43.9303475,
+                      "longitude":10.9078587
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Portici",
+                    "addressRegion":"Portici",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":40.81563,
+                      "longitude":14.33716
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Pontedera",
+                    "addressRegion":"Pontedera",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":43.6625156,
+                      "longitude":10.6363586
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Portogruaro",
+                    "addressRegion":"Portogruaro",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":45.7805759,
+                      "longitude":12.8373992
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Potenza",
+                    "addressRegion":"Potenza",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":40.6404067,
+                      "longitude":15.8056040999999
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Pozzuoli",
+                    "addressRegion":"Pozzuoli",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":40.8459469,
+                      "longitude":14.0932861
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"L'Aquila",
+                    "addressRegion":"L'Aquila",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":42.3498479,
+                      "longitude":13.3995090999999
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Latina",
+                    "addressRegion":"Latina",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":41.4675671,
+                      "longitude":12.9035965
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Massa",
+                    "addressRegion":"Massa",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":44.0354436999999,
+                      "longitude":10.1393220999999
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Piacenza",
+                    "addressRegion":"Piacenza",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":45.0526206,
+                      "longitude":9.69298449999996
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Quarrata",
+                    "addressRegion":"Quarrata",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":43.8601819999999,
+                      "longitude":10.985384
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Salerno",
+                    "addressRegion":"Salerno",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":40.6824407999999,
+                      "longitude":14.7680960999999
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Caserta",
+                    "addressRegion":"Caserta",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":41.0723484,
+                      "longitude":14.3311337
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Quarto",
+                    "addressRegion":"Quarto",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":40.8784309,
+                      "longitude":14.1452416
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Ravenna",
+                    "addressRegion":"Ravenna",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":44.4183598,
+                      "longitude":12.2035293999999
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Riccione",
+                    "addressRegion":"Riccione",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":43.999296,
+                      "longitude":12.6555485
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Brindisi",
+                    "addressRegion":"Brindisi",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":40.6327278,
+                      "longitude":17.9417616
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Reggio Calabria",
+                    "addressRegion":"Reggio Calabria",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":38.1113006,
+                      "longitude":15.6472913999999
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Rimini",
+                    "addressRegion":"Rimini",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":44.0678288,
+                      "longitude":12.5695158
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Rieti",
+                    "addressRegion":"Rieti",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":42.404509,
+                      "longitude":12.8567281
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Roma",
+                    "addressRegion":"Roma",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":41.901746,
+                      "longitude":12.49359
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Rovato",
+                    "addressRegion":"Rovato",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":45.5654088,
+                      "longitude":9.9999307
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Rapallo",
+                    "addressRegion":"Rapallo",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":44.3498211,
+                      "longitude":9.2338889
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Rosignano Marittimo",
+                    "addressRegion":"Rosignano Marittimo",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":43.3968845,
+                      "longitude":10.4357507
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Rovigo",
+                    "addressRegion":"Rovigo",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":45.0707359313964,
+                      "longitude":11.7897958755493
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Ruvo di Puglia",
+                    "addressRegion":"Ruvo di Puglia",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":41.1172905,
+                      "longitude":16.4837252
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Rovereto",
+                    "addressRegion":"Rovereto",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":45.89096,
+                      "longitude":11.0401399
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Siena",
+                    "addressRegion":"Siena",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":43.3188089999999,
+                      "longitude":11.3307574
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"San Benedetto del Tronto",
+                    "addressRegion":"San Benedetto del Tronto",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":42.9609785,
+                      "longitude":13.8746469
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Sciacca",
+                    "addressRegion":"Sciacca",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":37.5085148,
+                      "longitude":13.0816305
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Scandicci",
+                    "addressRegion":"Scandicci",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":43.7307032999999,
+                      "longitude":11.1504111
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Scafati",
+                    "addressRegion":"Scafati",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":40.7614448,
+                      "longitude":14.5364182
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"San Donà di Piave",
+                    "addressRegion":"San Donà di Piave",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":45.630335,
+                      "longitude":12.5660992
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Spinea",
+                    "addressRegion":"Spinea",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":45.4925187,
+                      "longitude":12.1626353
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Sezze",
+                    "addressRegion":"Sezze",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":41.4994158,
+                      "longitude":13.0617578
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Sesto Fiorentino",
+                    "addressRegion":"Sesto Fiorentino",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":43.8334905,
+                      "longitude":11.1922227
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"San Giorgio a Cremano - NON USARE",
+                    "addressRegion":"San Giorgio a Cremano - NON USARE",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":40.8344827,
+                      "longitude":14.3447444
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Senigallia",
+                    "addressRegion":"Senigallia",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":43.7197926,
+                      "longitude":13.2152224
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"San Giuliano Milanese",
+                    "addressRegion":"San Giuliano Milanese",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":45.3937633,
+                      "longitude":9.29201020000005
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Segrate",
+                    "addressRegion":"Segrate",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":45.4920003999999,
+                      "longitude":9.2981309
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"San Giuliano Terme",
+                    "addressRegion":"San Giuliano Terme",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":43.7596639,
+                      "longitude":10.4418645
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Schio",
+                    "addressRegion":"Schio",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":45.7170517,
+                      "longitude":11.3597702
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Seregno",
+                    "addressRegion":"Seregno",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":45.6504567,
+                      "longitude":9.2051608
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"San Miniato",
+                    "addressRegion":"San Miniato",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":43.6829641,
+                      "longitude":10.8551196
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Scandiano",
+                    "addressRegion":"Scandiano",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":44.5982342,
+                      "longitude":10.6909273
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Sora",
+                    "addressRegion":"Sora",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":41.7188539,
+                      "longitude":13.6130491
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Spoleto",
+                    "addressRegion":"Spoleto",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":42.7404881,
+                      "longitude":12.7378003
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"San Giovanni in Persiceto",
+                    "addressRegion":"San Giovanni in Persiceto",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":44.6405433,
+                      "longitude":11.1893053
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Siracusa",
+                    "addressRegion":"Siracusa",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":37.0754739,
+                      "longitude":15.2865861
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Sanremo",
+                    "addressRegion":"Sanremo",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":43.8159670999999,
+                      "longitude":7.77605670000002
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Saronno",
+                    "addressRegion":"Saronno",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":45.6242491,
+                      "longitude":9.0359607
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Civitanova Marche",
+                    "addressRegion":"Civitanova Marche",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":43.3048492,
+                      "longitude":13.7218351
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Sassuolo",
+                    "addressRegion":"Sassuolo",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":44.54433,
+                      "longitude":10.7847741
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"San Severo",
+                    "addressRegion":"San Severo",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":41.6870518,
+                      "longitude":15.382059
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Catanzaro",
+                    "addressRegion":"Catanzaro",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":38.9097918999999,
+                      "longitude":16.5876516
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Taranto",
+                    "addressRegion":"Taranto",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":40.4643606,
+                      "longitude":17.2470303
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Terracina",
+                    "addressRegion":"Terracina",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":41.2963728,
+                      "longitude":13.2332656999999
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Torre Del Greco",
+                    "addressRegion":"Torre Del Greco",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":40.7883105,
+                      "longitude":14.3692701
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Thiene",
+                    "addressRegion":"Thiene",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":45.7070408,
+                      "longitude":11.4773537
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Termoli",
+                    "addressRegion":"Termoli",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":42.0005331,
+                      "longitude":14.9952839
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Teramo",
+                    "addressRegion":"Teramo",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":42.6597227,
+                      "longitude":13.7007915
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Trani",
+                    "addressRegion":"Trani",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":41.2774857,
+                      "longitude":16.4178334
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Trento",
+                    "addressRegion":"Trento",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":46.0747793,
+                      "longitude":11.1217486
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Torino",
+                    "addressRegion":"Torino",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":45.0725619999999,
+                      "longitude":7.67359850000002
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Trapani",
+                    "addressRegion":"Trapani",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":38.0173505,
+                      "longitude":12.5365170999999
+                      }
+                      },    {
+                  "@type":"Place",
+                  "address":
+                  {
+                    "@type":"PostalAddress",
+                    "addressCountry":"IT",
+                    "addressLocality":"Treviglio",
+                    "addressRegion":"Treviglio",
+                    "streetAddress":"",
+                    "postalCode":""
+                    },
+
+                    "geo":
+                    {
+                      "@type":"GeoCoordinates",
+                      "latitude":45.5211505,
+                      "longitude":9.5951189
+                      }
+                      },
+                      {
+                        "@type":"Place",
+                        "address":
+                        {
+                          "@type":"PostalAddress",
+                          "addressCountry":"IT",
+                          "addressLocality":"Trieste",
+                          "addressRegion":"Trieste",
+                          "streetAddress":"",
+                          "postalCode":""
+                          },
+
+                          "geo":
+                          {
+                            "@type":"GeoCoordinates",
+                            "latitude":45.6495264,
+                            "longitude":13.7768181999999
+                            }
+                            },    {
+                        "@type":"Place",
+                        "address":
+                        {
+                          "@type":"PostalAddress",
+                          "addressCountry":"IT",
+                          "addressLocality":"Terni",
+                          "addressRegion":"Terni",
+                          "streetAddress":"",
+                          "postalCode":""
+                          },
+
+                          "geo":
+                          {
+                            "@type":"GeoCoordinates",
+                            "latitude":42.5636168,
+                            "longitude":12.6426604
+                            }
+                            },    {
+                        "@type":"Place",
+                        "address":
+                        {
+                          "@type":"PostalAddress",
+                          "addressCountry":"IT",
+                          "addressLocality":"Treviso",
+                          "addressRegion":"Treviso",
+                          "streetAddress":"",
+                          "postalCode":""
+                          },
+
+                          "geo":
+                          {
+                            "@type":"GeoCoordinates",
+                            "latitude":45.6668893,
+                            "longitude":12.2430437
+                            }
+                            },    {
+                        "@type":"Place",
+                        "address":
+                        {
+                          "@type":"PostalAddress",
+                          "addressCountry":"IT",
+                          "addressLocality":"Tortona",
+                          "addressRegion":"Tortona",
+                          "streetAddress":"",
+                          "postalCode":""
+                          },
+
+                          "geo":
+                          {
+                            "@type":"GeoCoordinates",
+                            "latitude":44.8952122,
+                            "longitude":8.8633326
+                            }
+                            },    {
+                        "@type":"Place",
+                        "address":
+                        {
+                          "@type":"PostalAddress",
+                          "addressCountry":"IT",
+                          "addressLocality":"Tivoli",
+                          "addressRegion":"Tivoli",
+                          "streetAddress":"",
+                          "postalCode":""
+                          },
+
+                          "geo":
+                          {
+                            "@type":"GeoCoordinates",
+                            "latitude":41.9594874999999,
+                            "longitude":12.7974981
+                            }
+                            },    {
+                        "@type":"Place",
+                        "address":
+                        {
+                          "@type":"PostalAddress",
+                          "addressCountry":"IT",
+                          "addressLocality":"Udine",
+                          "addressRegion":"Udine",
+                          "streetAddress":"",
+                          "postalCode":""
+                          },
+
+                          "geo":
+                          {
+                            "@type":"GeoCoordinates",
+                            "latitude":46.0710667999999,
+                            "longitude":13.2345794
+                            }
+                            },    {
+                        "@type":"Place",
+                        "address":
+                        {
+                          "@type":"PostalAddress",
+                          "addressCountry":"IT",
+                          "addressLocality":"Verbania",
+                          "addressRegion":"Verbania",
+                          "streetAddress":"",
+                          "postalCode":""
+                          },
+
+                          "geo":
+                          {
+                            "@type":"GeoCoordinates",
+                            "latitude":45.9283065,
+                            "longitude":8.5553711
+                            }
+                            },    {
+                        "@type":"Place",
+                        "address":
+                        {
+                          "@type":"PostalAddress",
+                          "addressCountry":"IT",
+                          "addressLocality":"Brescia",
+                          "addressRegion":"Brescia",
+                          "streetAddress":"",
+                          "postalCode":""
+                          },
+
+                          "geo":
+                          {
+                            "@type":"GeoCoordinates",
+                            "latitude":45.5415526,
+                            "longitude":10.2118018999999
+                            }
+                            },    {
+                        "@type":"Place",
+                        "address":
+                        {
+                          "@type":"PostalAddress",
+                          "addressCountry":"IT",
+                          "addressLocality":"Vibo Valentia",
+                          "addressRegion":"Vibo Valentia",
+                          "streetAddress":"",
+                          "postalCode":""
+                          },
+
+                          "geo":
+                          {
+                            "@type":"GeoCoordinates",
+                            "latitude":38.6757774,
+                            "longitude":16.0983488
+                            }
+                            },    {
+                        "@type":"Place",
+                        "address":
+                        {
+                          "@type":"PostalAddress",
+                          "addressCountry":"IT",
+                          "addressLocality":"Mestre",
+                          "addressRegion":"Mestre",
+                          "streetAddress":"",
+                          "postalCode":""
+                          },
+
+                          "geo":
+                          {
+                            "@type":"GeoCoordinates",
+                            "latitude":45.4934881,
+                            "longitude":12.2463181
+                            }
+                            },    {
+                        "@type":"Place",
+                        "address":
+                        {
+                          "@type":"PostalAddress",
+                          "addressCountry":"IT",
+                          "addressLocality":"Verona",
+                          "addressRegion":"Verona",
+                          "streetAddress":"",
+                          "postalCode":""
+                          },
+
+                          "geo":
+                          {
+                            "@type":"GeoCoordinates",
+                            "latitude":45.4384,
+                            "longitude":10.9916
+                            }
+                            },    {
+                        "@type":"Place",
+                        "address":
+                        {
+                          "@type":"PostalAddress",
+                          "addressCountry":"IT",
+                          "addressLocality":"Viareggio",
+                          "addressRegion":"Viareggio",
+                          "streetAddress":"",
+                          "postalCode":""
+                          },
+
+                          "geo":
+                          {
+                            "@type":"GeoCoordinates",
+                            "latitude":43.8657267,
+                            "longitude":10.2513103
+                            }
+                            },    {
+                        "@type":"Place",
+                        "address":
+                        {
+                          "@type":"PostalAddress",
+                          "addressCountry":"IT",
+                          "addressLocality":"Voghera",
+                          "addressRegion":"Voghera",
+                          "streetAddress":"",
+                          "postalCode":""
+                          },
+
+                          "geo":
+                          {
+                            "@type":"GeoCoordinates",
+                            "latitude":44.9916599,
+                            "longitude":9.01204419999999
+                            }
+                            },    {
+                        "@type":"Place",
+                        "address":
+                        {
+                          "@type":"PostalAddress",
+                          "addressCountry":"IT",
+                          "addressLocality":"Vignola",
+                          "addressRegion":"Vignola",
+                          "streetAddress":"",
+                          "postalCode":""
+                          },
+
+                          "geo":
+                          {
+                            "@type":"GeoCoordinates",
+                            "latitude":44.4835861,
+                            "longitude":11.0131217
+                            }
+                            },    {
+                        "@type":"Place",
+                        "address":
+                        {
+                          "@type":"PostalAddress",
+                          "addressCountry":"IT",
+                          "addressLocality":"Vigevano",
+                          "addressRegion":"Vigevano",
+                          "streetAddress":"",
+                          "postalCode":""
+                          },
+
+                          "geo":
+                          {
+                            "@type":"GeoCoordinates",
+                            "latitude":45.3218787,
+                            "longitude":8.84667260000003
+                            }
+                            },    {
+                        "@type":"Place",
+                        "address":
+                        {
+                          "@type":"PostalAddress",
+                          "addressCountry":"IT",
+                          "addressLocality":"Vicenza",
+                          "addressRegion":"Vicenza",
+                          "streetAddress":"",
+                          "postalCode":""
+                          },
+
+                          "geo":
+                          {
+                            "@type":"GeoCoordinates",
+                            "latitude":45.5454787,
+                            "longitude":11.5354214
+                            }
+                            },    {
+                        "@type":"Place",
+                        "address":
+                        {
+                          "@type":"PostalAddress",
+                          "addressCountry":"IT",
+                          "addressLocality":"Villanova",
+                          "addressRegion":"Villanova",
+                          "streetAddress":"",
+                          "postalCode":""
+                          },
+
+                          "geo":
+                          {
+                            "@type":"GeoCoordinates",
+                            "latitude":41.9629866999999,
+                            "longitude":12.7566108999999
+                            }
+                            },    {
+                        "@type":"Place",
+                        "address":
+                        {
+                          "@type":"PostalAddress",
+                          "addressCountry":"IT",
+                          "addressLocality":"Velletri",
+                          "addressRegion":"Velletri",
+                          "streetAddress":"",
+                          "postalCode":""
+                          },
+
+                          "geo":
+                          {
+                            "@type":"GeoCoordinates",
+                            "latitude":41.6868422,
+                            "longitude":12.7785347
+                            }
+                            },    {
+                        "@type":"Place",
+                        "address":
+                        {
+                          "@type":"PostalAddress",
+                          "addressCountry":"IT",
+                          "addressLocality":"Villafranca di Verona",
+                          "addressRegion":"Villafranca di Verona",
+                          "streetAddress":"",
+                          "postalCode":""
+                          },
+
+                          "geo":
+                          {
+                            "@type":"GeoCoordinates",
+                            "latitude":45.3552545999999,
+                            "longitude":10.8474267
+                            }
+                            },    {
+                        "@type":"Place",
+                        "address":
+                        {
+                          "@type":"PostalAddress",
+                          "addressCountry":"IT",
+                          "addressLocality":"Valenza",
+                          "addressRegion":"Valenza",
+                          "streetAddress":"",
+                          "postalCode":""
+                          },
+
+                          "geo":
+                          {
+                            "@type":"GeoCoordinates",
+                            "latitude":45.0122876,
+                            "longitude":8.64411099999999
+                            }
+                            },    {
+                        "@type":"Place",
+                        "address":
+                        {
+                          "@type":"PostalAddress",
+                          "addressCountry":"IT",
+                          "addressLocality":"Vimercate",
+                          "addressRegion":"Vimercate",
+                          "streetAddress":"",
+                          "postalCode":""
+                          },
+
+                          "geo":
+                          {
+                            "@type":"GeoCoordinates",
+                            "latitude":45.6158614,
+                            "longitude":9.36841349999999
+                            }
+                            },    {
+                        "@type":"Place",
+                        "address":
+                        {
+                          "@type":"PostalAddress",
+                          "addressCountry":"IT",
+                          "addressLocality":"Venezia",
+                          "addressRegion":"Venezia",
+                          "streetAddress":"",
+                          "postalCode":""
+                          },
+
+                          "geo":
+                          {
+                            "@type":"GeoCoordinates",
+                            "latitude":45.4408474,
+                            "longitude":12.3155151
+                            }
+                            },    {
+                        "@type":"Place",
+                        "address":
+                        {
+                          "@type":"PostalAddress",
+                          "addressCountry":"IT",
+                          "addressLocality":"Volla",
+                          "addressRegion":"Volla",
+                          "streetAddress":"",
+                          "postalCode":""
+                          },
+
+                          "geo":
+                          {
+                            "@type":"GeoCoordinates",
+                            "latitude":40.8767024,
+                            "longitude":14.3411568
+                            }
+                            },    {
+                        "@type":"Place",
+                        "address":
+                        {
+                          "@type":"PostalAddress",
+                          "addressCountry":"IT",
+                          "addressLocality":"Vercelli",
+                          "addressRegion":"Vercelli",
+                          "streetAddress":"",
+                          "postalCode":""
+                          },
+
+                          "geo":
+                          {
+                            "@type":"GeoCoordinates",
+                            "latitude":45.3202272,
+                            "longitude":8.41857349999999
+                            }
+                            },    {
+                        "@type":"Place",
+                        "address":
+                        {
+                          "@type":"PostalAddress",
+                          "addressCountry":"IT",
+                          "addressLocality":"Vasto",
+                          "addressRegion":"Vasto",
+                          "streetAddress":"",
+                          "postalCode":""
+                          },
+
+                          "geo":
+                          {
+                            "@type":"GeoCoordinates",
+                            "latitude":42.1215281,
+                            "longitude":14.7050086
+                            }
+                            },    {
+                        "@type":"Place",
+                        "address":
+                        {
+                          "@type":"PostalAddress",
+                          "addressCountry":"IT",
+                          "addressLocality":"Viterbo",
+                          "addressRegion":"Viterbo",
+                          "streetAddress":"",
+                          "postalCode":""
+                          },
+
+                          "geo":
+                          {
+                            "@type":"GeoCoordinates",
+                            "latitude":42.4206765999999,
+                            "longitude":12.107669
+                            }
+                            },    {
+                        "@type":"Place",
+                        "address":
+                        {
+                          "@type":"PostalAddress",
+                          "addressCountry":"IT",
+                          "addressLocality":"Vittoria",
+                          "addressRegion":"Vittoria",
+                          "streetAddress":"",
+                          "postalCode":""
+                          },
+
+                          "geo":
+                          {
+                            "@type":"GeoCoordinates",
+                            "latitude":36.9516442,
+                            "longitude":14.5308668
+                            }
+                            },    {
+                        "@type":"Place",
+                        "address":
+                        {
+                          "@type":"PostalAddress",
+                          "addressCountry":"IT",
+                          "addressLocality":"Vittorio Veneto",
+                          "addressRegion":"Vittorio Veneto",
+                          "streetAddress":"",
+                          "postalCode":""
+                          },
+
+                          "geo":
+                          {
+                            "@type":"GeoCoordinates",
+                            "latitude":45.9786011,
+                            "longitude":12.3017968
+                            }
+                            },    {
+                        "@type":"Place",
+                        "address":
+                        {
+                          "@type":"PostalAddress",
+                          "addressCountry":"IT",
+                          "addressLocality":"Modena",
+                          "addressRegion":"Modena",
+                          "streetAddress":"",
+                          "postalCode":""
+                          },
+
+                          "geo":
+                          {
+                            "@type":"GeoCoordinates",
+                            "latitude":44.647128,
+                            "longitude":10.9252268999999
+                            }
+                            },
+        ],
+    "baseSalary": {
+        "@type": "MonetaryAmount",
+        "currency": "EUR",
+        "value": {
+            "@type": "QuantitativeValue",
+            "value": 10,
+            "unitText": "HOUR"
+        }
+    }
+}
+</script>
