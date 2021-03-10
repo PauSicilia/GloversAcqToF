@@ -1,0 +1,40 @@
+{"@context":"http://schema.org/"
+  "@type":"JobPosting",
+  "datePosted":"2021-03-09T01:00:00+00:00",
+  "description":"¿Qué es Glovo?\nGlovo es la primera app de mensajería y recadería on-demand, colaborativa urbana y exprés. Permite a sus clientes enviar u obtener cualquier producto en menos de una hora.\n\nCualquier producto, cualquier recado, cualquier envío: en cuestión de minutos. La app móvil conecta los usuarios con mensajeros independientes y permite comprar productos de cualquier restaurante, café o tienda en Lloret de Mar, así como enviar paquetes urgentes. Una vez hecho el pedido, el usuario puede seguir a tiempo real el estado de su pedido mediante la señal GPS de su mensajero.\n\n\n\n¿Cómo es la oferta?Glovo está buscando repartidores para hacer envíos en Lloret de Mar. Solamente transportarás paquetes pequeños y que no pesen más de 8kg.\n\n¿Horario?Totalmente flexible, tú marcas tus horarios.\nCuando empiezas a colaborar, te saltan pedidos para recoger y entregar. Más de 1 pedido/hora, 7 días de la semana.\n\n\n\n\n\n\n\n",
+  "employmentType":"PART-TIME",
+  "industry":"Repartidor",
+  "jobBenefits":null,
+  "qualifications":"",
+  "workHours":"horario propio",
+
+  "hiringOrganization":
+  {
+    "@type":"Organization",
+    "name":"Glovo",
+    "logo":"//res.cloudinary.com/hhgz8qnrm/image/upload/f_auto/partners/logos/glovo1x.png"
+    },
+    "title":"Conviértete en repartidor con Glovo y gana ingresos cada día enLloret de Mar",
+    "validThrough":"2021-12-31T01:00:00+00:00",
+
+    "jobLocation":
+    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"ES",
+        "addressLocality":"Lloret de Mar",
+        "addressRegion":"Lloret de Mar",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":41.7005989,
+          "longitude":2.8398194
+          }
+          }
+        }
