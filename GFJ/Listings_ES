@@ -1,32 +1,15 @@
 <script type="application/ld+json">
 {
-    "@context": "http://schema.org/",
-    "@type": "JobPosting",
-    "datePosted": "2021-03-12T01:00:00+00:00",
+    "@context":"http://schema.org/",
+    "@type":"JobPosting",
+    "datePosted":"2021-03-12T01:00:00+00:00",
     "validThrough":"2021-12-31T01:00:00+00:00",
-    "description": "¡Glovo está buscando gente como tú para realizar entregas en tu ciudad!\n\n
-Qué harás:\n
-Como repartidor, recibirás pedidos a través de nuestra aplicación y los entregarás por toda la ciudad. \nComida, la compra del súper, regalos o incluso cargadores de teléfono olvidados... Entregamos lo que sea, ¡así que cada día es una sorpresa!\n\n
-Solo entregarás paquetes pequeños, con un peso máximo de 8 kg. Si cabe en la mochila, podemos entregarlo.\n\n
-Algunas ventajas:\n
-Empieza de inmediato\n
-Recibe tu factura cada dos semanas\n
-Horario flexible: tú eliges cuántas horas colaboras. ¡Tu horario, tus reglas!\n
-Ganancias por pedido: precio fijo + parte variable según la distancia y el tiempo\n\n
-Qué necesitas:\n
-Hablar español con fluidez\n
-Un teléfono móvil\n
-Vehículo propio (bici, coche o moto. También tienes la opción de realizar las entregas a pie)\n
-¡Ganas de colaborar!\n\n
-Cómo registrarte:\n
-Haz clic en el botón de arriba, completa el formulario y te enviaremos un e-mail con los próximos pasos.\n\n
-Gracias,\n
-El equipo de Glovo\n",
-    "employmentType": "PART-TIME",
-    "industry": "Repartidor",
+    "description":"¡Glovo está buscando gente como tú para realizar entregas en tu ciudad!\n\nQué harás:\nComo repartidor, recibirás pedidos a través de nuestra aplicación y los entregarás por toda la ciudad. \nComida, la compra del súper, regalos o incluso cargadores de teléfono olvidados... Entregamos lo que sea, ¡así que cada día es una sorpresa!\n\nSolo entregarás paquetes pequeños, con un peso máximo de 8 kg. Si cabe en la mochila, podemos entregarlo.\n\nAlgunas ventajas:\nEmpieza de inmediato\nRecibe tu factura cada dos semanas\nHorario flexible: tú eliges cuántas horas colaboras. ¡Tu horario, tus reglas!\nGanancias por pedido: precio fijo + parte variable según la distancia y el tiempo\n\nQué necesitas:\nHablar español con fluidez\nUn teléfono móvil\nVehículo propio (bici, coche o moto. También tienes la opción de realizar las entregas a pie)\n¡Ganas de colaborar!\n\nCómo registrarte:\nHaz clic en el botón de arriba, completa el formulario y te enviaremos un e-mail con los próximos pasos.\n\nGracias,\nEl equipo de Glovo\n",
+    "employmentType":"PART-TIME",
+    "industry":"Repartidor",
     "jobBenefits": null,
-    "qualifications": "",
-    "workHours": "Flexibilidad Horaria",
+    "qualifications":"",
+    "workHours":"Flexibilidad Horaria",
     "hiringOrganization": {
         "@type": "Organization",
         "name": "Glovo",
