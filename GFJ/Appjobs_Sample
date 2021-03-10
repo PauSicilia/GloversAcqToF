@@ -37,4 +37,25 @@
           "longitude":2.8398194
           }
           }
+
         }
+        "  ""jobLocation"":
+            {
+              ""@type"":""Place"",
+              ""address"":
+              {
+                ""@type"":""PostalAddress"",
+                ""addressCountry"":""ES"",
+                ""addressLocality"":""Alcoy"",
+                ""addressRegion"":""Alcoy"",
+                ""streetAddress"":"""",
+                ""postalCode"":""""
+                },
+
+                ""geo"":
+                {
+                  ""@type"":""GeoCoordinates"",
+                  ""latitude"":38.6987065999999,
+                  ""longitude"":-0.4810937
+                  }
+                  }"
