@@ -5942,7 +5942,7 @@
                             "latitude":44.647128,
                             "longitude":10.9252268999999
                             }
-                            },
+                            }
         ],
     "baseSalary": {
         "@type": "MonetaryAmount",
