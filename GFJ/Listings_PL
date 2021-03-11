@@ -1,0 +1,2806 @@
+<script type="application/ld+json">
+{
+    "@context":"http://schema.org/",
+    "@type":"JobPosting",
+    "datePosted":"2021-03-12T01:00:00+00:00",
+    "validThrough":"2021-12-31T01:00:00+00:00",
+    "description":"Glovo szuka osób takich jak Ty! Zostań kurierem w swoim mieście!\n\nCo będziesz robić?\nKurierzy otrzymują w aplikacji zamówienia, które następnie dostarczają na podane adresy w obrębie miasta. Przedmiotem zamówienia może być cokolwiek: Dostawa zakupów, jedzenia, prezentu, a nawet zapomnianej ładowarki do telefonu. Każdy dzień przynosi nowe niespodzianki!\n\nDlaczego warto współpracować z Glovo?\n
+Zaczynasz od razu.\nOtrzymujesz zarobki co 2 tygodnie.\nMasz elastyczne godziny: samodzielnie wybierasz, jak długo chcesz pracować. Twój grafik, Twoje zasady!\nZarobki za zamówienie obejmują stałą stawkę + kwotę zmienną wyliczaną na podstawie przebytej odległości i poświęconego czasu.\n\nCzego potrzebujesz?\nKomunikatywnej znajomości polskiego\nSmartfona\nWłasnego pojazdu (roweru, samochodu lub motocyklu)\nMotywacji do współpracy!\n\nJak się zarejestrować?\nKliknij powyższy przycisk i wypełnij formularz, aby się zarejestrować. Następnie otrzymasz od nas e-mail z objaśnieniem dalszych kroków.\n\nPozdrawiamy,\nZespół Glovo\n",
+    "employmentType":"PART-TIME",
+    "industry":"Dostawca",
+    "jobBenefits": null,
+    "qualifications":"",
+    "workHours":"Elastyczny harmonogram",
+    "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Glovo",
+        "logo": "https://res.cloudinary.com/dl4i4vlgg/image/upload/c_thumb,w_200,g_face/v1592386234/Glovo-logo-yellow-bg.jpg"
+    },
+    "title": "Dostawca (Oficjalna Oferta)",
+    "jobLocation": [
+      {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Augustów",
+          "addressRegion":"Augustów",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":53.8434430999999,
+            "longitude":22.9796024
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Rawa Mazowiecka",
+          "addressRegion":"Rawa Mazowiecka",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":51.764356,
+            "longitude":20.243933
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Bełchatów",
+          "addressRegion":"Bełchatów",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":51.3687535,
+            "longitude":19.3564248
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Bielawa",
+          "addressRegion":"Bielawa",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":50.6907986,
+            "longitude":16.6229286
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Bolesławiec",
+          "addressRegion":"Bolesławiec",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":51.2658553,
+            "longitude":15.5657397
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Błaszki",
+          "addressRegion":"Błaszki",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":51.6448036,
+            "longitude":18.4744464
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Bolmin-Wymysłów",
+          "addressRegion":"Bolmin-Wymysłów",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":50.7869993,
+            "longitude":20.4819032
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Brodnica",
+          "addressRegion":"Brodnica",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":53.2599703,
+            "longitude":19.3956618
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Biala Podlaska",
+          "addressRegion":"Biala Podlaska",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":52.0387125999999,
+            "longitude":23.1445026
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Bytom",
+          "addressRegion":"Bytom",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":50.3483816,
+            "longitude":18.9157175999999
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Bydgoszcz",
+          "addressRegion":"Bydgoszcz",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":53.1234804,
+            "longitude":18.0084378
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Ciechanow",
+          "addressRegion":"Ciechanow",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":52.8790081999999,
+            "longitude":20.6215145999999
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Cierpice",
+          "addressRegion":"Cierpice",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":52.9921413999999,
+            "longitude":18.4451522
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Chełmno",
+          "addressRegion":"Chełmno",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":53.34842,
+            "longitude":18.4249899
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Chelm",
+          "addressRegion":"Chelm",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":51.1431232,
+            "longitude":23.4711986
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Czeczewo",
+          "addressRegion":"Czeczewo",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":54.4135877,
+            "longitude":18.3176434
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Czechowice-Dziedzice",
+          "addressRegion":"Czechowice-Dziedzice",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":49.9016056,
+            "longitude":18.9917676999999
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Częstochowa",
+          "addressRegion":"Częstochowa",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":50.8118176,
+            "longitude":19.1296950999999
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Dąbrowa Górnicza",
+          "addressRegion":"Dąbrowa Górnicza",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":50.3216897,
+            "longitude":19.1949125999999
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Działdowo",
+          "addressRegion":"Działdowo",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":53.2356765,
+            "longitude":20.1799787
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Długie",
+          "addressRegion":"Długie",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":49.5779796,
+            "longitude":22.0437531
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Dziwnów",
+          "addressRegion":"Dziwnów",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":54.02775,
+            "longitude":14.76448
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Elbląg",
+          "addressRegion":"Elbląg",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":54.1586443,
+            "longitude":19.396371
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Ełk",
+          "addressRegion":"Ełk",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":53.8303102,
+            "longitude":22.3637653
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Fordon",
+          "addressRegion":"Fordon",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":53.1541694999999,
+            "longitude":18.1610604
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Gdańsk",
+          "addressRegion":"Gdańsk",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":54.349534,
+            "longitude":18.6481509999999
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Grójec",
+          "addressRegion":"Grójec",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":51.8655117999999,
+            "longitude":20.8666034
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Góra Kalwaria",
+          "addressRegion":"Góra Kalwaria",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":51.9764659999999,
+            "longitude":21.215337
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Głogów",
+          "addressRegion":"Głogów",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":51.6635852,
+            "longitude":16.0846672
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Gniezno",
+          "addressRegion":"Gniezno",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":52.5349253,
+            "longitude":17.5826575
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Grodzisk Mazowiecki",
+          "addressRegion":"Grodzisk Mazowiecki",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":52.1044383,
+            "longitude":20.6350924
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Grudziądz",
+          "addressRegion":"Grudziądz",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":53.4813999,
+            "longitude":18.7614642999999
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Gorzów Wielkopolski",
+          "addressRegion":"Gorzów Wielkopolski",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":52.7325285,
+            "longitude":15.2369304999999
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Zielona Góra",
+          "addressRegion":"Zielona Góra",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":51.9356214,
+            "longitude":15.5061862
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Inowrocław",
+          "addressRegion":"Inowrocław",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":52.7993317,
+            "longitude":18.2562032
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Iwaniska",
+          "addressRegion":"Iwaniska",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":50.729753,
+            "longitude":21.2819714
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Jaworzno",
+          "addressRegion":"Jaworzno",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":50.204987,
+            "longitude":19.2739314
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Jelenia-Góra",
+          "addressRegion":"Jelenia-Góra",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":50.9044171,
+            "longitude":15.7193615999999
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Jastrzębia Góra",
+          "addressRegion":"Jastrzębia Góra",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":54.83117,
+            "longitude":18.31288
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Jasło",
+          "addressRegion":"Jasło",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":49.7445663,
+            "longitude":21.4722875
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Jastarnia",
+          "addressRegion":"Jastarnia",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":54.6957332999999,
+            "longitude":18.6788396
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Jastrzębie-Zdrój",
+          "addressRegion":"Jastrzębie-Zdrój",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":49.9454207,
+            "longitude":18.6101103
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Kalisz",
+          "addressRegion":"Kalisz",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":51.7672799,
+            "longitude":18.0853462
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Kościerzyna",
+          "addressRegion":"Kościerzyna",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":54.1222457,
+            "longitude":17.9812604999999
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Kielce",
+          "addressRegion":"Kielce",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":50.8660773,
+            "longitude":20.6285676
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Kłodzko",
+          "addressRegion":"Kłodzko",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":50.4345636,
+            "longitude":16.6613941
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Koluszki",
+          "addressRegion":"Koluszki",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":51.7382889999999,
+            "longitude":19.819639
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Kielczow",
+          "addressRegion":"Kielczow",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":51.1288147,
+            "longitude":17.1747275
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Kazimierz Dolny",
+          "addressRegion":"Kazimierz Dolny",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":51.3180409,
+            "longitude":21.9542482
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Kamień",
+          "addressRegion":"Kamień",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":54.4632691,
+            "longitude":18.2613747
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Konradów",
+          "addressRegion":"Konradów",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":50.802656,
+            "longitude":18.993612
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Konin",
+          "addressRegion":"Konin",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":52.2230334,
+            "longitude":18.251073
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Kołobrzeg",
+          "addressRegion":"Kołobrzeg",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":54.1759172999999,
+            "longitude":15.5832667
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Konstantynów Łódzki",
+          "addressRegion":"Konstantynów Łódzki",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":51.7476048,
+            "longitude":19.3254913
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Krępice",
+          "addressRegion":"Krępice",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":51.16374,
+            "longitude":16.8093548
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Kraków",
+          "addressRegion":"Kraków",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":50.0646500999999,
+            "longitude":19.9449799
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Krosno",
+          "addressRegion":"Krosno",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":49.6824761,
+            "longitude":21.7660531
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Krotoszyn",
+          "addressRegion":"Krotoszyn",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":51.6965283,
+            "longitude":17.4359425
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Katowice",
+          "addressRegion":"Katowice",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":50.2616369,
+            "longitude":19.0247153999999
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Kwidzyn",
+          "addressRegion":"Kwidzyn",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":53.7263528999999,
+            "longitude":18.9323043
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Klewki",
+          "addressRegion":"Klewki",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":53.7349942,
+            "longitude":20.5763909
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Krynica - Zdrój",
+          "addressRegion":"Krynica - Zdrój",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":49.4215158,
+            "longitude":20.9594208
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Koziegłowy",
+          "addressRegion":"Koziegłowy",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":50.5999099999999,
+            "longitude":19.16304
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Łask",
+          "addressRegion":"Łask",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":51.5906364,
+            "longitude":19.1327882
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Lebork",
+          "addressRegion":"Lebork",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":54.5431068,
+            "longitude":17.7476275
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Tyczyn",
+          "addressRegion":"Tyczyn",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":49.981142,
+            "longitude":22.020843
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Leszno",
+          "addressRegion":"Leszno",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":51.8435947,
+            "longitude":16.5719398999999
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Legnica",
+          "addressRegion":"Legnica",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":51.2070067,
+            "longitude":16.1553231
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Łódź",
+          "addressRegion":"Łódź",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":51.7709492,
+            "longitude":19.4617189
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Łomża",
+          "addressRegion":"Łomża",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":53.1781197,
+            "longitude":22.0590321
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Lubin",
+          "addressRegion":"Lubin",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":51.3977219999999,
+            "longitude":16.2095788
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Łuków",
+          "addressRegion":"Łuków",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":51.927158,
+            "longitude":22.3830242
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Luboń",
+          "addressRegion":"Luboń",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":52.3461661,
+            "longitude":16.8773762
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Mikołów",
+          "addressRegion":"Mikołów",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":50.1790184,
+            "longitude":18.9038036999999
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Mielec",
+          "addressRegion":"Mielec",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":50.287063,
+            "longitude":21.4238101
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Mielno",
+          "addressRegion":"Mielno",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":54.25998,
+            "longitude":16.0622067
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Mińsk Mazowiecki",
+          "addressRegion":"Mińsk Mazowiecki",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":52.1792835999999,
+            "longitude":21.5721056999999
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Myślenice",
+          "addressRegion":"Myślenice",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":49.83347,
+            "longitude":19.93965
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Mława",
+          "addressRegion":"Mława",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":53.1122632,
+            "longitude":20.3837208
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Myśliborz",
+          "addressRegion":"Myśliborz",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":52.9237186,
+            "longitude":14.8678501
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Nowy Sącz",
+          "addressRegion":"Nowy Sącz",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":49.6174535,
+            "longitude":20.7153325
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"NYSA",
+          "addressRegion":"NYSA",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":50.4822855,
+            "longitude":17.3295861
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Opole",
+          "addressRegion":"Opole",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":50.6751067,
+            "longitude":17.9212976
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Olsztynek",
+          "addressRegion":"Olsztynek",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":53.58244,
+            "longitude":20.2827
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Ostróda",
+          "addressRegion":"Ostróda",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":53.6963006999999,
+            "longitude":19.9647952
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Koszalin",
+          "addressRegion":"Koszalin",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":54.1943219,
+            "longitude":16.1714908
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Ostrołęka",
+          "addressRegion":"Ostrołęka",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":53.0876544,
+            "longitude":21.5592554
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Szczecin (Prawobrzeże)",
+          "addressRegion":"Szczecin (Prawobrzeże)",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":53.40868,
+            "longitude":14.6770941
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Przycław",
+          "addressRegion":"Przycław",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":53.3857827,
+            "longitude":14.4620917
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Pogórze",
+          "addressRegion":"Pogórze",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":54.571078,
+            "longitude":18.4878539999999
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Police",
+          "addressRegion":"Police",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":53.5520416,
+            "longitude":14.5720607
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Piła",
+          "addressRegion":"Piła",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":53.1509671,
+            "longitude":16.7382266
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Płock",
+          "addressRegion":"Płock",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":52.5453811,
+            "longitude":19.7046069
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Przemyśl",
+          "addressRegion":"Przemyśl",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":49.7838623,
+            "longitude":22.7677908
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Poznań",
+          "addressRegion":"Poznań",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":52.4059866,
+            "longitude":16.9295134999999
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Pruszcz Gdanski",
+          "addressRegion":"Pruszcz Gdanski",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":54.2597014,
+            "longitude":18.6348417
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Proszowice",
+          "addressRegion":"Proszowice",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":50.1921916,
+            "longitude":20.2890750999999
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Pruszków",
+          "addressRegion":"Pruszków",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":52.1620549,
+            "longitude":20.8035201999999
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Płońsk",
+          "addressRegion":"Płońsk",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":52.6230132,
+            "longitude":20.3753589
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"PL",
+          "addressLocality":"Pszczyna",
+          "addressRegion":"Pszczyna",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":49.9857805,
+            "longitude":18.9477092
+            }
+            },
+            {
+  "@type":"Place",
+  "address":
+  {
+    "@type":"PostalAddress",
+    "addressCountry":"PL",
+    "addressLocality":"Piotrkow Trybunalski",
+    "addressRegion":"Piotrkow Trybunalski",
+    "streetAddress":"",
+    "postalCode":""
+    },
+
+    "geo":
+    {
+      "@type":"GeoCoordinates",
+      "latitude":51.40943,
+      "longitude":19.6885025999999
+      }
+      },    {
+  "@type":"Place",
+  "address":
+  {
+    "@type":"PostalAddress",
+    "addressCountry":"PL",
+    "addressLocality":"Piastów",
+    "addressRegion":"Piastów",
+    "streetAddress":"",
+    "postalCode":""
+    },
+
+    "geo":
+    {
+      "@type":"GeoCoordinates",
+      "latitude":52.1845184,
+      "longitude":20.8400429
+      }
+      },    {
+  "@type":"Place",
+  "address":
+  {
+    "@type":"PostalAddress",
+    "addressCountry":"PL",
+    "addressLocality":"Puławy",
+    "addressRegion":"Puławy",
+    "streetAddress":"",
+    "postalCode":""
+    },
+
+    "geo":
+    {
+      "@type":"GeoCoordinates",
+      "latitude":51.4164431,
+      "longitude":21.969309
+      }
+      },    {
+  "@type":"Place",
+  "address":
+  {
+    "@type":"PostalAddress",
+    "addressCountry":"PL",
+    "addressLocality":"Polkowice",
+    "addressRegion":"Polkowice",
+    "streetAddress":"",
+    "postalCode":""
+    },
+
+    "geo":
+    {
+      "@type":"GeoCoordinates",
+      "latitude":51.5024848,
+      "longitude":16.0620494
+      }
+      },    {
+  "@type":"Place",
+  "address":
+  {
+    "@type":"PostalAddress",
+    "addressCountry":"PL",
+    "addressLocality":"Bielsko Biala",
+    "addressRegion":"Bielsko Biala",
+    "streetAddress":"",
+    "postalCode":""
+    },
+
+    "geo":
+    {
+      "@type":"GeoCoordinates",
+      "latitude":49.8223767999999,
+      "longitude":19.0583844999999
+      }
+      },    {
+  "@type":"Place",
+  "address":
+  {
+    "@type":"PostalAddress",
+    "addressCountry":"PL",
+    "addressLocality":"Gliwice",
+    "addressRegion":"Gliwice",
+    "streetAddress":"",
+    "postalCode":""
+    },
+
+    "geo":
+    {
+      "@type":"GeoCoordinates",
+      "latitude":50.296568,
+      "longitude":18.6595059999999
+      }
+      },    {
+  "@type":"Place",
+  "address":
+  {
+    "@type":"PostalAddress",
+    "addressCountry":"PL",
+    "addressLocality":"Lublin",
+    "addressRegion":"Lublin",
+    "streetAddress":"",
+    "postalCode":""
+    },
+
+    "geo":
+    {
+      "@type":"GeoCoordinates",
+      "latitude":51.2464536,
+      "longitude":22.5684463
+      }
+      },    {
+  "@type":"Place",
+  "address":
+  {
+    "@type":"PostalAddress",
+    "addressCountry":"PL",
+    "addressLocality":"Gdynia",
+    "addressRegion":"Gdynia",
+    "streetAddress":"",
+    "postalCode":""
+    },
+
+    "geo":
+    {
+      "@type":"GeoCoordinates",
+      "latitude":54.5188898,
+      "longitude":18.5305409
+      }
+      },    {
+  "@type":"Place",
+  "address":
+  {
+    "@type":"PostalAddress",
+    "addressCountry":"PL",
+    "addressLocality":"Bialystok",
+    "addressRegion":"Bialystok",
+    "streetAddress":"",
+    "postalCode":""
+    },
+
+    "geo":
+    {
+      "@type":"GeoCoordinates",
+      "latitude":53.1324885999999,
+      "longitude":23.1688403
+      }
+      },    {
+  "@type":"Place",
+  "address":
+  {
+    "@type":"PostalAddress",
+    "addressCountry":"PL",
+    "addressLocality":"Radom",
+    "addressRegion":"Radom",
+    "streetAddress":"",
+    "postalCode":""
+    },
+
+    "geo":
+    {
+      "@type":"GeoCoordinates",
+      "latitude":51.4032417,
+      "longitude":21.1429662
+      }
+      },    {
+  "@type":"Place",
+  "address":
+  {
+    "@type":"PostalAddress",
+    "addressCountry":"PL",
+    "addressLocality":"Rumia",
+    "addressRegion":"Rumia",
+    "streetAddress":"",
+    "postalCode":""
+    },
+
+    "geo":
+    {
+      "@type":"GeoCoordinates",
+      "latitude":54.5798504,
+      "longitude":18.4101613999999
+      }
+      },    {
+  "@type":"Place",
+  "address":
+  {
+    "@type":"PostalAddress",
+    "addressCountry":"PL",
+    "addressLocality":"Rybnik",
+    "addressRegion":"Rybnik",
+    "streetAddress":"",
+    "postalCode":""
+    },
+
+    "geo":
+    {
+      "@type":"GeoCoordinates",
+      "latitude":50.0956808,
+      "longitude":18.5379292
+      }
+      },    {
+  "@type":"Place",
+  "address":
+  {
+    "@type":"PostalAddress",
+    "addressCountry":"PL",
+    "addressLocality":"Rzeszow",
+    "addressRegion":"Rzeszow",
+    "streetAddress":"",
+    "postalCode":""
+    },
+
+    "geo":
+    {
+      "@type":"GeoCoordinates",
+      "latitude":50.0372209999999,
+      "longitude":22.0055379
+      }
+      },    {
+  "@type":"Place",
+  "address":
+  {
+    "@type":"PostalAddress",
+    "addressCountry":"PL",
+    "addressLocality":"Sławków",
+    "addressRegion":"Sławków",
+    "streetAddress":"",
+    "postalCode":""
+    },
+
+    "geo":
+    {
+      "@type":"GeoCoordinates",
+      "latitude":50.3045979,
+      "longitude":19.3880198
+      }
+      },    {
+  "@type":"Place",
+  "address":
+  {
+    "@type":"PostalAddress",
+    "addressCountry":"PL",
+    "addressLocality":"Starachowice",
+    "addressRegion":"Starachowice",
+    "streetAddress":"",
+    "postalCode":""
+    },
+
+    "geo":
+    {
+      "@type":"GeoCoordinates",
+      "latitude":51.0368289,
+      "longitude":21.070977
+      }
+      },    {
+  "@type":"Place",
+  "address":
+  {
+    "@type":"PostalAddress",
+    "addressCountry":"PL",
+    "addressLocality":"Szczecinek",
+    "addressRegion":"Szczecinek",
+    "streetAddress":"",
+    "postalCode":""
+    },
+
+    "geo":
+    {
+      "@type":"GeoCoordinates",
+      "latitude":53.7100713,
+      "longitude":16.6993602
+      }
+      },    {
+  "@type":"Place",
+  "address":
+  {
+    "@type":"PostalAddress",
+    "addressCountry":"PL",
+    "addressLocality":"Świdnica",
+    "addressRegion":"Świdnica",
+    "streetAddress":"",
+    "postalCode":""
+    },
+
+    "geo":
+    {
+      "@type":"GeoCoordinates",
+      "latitude":50.8498434,
+      "longitude":16.475679
+      }
+      },    {
+  "@type":"Place",
+  "address":
+  {
+    "@type":"PostalAddress",
+    "addressCountry":"PL",
+    "addressLocality":"Środa Śląska",
+    "addressRegion":"Środa Śląska",
+    "streetAddress":"",
+    "postalCode":""
+    },
+
+    "geo":
+    {
+      "@type":"GeoCoordinates",
+      "latitude":51.1641896,
+      "longitude":16.5925834
+      }
+      },    {
+  "@type":"Place",
+  "address":
+  {
+    "@type":"PostalAddress",
+    "addressCountry":"PL",
+    "addressLocality":"Siedlce",
+    "addressRegion":"Siedlce",
+    "streetAddress":"",
+    "postalCode":""
+    },
+
+    "geo":
+    {
+      "@type":"GeoCoordinates",
+      "latitude":52.168279,
+      "longitude":22.284331
+      }
+      },    {
+  "@type":"Place",
+  "address":
+  {
+    "@type":"PostalAddress",
+    "addressCountry":"PL",
+    "addressLocality":"Skierniewice",
+    "addressRegion":"Skierniewice",
+    "streetAddress":"",
+    "postalCode":""
+    },
+
+    "geo":
+    {
+      "@type":"GeoCoordinates",
+      "latitude":51.9547169,
+      "longitude":20.1583303
+      }
+      },    {
+  "@type":"Place",
+  "address":
+  {
+    "@type":"PostalAddress",
+    "addressCountry":"PL",
+    "addressLocality":"Słupsk",
+    "addressRegion":"Słupsk",
+    "streetAddress":"",
+    "postalCode":""
+    },
+
+    "geo":
+    {
+      "@type":"GeoCoordinates",
+      "latitude":54.464849,
+      "longitude":17.0240549999999
+      }
+      },    {
+  "@type":"Place",
+  "address":
+  {
+    "@type":"PostalAddress",
+    "addressCountry":"PL",
+    "addressLocality":"Sędziszów",
+    "addressRegion":"Sędziszów",
+    "streetAddress":"",
+    "postalCode":""
+    },
+
+    "geo":
+    {
+      "@type":"GeoCoordinates",
+      "latitude":50.5504727999999,
+      "longitude":20.0561065
+      }
+      },    {
+  "@type":"Place",
+  "address":
+  {
+    "@type":"PostalAddress",
+    "addressCountry":"PL",
+    "addressLocality":"Sosnowiec",
+    "addressRegion":"Sosnowiec",
+    "streetAddress":"",
+    "postalCode":""
+    },
+
+    "geo":
+    {
+      "@type":"GeoCoordinates",
+      "latitude":50.2862638,
+      "longitude":19.1040791
+      }
+      },    {
+  "@type":"Place",
+  "address":
+  {
+    "@type":"PostalAddress",
+    "addressCountry":"PL",
+    "addressLocality":"Starogard Gdanski",
+    "addressRegion":"Starogard Gdanski",
+    "streetAddress":"",
+    "postalCode":""
+    },
+
+    "geo":
+    {
+      "@type":"GeoCoordinates",
+      "latitude":53.965775,
+      "longitude":18.5282248999999
+      }
+      },    {
+  "@type":"Place",
+  "address":
+  {
+    "@type":"PostalAddress",
+    "addressCountry":"PL",
+    "addressLocality":"Suwalki",
+    "addressRegion":"Suwalki",
+    "streetAddress":"",
+    "postalCode":""
+    },
+
+    "geo":
+    {
+      "@type":"GeoCoordinates",
+      "latitude":54.0957934,
+      "longitude":22.9290161999999
+      }
+      },    {
+  "@type":"Place",
+  "address":
+  {
+    "@type":"PostalAddress",
+    "addressCountry":"PL",
+    "addressLocality":"szczytno",
+    "addressRegion":"szczytno",
+    "streetAddress":"",
+    "postalCode":""
+    },
+
+    "geo":
+    {
+      "@type":"GeoCoordinates",
+      "latitude":53.56354,
+      "longitude":20.99519
+      }
+      },    {
+  "@type":"Place",
+  "address":
+  {
+    "@type":"PostalAddress",
+    "addressCountry":"PL",
+    "addressLocality":"Olsztyn",
+    "addressRegion":"Olsztyn",
+    "streetAddress":"",
+    "postalCode":""
+    },
+
+    "geo":
+    {
+      "@type":"GeoCoordinates",
+      "latitude":53.7766528999999,
+      "longitude":20.4765800999999
+      }
+      },    {
+  "@type":"Place",
+  "address":
+  {
+    "@type":"PostalAddress",
+    "addressCountry":"PL",
+    "addressLocality":"Szczecin",
+    "addressRegion":"Szczecin",
+    "streetAddress":"",
+    "postalCode":""
+    },
+
+    "geo":
+    {
+      "@type":"GeoCoordinates",
+      "latitude":53.4285438,
+      "longitude":14.5528116
+      }
+      },    {
+  "@type":"Place",
+  "address":
+  {
+    "@type":"PostalAddress",
+    "addressCountry":"PL",
+    "addressLocality":"Tarnów",
+    "addressRegion":"Tarnów",
+    "streetAddress":"",
+    "postalCode":""
+    },
+
+    "geo":
+    {
+      "@type":"GeoCoordinates",
+      "latitude":50.0121011,
+      "longitude":20.9858407
+      }
+      },    {
+  "@type":"Place",
+  "address":
+  {
+    "@type":"PostalAddress",
+    "addressCountry":"PL",
+    "addressLocality":"Tychy",
+    "addressRegion":"Tychy",
+    "streetAddress":"",
+    "postalCode":""
+    },
+
+    "geo":
+    {
+      "@type":"GeoCoordinates",
+      "latitude":50.1218006999999,
+      "longitude":19.0200022999999
+      }
+      },    {
+  "@type":"Place",
+  "address":
+  {
+    "@type":"PostalAddress",
+    "addressCountry":"PL",
+    "addressLocality":"Tczew",
+    "addressRegion":"Tczew",
+    "streetAddress":"",
+    "postalCode":""
+    },
+
+    "geo":
+    {
+      "@type":"GeoCoordinates",
+      "latitude":54.0919269,
+      "longitude":18.7773072
+      }
+      },    {
+  "@type":"Place",
+  "address":
+  {
+    "@type":"PostalAddress",
+    "addressCountry":"PL",
+    "addressLocality":"Konopnica",
+    "addressRegion":"Konopnica",
+    "streetAddress":"",
+    "postalCode":""
+    },
+
+    "geo":
+    {
+      "@type":"GeoCoordinates",
+      "latitude":51.2194171,
+      "longitude":22.4574169
+      }
+      },    {
+  "@type":"Place",
+  "address":
+  {
+    "@type":"PostalAddress",
+    "addressCountry":"PL",
+    "addressLocality":"Tomaszow Mazowiecki",
+    "addressRegion":"Tomaszow Mazowiecki",
+    "streetAddress":"",
+    "postalCode":""
+    },
+
+    "geo":
+    {
+      "@type":"GeoCoordinates",
+      "latitude":51.5311514,
+      "longitude":20.0051032999999
+      }
+      },    {
+  "@type":"Place",
+  "address":
+  {
+    "@type":"PostalAddress",
+    "addressCountry":"PL",
+    "addressLocality":"Tarnobrzeg",
+    "addressRegion":"Tarnobrzeg",
+    "streetAddress":"",
+    "postalCode":""
+    },
+
+    "geo":
+    {
+      "@type":"GeoCoordinates",
+      "latitude":50.5729079,
+      "longitude":21.6790697999999
+      }
+      },    {
+  "@type":"Place",
+  "address":
+  {
+    "@type":"PostalAddress",
+    "addressCountry":"PL",
+    "addressLocality":"Torun",
+    "addressRegion":"Torun",
+    "streetAddress":"",
+    "postalCode":""
+    },
+
+    "geo":
+    {
+      "@type":"GeoCoordinates",
+      "latitude":53.0137902,
+      "longitude":18.5984436999999
+      }
+      },    {
+  "@type":"Place",
+  "address":
+  {
+    "@type":"PostalAddress",
+    "addressCountry":"PL",
+    "addressLocality":"Ustka",
+    "addressRegion":"Ustka",
+    "streetAddress":"",
+    "postalCode":""
+    },
+
+    "geo":
+    {
+      "@type":"GeoCoordinates",
+      "latitude":54.5805606999999,
+      "longitude":16.861891
+      }
+      },    {
+  "@type":"Place",
+  "address":
+  {
+    "@type":"PostalAddress",
+    "addressCountry":"PL",
+    "addressLocality":"Ustroń",
+    "addressRegion":"Ustroń",
+    "streetAddress":"",
+    "postalCode":""
+    },
+
+    "geo":
+    {
+      "@type":"GeoCoordinates",
+      "latitude":49.719657,
+      "longitude":18.8120576
+      }
+      },    {
+  "@type":"Place",
+  "address":
+  {
+    "@type":"PostalAddress",
+    "addressCountry":"PL",
+    "addressLocality":"Wadowice",
+    "addressRegion":"Wadowice",
+    "streetAddress":"",
+    "postalCode":""
+    },
+
+    "geo":
+    {
+      "@type":"GeoCoordinates",
+      "latitude":49.8827856,
+      "longitude":19.4939579
+      }
+      },    {
+  "@type":"Place",
+  "address":
+  {
+    "@type":"PostalAddress",
+    "addressCountry":"PL",
+    "addressLocality":"Warszawa",
+    "addressRegion":"Warszawa",
+    "streetAddress":"",
+    "postalCode":""
+    },
+
+    "geo":
+    {
+      "@type":"GeoCoordinates",
+      "latitude":52.2296756,
+      "longitude":21.0122287
+      }
+      },    {
+  "@type":"Place",
+  "address":
+  {
+    "@type":"PostalAddress",
+    "addressCountry":"PL",
+    "addressLocality":"Wałbrzych",
+    "addressRegion":"Wałbrzych",
+    "streetAddress":"",
+    "postalCode":""
+    },
+
+    "geo":
+    {
+      "@type":"GeoCoordinates",
+      "latitude":50.7825332,
+      "longitude":16.2841988999999
+      }
+      },    {
+  "@type":"Place",
+  "address":
+  {
+    "@type":"PostalAddress",
+    "addressCountry":"PL",
+    "addressLocality":"Wejherowo",
+    "addressRegion":"Wejherowo",
+    "streetAddress":"",
+    "postalCode":""
+    },
+
+    "geo":
+    {
+      "@type":"GeoCoordinates",
+      "latitude":54.6067328,
+      "longitude":18.2359598
+      }
+      },    {
+  "@type":"Place",
+  "address":
+  {
+    "@type":"PostalAddress",
+    "addressCountry":"PL",
+    "addressLocality":"Wieliczka",
+    "addressRegion":"Wieliczka",
+    "streetAddress":"",
+    "postalCode":""
+    },
+
+    "geo":
+    {
+      "@type":"GeoCoordinates",
+      "latitude":49.9839719,
+      "longitude":20.0598165999999
+      }
+      },    {
+  "@type":"Place",
+  "address":
+  {
+    "@type":"PostalAddress",
+    "addressCountry":"PL",
+    "addressLocality":"Wilkowice",
+    "addressRegion":"Wilkowice",
+    "streetAddress":"",
+    "postalCode":""
+    },
+
+    "geo":
+    {
+      "@type":"GeoCoordinates",
+      "latitude":49.7631724,
+      "longitude":19.1167175
+      }
+      },    {
+  "@type":"Place",
+  "address":
+  {
+    "@type":"PostalAddress",
+    "addressCountry":"PL",
+    "addressLocality":"Wisła",
+    "addressRegion":"Wisła",
+    "streetAddress":"",
+    "postalCode":""
+    },
+
+    "geo":
+    {
+      "@type":"GeoCoordinates",
+      "latitude":49.6473215,
+      "longitude":18.867739
+      }
+      },    {
+  "@type":"Place",
+  "address":
+  {
+    "@type":"PostalAddress",
+    "addressCountry":"PL",
+    "addressLocality":"Włocławek",
+    "addressRegion":"Włocławek",
+    "streetAddress":"",
+    "postalCode":""
+    },
+
+    "geo":
+    {
+      "@type":"GeoCoordinates",
+      "latitude":52.655183,
+      "longitude":19.0628659999999
+      }
+      },    {
+  "@type":"Place",
+  "address":
+  {
+    "@type":"PostalAddress",
+    "addressCountry":"PL",
+    "addressLocality":"Wrocław",
+    "addressRegion":"Wrocław",
+    "streetAddress":"",
+    "postalCode":""
+    },
+
+    "geo":
+    {
+      "@type":"GeoCoordinates",
+      "latitude":51.1087443,
+      "longitude":17.0143368
+      }
+      },    {
+  "@type":"Place",
+  "address":
+  {
+    "@type":"PostalAddress",
+    "addressCountry":"PL",
+    "addressLocality":"Września",
+    "addressRegion":"Września",
+    "streetAddress":"",
+    "postalCode":""
+    },
+
+    "geo":
+    {
+      "@type":"GeoCoordinates",
+      "latitude":52.32382,
+      "longitude":17.56654
+      }
+      },    {
+  "@type":"Place",
+  "address":
+  {
+    "@type":"PostalAddress",
+    "addressCountry":"PL",
+    "addressLocality":"Wyszków",
+    "addressRegion":"Wyszków",
+    "streetAddress":"",
+    "postalCode":""
+    },
+
+    "geo":
+    {
+      "@type":"GeoCoordinates",
+      "latitude":52.5928523,
+      "longitude":21.458395
+      }
+      },    {
+  "@type":"Place",
+  "address":
+  {
+    "@type":"PostalAddress",
+    "addressCountry":"PL",
+    "addressLocality":"Zakopane",
+    "addressRegion":"Zakopane",
+    "streetAddress":"",
+    "postalCode":""
+    },
+
+    "geo":
+    {
+      "@type":"GeoCoordinates",
+      "latitude":49.2955261,
+      "longitude":19.950806
+      }
+      },    {
+  "@type":"Place",
+  "address":
+  {
+    "@type":"PostalAddress",
+    "addressCountry":"PL",
+    "addressLocality":"Zgorzelec",
+    "addressRegion":"Zgorzelec",
+    "streetAddress":"",
+    "postalCode":""
+    },
+
+    "geo":
+    {
+      "@type":"GeoCoordinates",
+      "latitude":51.1496361,
+      "longitude":15.0065645
+      }
+      },    {
+  "@type":"Place",
+  "address":
+  {
+    "@type":"PostalAddress",
+    "addressCountry":"PL",
+    "addressLocality":"Zamość",
+    "addressRegion":"Zamość",
+    "streetAddress":"",
+    "postalCode":""
+    },
+
+    "geo":
+    {
+      "@type":"GeoCoordinates",
+      "latitude":50.7230879,
+      "longitude":23.2519685
+      }
+      },    {
+  "@type":"Place",
+  "address":
+  {
+    "@type":"PostalAddress",
+    "addressCountry":"PL",
+    "addressLocality":"Żory",
+    "addressRegion":"Żory",
+    "streetAddress":"",
+    "postalCode":""
+    },
+
+    "geo":
+    {
+      "@type":"GeoCoordinates",
+      "latitude":50.0377894,
+      "longitude":18.6951282
+      }
+      },    {
+  "@type":"Place",
+  "address":
+  {
+    "@type":"PostalAddress",
+    "addressCountry":"PL",
+    "addressLocality":"Żary",
+    "addressRegion":"Żary",
+    "streetAddress":"",
+    "postalCode":""
+    },
+
+    "geo":
+    {
+      "@type":"GeoCoordinates",
+      "latitude":51.6420120999999,
+      "longitude":15.1369992
+      }
+      },    {
+  "@type":"Place",
+  "address":
+  {
+    "@type":"PostalAddress",
+    "addressCountry":"PL",
+    "addressLocality":"Żywiec",
+    "addressRegion":"Żywiec",
+    "streetAddress":"",
+    "postalCode":""
+    },
+
+    "geo":
+    {
+      "@type":"GeoCoordinates",
+      "latitude":49.6912999,
+      "longitude":19.1823983
+      }
+      }
+        ],
+    "baseSalary": {
+        "@type": "MonetaryAmount",
+        "currency": "PLN",
+        "value": {
+            "@type": "QuantitativeValue",
+            "value": 30,
+            "unitText": "HOUR"
+        }
+    }
+}
+</script>

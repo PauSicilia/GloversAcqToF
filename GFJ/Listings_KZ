@@ -1,0 +1,212 @@
+<script type="application/ld+json">
+{
+    "@context":"http://schema.org/",
+    "@type":"JobPosting",
+    "datePosted":"2021-03-12T01:00:00+00:00",
+    "validThrough":"2021-12-31T01:00:00+00:00",
+    "description":"Glovo нужны курьеры в вашем городе, и мы готовы сотрудничать с такими, как вы!\n\nВаши задачи:\nВ роли курьера вы будете получать заказы в нашем приложении и доставлять их адресатам в черте города. От еды из ресторана до продуктов из магазина, от подарков до забытого зарядного устройства —вы будете приятно удивлять клиентов, доставляя им что угодно!\nК доставке принимаются только небольшие посылки весом до 9 кг. Мы доставляем только то, что помещается в рюкзак курьера. \n\nПлюсы:\nПриступить можно немедленно\nОплата на ваш счет каждые 2 недели\nГибкий график: вы сами выбираете количество часов каждую неделю, — ваш график, ваши правила!\nДоход за заказ состоит из фиксированной платы + дополнительной платы за километраж и время \n\nТребования:\nНаличие смартфона\nСвой собственный транспорт (велосипед, автомобиль или мотоцикл; вы также можете доставлять заказы пешком в зимний период)\nГотовность сотрудничать!\n\nКак зарегистрироваться:\nНажмите на кнопку\nвыше, зарегистрируйтесь, заполнив форму, и мы сразу же отправим вам электронное письмо с описанием дальнейших шагов.\n\nСпасибо,\nКоманда Glovo\n",
+    "employmentType":"PART-TIME",
+    "industry":"курьер",
+    "jobBenefits": null,
+    "qualifications":"",
+    "workHours":"Гибкий график",
+    "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Glovo",
+        "logo": "https://res.cloudinary.com/dl4i4vlgg/image/upload/c_thumb,w_200,g_face/v1592386234/Glovo-logo-yellow-bg.jpg"
+    },
+    "title": "курьер (официальное предложение)",
+    "jobLocation": [
+      {
+    "@type":"Place",
+    "address":
+    {
+      "@type":"PostalAddress",
+      "addressCountry":"KZ",
+      "addressLocality":"Aktau",
+      "addressRegion":"Aktau",
+      "streetAddress":"",
+      "postalCode":""
+      },
+
+      "geo":
+      {
+        "@type":"GeoCoordinates",
+        "latitude":43.6588079,
+        "longitude":51.1974563
+        }
+        },    {
+    "@type":"Place",
+    "address":
+    {
+      "@type":"PostalAddress",
+      "addressCountry":"KZ",
+      "addressLocality":"Aktobe",
+      "addressRegion":"Aktobe",
+      "streetAddress":"",
+      "postalCode":""
+      },
+
+      "geo":
+      {
+        "@type":"GeoCoordinates",
+        "latitude":50.2839338999999,
+        "longitude":57.166978
+        }
+        },    {
+    "@type":"Place",
+    "address":
+    {
+      "@type":"PostalAddress",
+      "addressCountry":"KZ",
+      "addressLocality":"Almaty",
+      "addressRegion":"Almaty",
+      "streetAddress":"",
+      "postalCode":""
+      },
+
+      "geo":
+      {
+        "@type":"GeoCoordinates",
+        "latitude":43.2220146,
+        "longitude":76.8512485
+        }
+        },    {
+    "@type":"Place",
+    "address":
+    {
+      "@type":"PostalAddress",
+      "addressCountry":"KZ",
+      "addressLocality":"Atyrau",
+      "addressRegion":"Atyrau",
+      "streetAddress":"",
+      "postalCode":""
+      },
+
+      "geo":
+      {
+        "@type":"GeoCoordinates",
+        "latitude":47.0944959,
+        "longitude":51.9238372999999
+        }
+        },    {
+    "@type":"Place",
+    "address":
+    {
+      "@type":"PostalAddress",
+      "addressCountry":"KZ",
+      "addressLocality":"Shymkent",
+      "addressRegion":"Shymkent",
+      "streetAddress":"",
+      "postalCode":""
+      },
+
+      "geo":
+      {
+        "@type":"GeoCoordinates",
+        "latitude":42.3416846999999,
+        "longitude":69.590101
+        }
+        },    {
+    "@type":"Place",
+    "address":
+    {
+      "@type":"PostalAddress",
+      "addressCountry":"KZ",
+      "addressLocality":"Karaganda",
+      "addressRegion":"Karaganda",
+      "streetAddress":"",
+      "postalCode":""
+      },
+
+      "geo":
+      {
+        "@type":"GeoCoordinates",
+        "latitude":49.8046834999999,
+        "longitude":73.1093826
+        }
+        },    {
+    "@type":"Place",
+    "address":
+    {
+      "@type":"PostalAddress",
+      "addressCountry":"KZ",
+      "addressLocality":"Kostanay",
+      "addressRegion":"Kostanay",
+      "streetAddress":"",
+      "postalCode":""
+      },
+
+      "geo":
+      {
+        "@type":"GeoCoordinates",
+        "latitude":53.2198089,
+        "longitude":63.6354232
+        }
+        },    {
+    "@type":"Place",
+    "address":
+    {
+      "@type":"PostalAddress",
+      "addressCountry":"KZ",
+      "addressLocality":"Nur-Sultan",
+      "addressRegion":"Nur-Sultan",
+      "streetAddress":"",
+      "postalCode":""
+      },
+
+      "geo":
+      {
+        "@type":"GeoCoordinates",
+        "latitude":51.1605227,
+        "longitude":71.4703558
+        }
+        },    {
+    "@type":"Place",
+    "address":
+    {
+      "@type":"PostalAddress",
+      "addressCountry":"KZ",
+      "addressLocality":"Pavlodar",
+      "addressRegion":"Pavlodar",
+      "streetAddress":"",
+      "postalCode":""
+      },
+
+      "geo":
+      {
+        "@type":"GeoCoordinates",
+        "latitude":52.2873032,
+        "longitude":76.9674023
+        }
+        },    {
+    "@type":"Place",
+    "address":
+    {
+      "@type":"PostalAddress",
+      "addressCountry":"KZ",
+      "addressLocality":"Oskemen",
+      "addressRegion":"Oskemen",
+      "streetAddress":"",
+      "postalCode":""
+      },
+
+      "geo":
+      {
+        "@type":"GeoCoordinates",
+        "latitude":49.9749294999999,
+        "longitude":82.6017244
+        }
+        }
+        ],
+    "baseSalary": {
+        "@type": "MonetaryAmount",
+        "currency": "KZT",
+        "value": {
+            "@type": "QuantitativeValue",
+            "value": 1600,
+            "unitText": "HOUR"
+        }
+    }
+}
+</script>
