@@ -1,0 +1,806 @@
+<script type="application/ld+json">
+{
+    "@context":"http://schema.org/",
+    "@type":"JobPosting",
+    "datePosted":"2021-03-12T01:00:00+00:00",
+    "validThrough":"2021-12-31T01:00:00+00:00",
+    "description":"Glovo caută persoane ca tine pentru a fi curier în orașul tău!\n\nCe vei face:\nÎn calitate de curier vei primi comenzi prin intermediul aplicației noastre și le vei livra în orașul tău. De la mâncare, la cumpărături, de la cadouri până la încărcătorul de telefon uitat, fiecare zi este o surpriză când poți livra orice!\nÎncepi imediat\nPlata săptămânală\nProgram flexibil: tu alegi câte ore vrei să colaborezi. Programul tău, regulile tale!\nCâștiguri per comandă: taxă fixă + bonusuri în funcție de distanță și timp de așteptare\n\nCe ai nevoie:\nUn telefon inteligent\nPropriul tău vehicul (bicicletă, mașină sau motocicletă). Poți să alegi să livrezi și pe jos.\nDorință de colaborare!\n\nCum să te înscrii:\nApasă butonul de mai jos, înregistrează-te în formular și noi îți trimitem etapele următoare prin email.\n\nMulțumim,\nEchipa Glovo\n",
+    "employmentType":"PART-TIME",
+    "industry":"Curieri",
+    "jobBenefits": null,
+    "qualifications":"",
+    "workHours":"Program Flexibil",
+    "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Glovo",
+        "logo": "https://res.cloudinary.com/dl4i4vlgg/image/upload/c_thumb,w_200,g_face/v1592386234/Glovo-logo-yellow-bg.jpg"
+    },
+    "title": "Curieri (Oferta Oficiala)",
+    "jobLocation": [
+      {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"RO",
+          "addressLocality":"Alba Iulia",
+          "addressRegion":"Alba Iulia",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":46.0732724999999,
+            "longitude":23.5804886
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"RO",
+          "addressLocality":"Arad",
+          "addressRegion":"Arad",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":46.1865606,
+            "longitude":21.3122677
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"RO",
+          "addressLocality":"Baia Mare",
+          "addressRegion":"Baia Mare",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":47.6567387,
+            "longitude":23.5849881
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"RO",
+          "addressLocality":"Bacau",
+          "addressRegion":"Bacau",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":46.5670437,
+            "longitude":26.9145748
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"RO",
+          "addressLocality":"Barlad",
+          "addressRegion":"Barlad",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":46.2276613,
+            "longitude":27.6692265
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"RO",
+          "addressLocality":"Braila",
+          "addressRegion":"Braila",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":45.2652462999999,
+            "longitude":27.9594713999999
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"RO",
+          "addressLocality":"Brasov",
+          "addressRegion":"Brasov",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":45.6579755,
+            "longitude":25.6011977
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"RO",
+          "addressLocality":"Botosani",
+          "addressRegion":"Botosani",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":47.7406537,
+            "longitude":26.6658127
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"RO",
+          "addressLocality":"Bistrita",
+          "addressRegion":"Bistrita",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":47.1392617,
+            "longitude":24.4890979
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"RO",
+          "addressLocality":"Bucharest",
+          "addressRegion":"Bucharest",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":44.437924,
+            "longitude":26.101261
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"RO",
+          "addressLocality":"Buzau",
+          "addressRegion":"Buzau",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":45.1371109,
+            "longitude":26.8171122
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"RO",
+          "addressLocality":"Calarasi",
+          "addressRegion":"Calarasi",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":44.2085143999999,
+            "longitude":27.3137439
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"RO",
+          "addressLocality":"Cluj-Napoca",
+          "addressRegion":"Cluj-Napoca",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":46.7700116,
+            "longitude":23.5941837
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"RO",
+          "addressLocality":"Craiova",
+          "addressRegion":"Craiova",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":44.3301785,
+            "longitude":23.7948807
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"RO",
+          "addressLocality":"Constanta",
+          "addressRegion":"Constanta",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":44.1598013,
+            "longitude":28.6348137999999
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"RO",
+          "addressLocality":"Deva",
+          "addressRegion":"Deva",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":45.8662573999999,
+            "longitude":22.9143737
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"RO",
+          "addressLocality":"Drobeta-Turnu Severin",
+          "addressRegion":"Drobeta-Turnu Severin",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":44.6369227,
+            "longitude":22.6597342
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"RO",
+          "addressLocality":"Focsani",
+          "addressRegion":"Focsani",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":45.6964745,
+            "longitude":27.184043
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"RO",
+          "addressLocality":"Giurgiu",
+          "addressRegion":"Giurgiu",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":43.9037076,
+            "longitude":25.9699265
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"RO",
+          "addressLocality":"Galati",
+          "addressRegion":"Galati",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":45.4353208,
+            "longitude":28.0079944999999
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"RO",
+          "addressLocality":"Hunedoara",
+          "addressRegion":"Hunedoara",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":45.7678128,
+            "longitude":22.9072331
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"RO",
+          "addressLocality":"Iasi",
+          "addressRegion":"Iasi",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":47.1584549,
+            "longitude":27.6014417999999
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"RO",
+          "addressLocality":"Medias",
+          "addressRegion":"Medias",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":46.1572828,
+            "longitude":24.3471665
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"RO",
+          "addressLocality":"Oradea",
+          "addressRegion":"Oradea",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":47.0465005,
+            "longitude":21.9189437999999
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"RO",
+          "addressLocality":"Pitesti",
+          "addressRegion":"Pitesti",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":44.8564798,
+            "longitude":24.8691824
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"RO",
+          "addressLocality":"Ploiesti",
+          "addressRegion":"Ploiesti",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":44.936664,
+            "longitude":26.0128615999999
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"RO",
+          "addressLocality":"Piatra-Neamt",
+          "addressRegion":"Piatra-Neamt",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":46.9299615999999,
+            "longitude":26.3779793
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"RO",
+          "addressLocality":"Resita",
+          "addressRegion":"Resita",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":45.3049703,
+            "longitude":21.8821033
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"RO",
+          "addressLocality":"Roman",
+          "addressRegion":"Roman",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":46.9333781,
+            "longitude":26.9265451
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"RO",
+          "addressLocality":"Ramnicu-Valcea",
+          "addressRegion":"Ramnicu-Valcea",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":45.0996753,
+            "longitude":24.3693179
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"RO",
+          "addressLocality":"Sibiu",
+          "addressRegion":"Sibiu",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":45.7983273,
+            "longitude":24.1255826
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"RO",
+          "addressLocality":"Suceava",
+          "addressRegion":"Suceava",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":47.6634521,
+            "longitude":26.2732302
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"RO",
+          "addressLocality":"Sfantu Gheorghe",
+          "addressRegion":"Sfantu Gheorghe",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":45.8609375,
+            "longitude":25.7885796
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"RO",
+          "addressLocality":"Slatina",
+          "addressRegion":"Slatina",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":44.4301676999999,
+            "longitude":24.3716904
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"RO",
+          "addressLocality":"Satu Mare",
+          "addressRegion":"Satu Mare",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":47.8016702,
+            "longitude":22.8575926
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"RO",
+          "addressLocality":"Turda",
+          "addressRegion":"Turda",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":46.564676,
+            "longitude":23.7971063
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"RO",
+          "addressLocality":"Targu-Jiu",
+          "addressRegion":"Targu-Jiu",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":45.0314279,
+            "longitude":23.2689393
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"RO",
+          "addressLocality":"Targu-Mures",
+          "addressRegion":"Targu-Mures",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":46.5385862,
+            "longitude":24.5514392
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"RO",
+          "addressLocality":"Targoviste",
+          "addressRegion":"Targoviste",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":44.9118218,
+            "longitude":25.4558274
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"RO",
+          "addressLocality":"Timisoara",
+          "addressRegion":"Timisoara",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":45.7488716,
+            "longitude":21.2086792999999
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"RO",
+          "addressLocality":"Tulcea",
+          "addressRegion":"Tulcea",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":45.1716165,
+            "longitude":28.7914439
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"RO",
+          "addressLocality":"Vaslui",
+          "addressRegion":"Vaslui",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":46.6406915,
+            "longitude":27.7276468
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"RO",
+          "addressLocality":"Zalau",
+          "addressRegion":"Zalau",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":47.1854562,
+            "longitude":23.0573324
+            }
+            }
+            ],
+    "baseSalary": {
+        "@type": "MonetaryAmount",
+        "currency": "RON",
+        "value": {
+            "@type": "QuantitativeValue",
+            "value": 25,
+            "unitText": "HOUR"
+        }
+    }
+}
+</script>

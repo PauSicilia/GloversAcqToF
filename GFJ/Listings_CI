@@ -1,0 +1,105 @@
+<script type="application/ld+json">
+{
+    "@context":"http://schema.org/",
+    "@type":"JobPosting",
+    "datePosted":"2021-03-12T01:00:00+00:00",
+    "validThrough":"2021-12-31T01:00:00+00:00",
+    "description":"Glovo cherche des gens comme vous pour devenir coursier dans votre ville !\n\nCe que vous ferez :\nEn tant que coursier, vous recevrez des commandes dans notre application et vous les livrerez dans votre ville. Repas, courses, cadeaux ou même chargeur de téléphone oublié, les livraisons ne se ressemblent pas !\n\nVous ne livrerez que des petits colis avec un poids maximum de 8 kg. Si ça rentre dans le sac à dos, Glovo peut le livrer. Petit aperçu des avantages :\n
+Commencez tout de suite\nUne facture toutes les deux semaines\nUn planning flexible : vous choisissez combien d’heures vous collaborez. Vos horaires, vos propres règles !\nDes revenus à la commande : coût fixe + part variable en fonction de la distance et du temps\n\nCe qu’il vous faut :\nParler français couramment\nUn smartphone\nVotre propre véhicule (vélo, voiture ou moto. Vous pouvez aussi choisir de livrer à pied.)\nUne grande motivation\n\nComment s’inscrire :\nCliquez sur le bouton ci-dessus, utilisez le formulaire pour vous inscrire et nous vous enverrons la marche à suivre par e-mail.\n\nMerci,\nL’équipe Glovo\n",
+    "employmentType":"PART-TIME",
+    "industry":"Agent de livraison (Coursier)",
+    "jobBenefits": null,
+    "qualifications":"",
+    "workHours":"Horaires Flexibles",
+    "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Glovo",
+        "logo": "https://res.cloudinary.com/dl4i4vlgg/image/upload/c_thumb,w_200,g_face/v1592386234/Glovo-logo-yellow-bg.jpg"
+    },
+    "title": "Agent de livraison (Coursier)",
+    "jobLocation": [
+      {
+  "@type":"Place",
+  "address":
+  {
+    "@type":"PostalAddress",
+    "addressCountry":"CI",
+    "addressLocality":"Abidjan Sud",
+    "addressRegion":"Abidjan Sud",
+    "streetAddress":"",
+    "postalCode":""
+    },
+
+    "geo":
+    {
+      "@type":"GeoCoordinates",
+      "latitude":5.294404,
+      "longitude":-3.979932
+      }
+      },    {
+  "@type":"Place",
+  "address":
+  {
+    "@type":"PostalAddress",
+    "addressCountry":"CI",
+    "addressLocality":"Abidjan Nord",
+    "addressRegion":"Abidjan Nord",
+    "streetAddress":"",
+    "postalCode":""
+    },
+
+    "geo":
+    {
+      "@type":"GeoCoordinates",
+      "latitude":5.3599517,
+      "longitude":-4.0082563
+      }
+      },    {
+  "@type":"Place",
+  "address":
+  {
+    "@type":"PostalAddress",
+    "addressCountry":"CI",
+    "addressLocality":"Grand Bassam",
+    "addressRegion":"Grand Bassam",
+    "streetAddress":"",
+    "postalCode":""
+    },
+
+    "geo":
+    {
+      "@type":"GeoCoordinates",
+      "latitude":5.225936,
+      "longitude":-3.75366629999999
+      }
+      },    {
+  "@type":"Place",
+  "address":
+  {
+    "@type":"PostalAddress",
+    "addressCountry":"CI",
+    "addressLocality":"Yopougon",
+    "addressRegion":"Yopougon",
+    "streetAddress":"",
+    "postalCode":""
+    },
+
+    "geo":
+    {
+      "@type":"GeoCoordinates",
+      "latitude":5.3176661,
+      "longitude":-4.08999110000002
+      }
+      }
+            ],
+    "baseSalary": {
+        "@type": "MonetaryAmount",
+        "currency": "XOF",
+        "value": {
+            "@type": "QuantitativeValue",
+            "value": 1200,
+            "unitText": "HOUR"
+        }
+    }
+}
+</script>

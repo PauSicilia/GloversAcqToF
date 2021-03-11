@@ -1,0 +1,158 @@
+<script type="application/ld+json">
+{
+    "@context":"http://schema.org/",
+    "@type":"JobPosting",
+    "datePosted":"2021-03-12T01:00:00+00:00",
+    "validThrough":"2021-12-31T01:00:00+00:00",
+    "description":"Glovo traži ljude baš poput tebe da budu dostavljači u tvom gradu!\n\nKako izgleda posao dostavljaca:\nKao dostavljač, primaćeš narudžbine preko aplikacije i dostavljaćeš ih širom grada. Od obroka do namirnica, poklona ili zaboravljenih punjača za telefon – svaki dan je iznenađenje kada možeš da dostaviš bilo šta!\nDostavljaćeš samo male pakete, maksimalne težine od 8 kg. Ako staje u ranac, možemo da ga dostavimo. \n\nEvo nekih pogodnosti:\nZapočni odmah\nIsplata na svake 2 nedelje\nFleksibilan raspored: ti biraš koliko sati želiš da sarađuješ. Tvoj raspored, tvoja pravila!\nZarada po narudžbini: fiksni + promenljivi iznos na osnovu razdaljine i vremena + nedeljni bonusi\n\nŠta ti treba:\n
+    Poznavanje grada\nPametni telefon\nSopstveno vozilo (bicikl, auto ili motocikl. Možeš da izabereš i da dostavljaš peške)\nŽelja za saradnjom!\n\nKako da se registruješ:\nKlikni na dugme iznad, popuni obrazac i mi ćemo ti poslati sledeće korake imejlom.\nHvala,\nGlovo tim\n",
+    "employmentType":"PART-TIME",
+    "industry":"Dostavljač",
+    "jobBenefits": null,
+    "qualifications":"",
+    "workHours":"Fleksibilan Raspored",
+    "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Glovo",
+        "logo": "https://res.cloudinary.com/dl4i4vlgg/image/upload/c_thumb,w_200,g_face/v1592386234/Glovo-logo-yellow-bg.jpg"
+    },
+    "title": "Dostavljač (Zvanična Ponuda)",
+    "jobLocation": [
+      {
+    "@type":"Place",
+    "address":
+    {
+      "@type":"PostalAddress",
+      "addressCountry":"RS",
+      "addressLocality":"Belgrade",
+      "addressRegion":"Belgrade",
+      "streetAddress":"",
+      "postalCode":""
+      },
+
+      "geo":
+      {
+        "@type":"GeoCoordinates",
+        "latitude":44.786568,
+        "longitude":20.4489215999999
+        }
+        },    {
+    "@type":"Place",
+    "address":
+    {
+      "@type":"PostalAddress",
+      "addressCountry":"RS",
+      "addressLocality":"Borca",
+      "addressRegion":"Borca",
+      "streetAddress":"",
+      "postalCode":""
+      },
+
+      "geo":
+      {
+        "@type":"GeoCoordinates",
+        "latitude":44.8779781,
+        "longitude":20.4306978
+        }
+        },    {
+    "@type":"Place",
+    "address":
+    {
+      "@type":"PostalAddress",
+      "addressCountry":"RS",
+      "addressLocality":"Kragujevac",
+      "addressRegion":"Kragujevac",
+      "streetAddress":"",
+      "postalCode":""
+      },
+
+      "geo":
+      {
+        "@type":"GeoCoordinates",
+        "latitude":44.0127932,
+        "longitude":20.9114225
+        }
+        },    {
+    "@type":"Place",
+    "address":
+    {
+      "@type":"PostalAddress",
+      "addressCountry":"RS",
+      "addressLocality":"Niš",
+      "addressRegion":"Niš",
+      "streetAddress":"",
+      "postalCode":""
+      },
+
+      "geo":
+      {
+        "@type":"GeoCoordinates",
+        "latitude":43.3209022,
+        "longitude":21.8957589
+        }
+        },    {
+    "@type":"Place",
+    "address":
+    {
+      "@type":"PostalAddress",
+      "addressCountry":"RS",
+      "addressLocality":"Pancevo",
+      "addressRegion":"Pancevo",
+      "streetAddress":"",
+      "postalCode":""
+      },
+
+      "geo":
+      {
+        "@type":"GeoCoordinates",
+        "latitude":44.8712489,
+        "longitude":20.6402313999999
+        }
+        },    {
+    "@type":"Place",
+    "address":
+    {
+      "@type":"PostalAddress",
+      "addressCountry":"RS",
+      "addressLocality":"Novi Sad",
+      "addressRegion":"Novi Sad",
+      "streetAddress":"",
+      "postalCode":""
+      },
+
+      "geo":
+      {
+        "@type":"GeoCoordinates",
+        "latitude":45.2671352,
+        "longitude":19.8335495999999
+        }
+        },    {
+    "@type":"Place",
+    "address":
+    {
+      "@type":"PostalAddress",
+      "addressCountry":"RS",
+      "addressLocality":"Subotica",
+      "addressRegion":"Subotica",
+      "streetAddress":"",
+      "postalCode":""
+      },
+
+      "geo":
+      {
+        "@type":"GeoCoordinates",
+        "latitude":46.1005467,
+        "longitude":19.6650593
+        }
+        }              ],
+    "baseSalary": {
+        "@type": "MonetaryAmount",
+        "currency": "RSD",
+        "value": {
+            "@type": "QuantitativeValue",
+            "value": 420,
+            "unitText": "HOUR"
+        }
+    }
+}
+</script>

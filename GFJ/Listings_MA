@@ -1,0 +1,410 @@
+<script type="application/ld+json">
+{
+    "@context":"http://schema.org/",
+    "@type":"JobPosting",
+    "datePosted":"2021-03-12T01:00:00+00:00",
+    "validThrough":"2021-12-31T01:00:00+00:00",
+    "description":"Glovo cherche des gens comme vous pour devenir coursier dans votre ville !\n\nCe que vous ferez :\nEn tant que coursier, vous recevrez des commandes dans notre application et vous les livrerez dans votre ville. Repas, courses, cadeaux ou même chargeur de téléphone oublié, les livraisons ne se ressemblent pas !\n\nVous ne livrerez que des petits colis avec un poids maximum de 8 kg. Si ça rentre dans le sac à dos, Glovo peut le livrer. Petit aperçu des avantages :\n
+Commencez tout de suite\nUne facture toutes les deux semaines\nUn planning flexible : vous choisissez combien d’heures vous collaborez. Vos horaires, vos propres règles !\nDes revenus à la commande : coût fixe + part variable en fonction de la distance et du temps\n\nCe qu’il vous faut :\nParler français couramment\nUn smartphone\nVotre propre véhicule (vélo, voiture ou moto. Vous pouvez aussi choisir de livrer à pied.)\nUne grande motivation\n\nComment s’inscrire :\nCliquez sur le bouton ci-dessus, utilisez le formulaire pour vous inscrire et nous vous enverrons la marche à suivre par e-mail.\n\nMerci,\nL’équipe Glovo\n",
+    "employmentType":"PART-TIME",
+    "industry":"Agent de livraison (Coursier)",
+    "jobBenefits": null,
+    "qualifications":"",
+    "workHours":"Horaires Flexibles",
+    "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Glovo",
+        "logo": "https://res.cloudinary.com/dl4i4vlgg/image/upload/c_thumb,w_200,g_face/v1592386234/Glovo-logo-yellow-bg.jpg"
+    },
+    "title": "Agent de livraison (Coursier)",
+    "jobLocation": [    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"MA",
+        "addressLocality":"Agadir",
+        "addressRegion":"Agadir",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":30.4277547,
+          "longitude":-9.59810719999995
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"MA",
+        "addressLocality":"Aïn Harrouda",
+        "addressRegion":"Aïn Harrouda",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":33.6353103,
+          "longitude":-7.45038289999999
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"MA",
+        "addressLocality":"Safi",
+        "addressRegion":"Safi",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":32.3008151,
+          "longitude":-9.2272033
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"MA",
+        "addressLocality":"BENI MELLAL",
+        "addressRegion":"BENI MELLAL",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":32.342443,
+          "longitude":-6.375799
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"MA",
+        "addressLocality":"Berkane",
+        "addressRegion":"Berkane",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":34.9177281,
+          "longitude":-2.3123031
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"MA",
+        "addressLocality":"Casablanca",
+        "addressRegion":"Casablanca",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":33.5827952999999,
+          "longitude":-7.64672280000002
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"MA",
+        "addressLocality":"Dar Bouazza",
+        "addressRegion":"Dar Bouazza",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":33.524034,
+          "longitude":-7.82591739999998
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"MA",
+        "addressLocality":"El Jadida",
+        "addressRegion":"El Jadida",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":33.2316326,
+          "longitude":-8.5007116
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"MA",
+        "addressLocality":"Fes",
+        "addressRegion":"Fes",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":34.0181246,
+          "longitude":-5.00784509999994
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"MA",
+        "addressLocality":"khouribga",
+        "addressRegion":"khouribga",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":32.886023,
+          "longitude":-6.9208655
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"MA",
+        "addressLocality":"Kenitra",
+        "addressRegion":"Kenitra",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":34.2540503,
+          "longitude":-6.58901660000003
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"MA",
+        "addressLocality":"Laayoune",
+        "addressRegion":"Laayoune",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":27.1500384,
+          "longitude":-13.1990758
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"MA",
+        "addressLocality":"Marrakech",
+        "addressRegion":"Marrakech",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":31.6336545,
+          "longitude":-8.00889899999992
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"MA",
+        "addressLocality":"Mohammedia",
+        "addressRegion":"Mohammedia",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":33.6835086,
+          "longitude":-7.3848547
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"MA",
+        "addressLocality":"Meknes",
+        "addressRegion":"Meknes",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":33.8730164,
+          "longitude":-5.54072989999997
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"MA",
+        "addressLocality":"Nador",
+        "addressRegion":"Nador",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":35.1686165,
+          "longitude":-2.9275836
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"MA",
+        "addressLocality":"Oujda",
+        "addressRegion":"Oujda",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":34.681962,
+          "longitude":-1.900155
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"MA",
+        "addressLocality":"Rabat",
+        "addressRegion":"Rabat",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":33.9715904,
+          "longitude":-6.84981289999996
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"MA",
+        "addressLocality":"Settat",
+        "addressRegion":"Settat",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":32.9924241999999,
+          "longitude":-7.6222665
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"MA",
+        "addressLocality":"Tetouan",
+        "addressRegion":"Tetouan",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":35.5888995,
+          "longitude":-5.3625516
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"MA",
+        "addressLocality":"Tanger",
+        "addressRegion":"Tanger",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":35.7594651,
+          "longitude":-5.83395429999995
+          }
+          }
+            ],
+    "baseSalary": {
+        "@type": "MonetaryAmount",
+        "currency": "MAD",
+        "value": {
+            "@type": "QuantitativeValue",
+            "value": 25,
+            "unitText": "HOUR"
+        }
+    }
+}
+</script>

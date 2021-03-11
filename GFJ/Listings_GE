@@ -1,0 +1,122 @@
+<script type="application/ld+json">
+{
+    "@context":"http://schema.org/",
+    "@type":"JobPosting",
+    "datePosted":"2021-03-12T01:00:00+00:00",
+    "validThrough":"2021-12-31T01:00:00+00:00",
+    "description":"Glovo ზუსტად შენნაირ ადამიანებს ეძებს, რომ შენს ქალაქში გახდეს გლოვერი!\n\nრას გააკეთებ:\nროგორც გლოვერი,აპლიკაციის მეშვეობით მიიღებ შეკვეთებს და მათი მიტანა ქალაქის მასშტაბით მოგიწევს. საკვებიდან სურსათამდე ან საჩუქრებიდან დავიწყებული ტელეფონის დამტენებამდე — ყოველი დღე მოულოდნელობებითაა აღსავსე, როდესაც ყველაფრის მიტანა შეგიძლია!\nმხოლოდ პატარა ამანათების მიტანა მოგიწევს, მაქსიმალური წონა 8 კგ. თუ ზურგჩანთაში ეტევა, მისი მიტანა შეგვიძლია. \n\nწარმოდგიდენთ ზოგიერთ უპირატესობას:\nდაუყოვნებლივ დაწყება\nგადახდა ყოველ 2 კვირაში ერთხელ\nმოქნილი გრაფიკი: შენ თავად ირჩევ რამდენ საათს გსურს აპლიკაციასთან დაკავშირება და შეკვეთების მიტანა. შენი გრაფიკი, შენი წესები!\nშემოსავალი თითოეულ შეკვეთაზე: ფიქსირებული თანხა + დანამატები დისტანციისა და დროის მიხედვით\n\nრა დაგჭირდება:\nგამართული ქართული\nსმარტფონი\nსაკუთარი სატრანსპორტო საშუალება (ველოსიპედი, მანქანა ან მოტოციკლი)\nკოლაბორაციის სურვილი!\n\nროგორ დარეგისტრირდე:\nდააჭირე ზედა ღილაკს, დარეგისტრირდი ფორმის შევსებით და შემდეგ ნაბიჯებს გამოგიგზავნით ელფოსტის მეშვეობით.\n\nგმადლობთ,\nGlovo-ს გუნდი\n",
+    "employmentType":"PART-TIME",
+    "industry":"მიწოდების კაცი",
+    "jobBenefits": null,
+    "qualifications":"",
+    "workHours":"მოქნილი გრაფიკი",
+    "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Glovo",
+        "logo": "https://res.cloudinary.com/dl4i4vlgg/image/upload/c_thumb,w_200,g_face/v1592386234/Glovo-logo-yellow-bg.jpg"
+    },
+    "title": "ადგილზე მიტანის კაცი (ოფიციალური შეთავაზება)",
+    "jobLocation": [
+    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"GE",
+        "addressLocality":"Batumi",
+        "addressRegion":"Batumi",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":41.6167547,
+          "longitude":41.6367454999999
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"GE",
+        "addressLocality":"Kutaisi",
+        "addressRegion":"Kutaisi",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":42.2662428,
+          "longitude":42.7180018999999
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"GE",
+        "addressLocality":"Rustavi",
+        "addressRegion":"Rustavi",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":41.5225612,
+          "longitude":45.0430369
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"GE",
+        "addressLocality":"Tbilisi",
+        "addressRegion":"Tbilisi",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":41.7288018,
+          "longitude":44.7352385
+          }
+          },    {
+      "@type":"Place",
+      "address":
+      {
+        "@type":"PostalAddress",
+        "addressCountry":"GE",
+        "addressLocality":"Zugdidi",
+        "addressRegion":"Zugdidi",
+        "streetAddress":"",
+        "postalCode":""
+        },
+
+        "geo":
+        {
+          "@type":"GeoCoordinates",
+          "latitude":42.5091391,
+          "longitude":41.8669919999999
+          }
+          }
+      ],
+    "baseSalary": {
+        "@type": "MonetaryAmount",
+        "currency": "GEL",
+        "value": {
+            "@type": "QuantitativeValue",
+            "value": 12,
+            "unitText": "HOUR"
+        }
+    }
+}
+</script>

@@ -1,0 +1,50 @@
+<script type="application/ld+json">
+{
+    "@context":"http://schema.org/",
+    "@type":"JobPosting",
+    "datePosted":"2021-03-12T01:00:00+00:00",
+    "validThrough":"2021-12-31T01:00:00+00:00",
+    "description":"Glovo is looking for people just like you to be a courier in your city!\n\nWhat you'll do:\nAs a courier, you'll receive orders through our app and deliver them throughout your city. From food to groceries, or presents to forgotten phone chargers – everyday is a surprise when you can deliver anything!\nYou will only deliver small packages, with a maximum weight of 8 kg. If it fits in the backpack, we can deliver it. \n\nHere are some of the perks:
+Start right away\nInvoice every 2 weeks\nFlexible schedule: you choose how many hours you collaborate. Your schedule, your rules!\nEarnings per order: fixed fee + variables based on distance and time\n\nWhat you'll need:\nFluent English\nA smartphone\nYour own vehicle (bike, car or motorbike. You can also choose to deliver on foot)\nEagerness to collaborate!\n\nHow to sign up:\nClick the button above, register in the form, and we'll send you the next steps via email.\n\nThank you,\nGlovo team\n",
+    "employmentType":"PART-TIME",
+    "industry":"Courier",
+    "jobBenefits": null,
+    "qualifications":"",
+    "workHours":"Flexible Schedule",
+    "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Glovo",
+        "logo": "https://res.cloudinary.com/dl4i4vlgg/image/upload/c_thumb,w_200,g_face/v1592386234/Glovo-logo-yellow-bg.jpg"
+    },
+    "title": "Courier (Official Listing)",
+    "jobLocation": [
+      {
+  "@type":"Place",
+  "address":
+  {
+    "@type":"PostalAddress",
+    "addressCountry":"GH",
+    "addressLocality":"Accra",
+    "addressRegion":"Accra",
+    "streetAddress":"",
+    "postalCode":""
+    },
+
+    "geo":
+    {
+      "@type":"GeoCoordinates",
+      "latitude":5.6037168,
+      "longitude":-0.186964399999965
+      }
+      }      ],
+    "baseSalary": {
+        "@type": "MonetaryAmount",
+        "currency": "",
+        "value": {
+            "@type": "QuantitativeValue",
+            "value": ,
+            "unitText": "HOUR"
+        }
+    }
+}
+</script>

@@ -1,0 +1,231 @@
+<script type="application/ld+json">
+{
+    "@context":"http://schema.org/",
+    "@type":"JobPosting",
+    "datePosted":"2021-03-12T01:00:00+00:00",
+    "validThrough":"2021-12-31T01:00:00+00:00",
+    "description":"Glovo traži ljude poput tebe za obavljanje dostave u tvom gradu!\n\nKoje će biti tvoje dužnosti:\nKao dostavljač, primat ćeš narudžbe putem naše aplikacije i dostavljati ih širom grada. Od hrane, namirnica ili poklona, do zaboravljenih punjača telefona - svaki je dan iznenađenje jer možeš dostavljati bilo što!\nDostavljat ćeš samo male pakete maksimalne težine do 9 kg. Ako stane u ruksak, onda to možemo i dostaviti. \n\nEvo nekih pogodnosti:\n
+Možeš početi odmah \nIsplate ispostavljamo svaka dva tjedna\nFleksibilan raspored: sam(a) odabireš koje ćeš sati surađivati. Tvoj raspored, tvoja pravila!\nZarada po narudžbi: iznos po kilometru + bonusi u satu ili za lose vrijeme + tjedni bonusi za vozila\n\nŠto je potrebno:\nTečno govoriti hrvatski jezik \nPametni telefon\nSvoje vlastito vozilo (bicikl, automobil ili motor. Dostavljati možeš i pješice)\nVolja za suradnjom! \n\nKako se prijaviti:\nKlikni gornji gumb, registriraj se putem obrasca i prati korake. \n\nZahvaljujemo, \nTim Glovo\n",
+    "employmentType":"PART-TIME",
+    "industry":"Dostavljač",
+    "jobBenefits": null,
+    "qualifications":"",
+    "workHours":"fleksibilan raspored",
+    "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Glovo",
+        "logo": "https://res.cloudinary.com/dl4i4vlgg/image/upload/c_thumb,w_200,g_face/v1592386234/Glovo-logo-yellow-bg.jpg"
+    },
+    "title": "Dostavljač (službena ponuda)",
+    "jobLocation": [
+      {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"HR",
+          "addressLocality":"Karlovac",
+          "addressRegion":"Karlovac",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":45.4928973,
+            "longitude":15.5552682999999
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"HR",
+          "addressLocality":"Osijek",
+          "addressRegion":"Osijek",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":45.5549624,
+            "longitude":18.6955143999999
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"HR",
+          "addressLocality":"Pula",
+          "addressRegion":"Pula",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":44.8666232,
+            "longitude":13.8495788
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"HR",
+          "addressLocality":"Rijeka",
+          "addressRegion":"Rijeka",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":45.3270631,
+            "longitude":14.442176
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"HR",
+          "addressLocality":"Sisak",
+          "addressRegion":"Sisak",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":45.4850767,
+            "longitude":16.3731156
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"HR",
+          "addressLocality":"Slavonski Brod",
+          "addressRegion":"Slavonski Brod",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":45.1631431,
+            "longitude":18.0116080999999
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"HR",
+          "addressLocality":"Split",
+          "addressRegion":"Split",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":43.5081323,
+            "longitude":16.4401934999999
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"HR",
+          "addressLocality":"Velika Gorica",
+          "addressRegion":"Velika Gorica",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":45.7142122,
+            "longitude":16.0752430999999
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"HR",
+          "addressLocality":"Varaždin",
+          "addressRegion":"Varaždin",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":46.305746,
+            "longitude":16.3366065999999
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"HR",
+          "addressLocality":"Zadar",
+          "addressRegion":"Zadar",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":44.119371,
+            "longitude":15.2313647999999
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"HR",
+          "addressLocality":"Zagreb",
+          "addressRegion":"Zagreb",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":45.8092234,
+            "longitude":15.9774872
+            }
+            }
+            ],
+    "baseSalary": {
+        "@type": "MonetaryAmount",
+        "currency": "HRK",
+        "value": {
+            "@type": "QuantitativeValue",
+            "value": 40,
+            "unitText": "HOUR"
+        }
+    }
+}
+</script>

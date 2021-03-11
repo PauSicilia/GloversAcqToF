@@ -1,0 +1,68 @@
+<script type="application/ld+json">
+{
+    "@context":"http://schema.org/",
+    "@type":"JobPosting",
+    "datePosted":"2021-03-12T01:00:00+00:00",
+    "validThrough":"2021-12-31T01:00:00+00:00",
+    "description":"Glovo caută persoane ca tine pentru a fi curier în orașul tău!\n\nCe vei face:\nÎn calitate de curier vei primi comenzi prin intermediul aplicației noastre și le vei livra în orașul tău. De la mâncare, la cumpărături, de la cadouri până la încărcătorul de telefon uitat, fiecare zi este o surpriză când poți livra orice!\nÎncepi imediat\nPlata săptămânală\nProgram flexibil: tu alegi câte ore vrei să colaborezi. Programul tău, regulile tale!\nCâștiguri per comandă: taxă fixă + bonusuri în funcție de distanță și timp de așteptare\n\nCe ai nevoie:\nUn telefon inteligent\nPropriul tău vehicul (bicicletă, mașină sau motocicletă). Poți să alegi să livrezi și pe jos.\nDorință de colaborare!\n\nCum să te înscrii:\nApasă butonul de mai jos, înregistrează-te în formular și noi îți trimitem etapele următoare prin email.\n\nMulțumim,\nEchipa Glovo\n",
+    "employmentType":"PART-TIME",
+    "industry":"Curieri",
+    "jobBenefits": null,
+    "qualifications":"",
+    "workHours":"Program Flexibil",
+    "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Glovo",
+        "logo": "https://res.cloudinary.com/dl4i4vlgg/image/upload/c_thumb,w_200,g_face/v1592386234/Glovo-logo-yellow-bg.jpg"
+    },
+    "title": "Curieri (Oferta Oficiala)",
+    "jobLocation": [
+      {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"MD",
+          "addressLocality":"Balti",
+          "addressRegion":"Balti",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":47.7539947,
+            "longitude":27.9184148
+            }
+            },    {
+        "@type":"Place",
+        "address":
+        {
+          "@type":"PostalAddress",
+          "addressCountry":"MD",
+          "addressLocality":"Chisinau",
+          "addressRegion":"Chisinau",
+          "streetAddress":"",
+          "postalCode":""
+          },
+
+          "geo":
+          {
+            "@type":"GeoCoordinates",
+            "latitude":47.0104529,
+            "longitude":28.8638102
+            }
+            }
+                ],
+    "baseSalary": {
+        "@type": "MonetaryAmount",
+        "currency": "",
+        "value": {
+            "@type": "QuantitativeValue",
+            "value": ,
+            "unitText": "HOUR"
+        }
+    }
+}
+</script>
