@@ -39,10 +39,10 @@ Start right away\nInvoice every 2 weeks\nFlexible schedule: you choose how many 
       }      ],
     "baseSalary": {
         "@type": "MonetaryAmount",
-        "currency": "",
+        "currency": "GHS",
         "value": {
             "@type": "QuantitativeValue",
-            "value": ,
+            "value": 20,
             "unitText": "HOUR"
         }
     }
