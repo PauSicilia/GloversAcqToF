@@ -57,10 +57,10 @@
                 ],
     "baseSalary": {
         "@type": "MonetaryAmount",
-        "currency": "",
+        "currency": "MDL",
         "value": {
             "@type": "QuantitativeValue",
-            "value": ,
+            "value": 75,
             "unitText": "HOUR"
         }
     }
