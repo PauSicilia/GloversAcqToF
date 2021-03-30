@@ -97,7 +97,7 @@ Commencez tout de suite\nUne facture toutes les deux semaines\nUn planning flexi
         "currency": "XOF",
         "value": {
             "@type": "QuantitativeValue",
-            "value": 1200,
+            "value": 1500,
             "unitText": "HOUR"
         }
     }
