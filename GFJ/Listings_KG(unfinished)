@@ -39,10 +39,10 @@
         ],
     "baseSalary": {
         "@type": "MonetaryAmount",
-        "currency": "",
+        "currency": "KGS",
         "value": {
             "@type": "QuantitativeValue",
-            "value": ,
+            "value": 220,
             "unitText": "HOUR"
         }
     }
