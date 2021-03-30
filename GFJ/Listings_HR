@@ -223,7 +223,7 @@ Možeš početi odmah \nIsplate ispostavljamo svaka dva tjedna\nFleksibilan rasp
         "currency": "HRK",
         "value": {
             "@type": "QuantitativeValue",
-            "value": 40,
+            "value": 45,
             "unitText": "HOUR"
         }
     }
