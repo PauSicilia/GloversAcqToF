@@ -30245,6 +30245,170 @@ A equipa Glovo]]></description>
 <!-- basic info -->
 <title><![CDATA[Estafeta]]></title>
 <date><![CDATA[4/9/2021 0:00:00]]></date>
+<id><![CDATA[PNF005]]></id>
+<photo-url><![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/Glovers_LandingPageBG_FullBG_FBJobs.jpg]]></photo-url>
+<description><![CDATA[A Glovo está à procura de candidatos como tu para fazer entregas na tua cidade!
+
+Vão ser estas as tuas funções:
+Enquanto estafeta, recebes pedidos através da nossa app e tratas de os entregar na tua cidade. De refeições, compras de supermercado ou prendas a carregadores de telemóvel esquecidos – há surpresas todos os dias quando se pode entregar qualquer coisa!
+Só farás entregas de volumes pequenos, com um peso máximo de 8 kg. Se cabe na mochila, podemos entregá-lo. São estes alguns dos benefícios:
+
+Início Imediato
+
+Pagamento quinzenal
+
+Horários flexíveis: escolhes quantas horas queres colaborar. O teu horário, as tuas regras!
+
+Ganhos por pedido: taxa base + variáveis com base na distância e tempo
+
+Do que vais precisar:
+Fluência em português
+Um smartphone
+Veículo próprio (bicicleta, carro ou mota.)
+Vontade de colaborar!
+
+Como começar a colaborar:
+Basta clicares no botão em baixo, inscreveres-te através do formulário e receberás os próximos passos por e-mail.
+
+
+Obrigado,
+A equipa Glovo]]></description>
+
+<!-- company info -->
+<company-name><![CDATA[Glovo (Default)]]></company-name>
+<company-id><![CDATA[754054234653394]]></company-id>
+<company-full-address><![CDATA[Barcelona, Spain 08005]]></company-full-address>
+<company-facebook-url>
+    <![CDATA[https://www.facebook.com/glovoappPT/]]>
+</company-facebook-url>
+<company-data-policy-url>
+    <![CDATA[https://glovoapp.com/pt/legal/terms]]>
+</company-data-policy-url>
+<company-url><![CDATA[https://couriers.glovoapp.com/pt/?utm_source=fb_jobs&utm_campaign=fbjobs]]></company-url>
+<company-page-matching-approach><![CDATA[standard]]></company-page-matching-approach>
+
+<!-- location -->
+<city><![CDATA[Penafiel]]></city>
+<country><![CDATA[PT]]></country>
+<postal-code><![CDATA[4560-480]]></postal-code>
+
+<!-- salary -->
+
+<salary><![CDATA[10]]></salary>
+<salary-currency><![CDATA[EUR]]></salary-currency>
+<salary-type><![CDATA[hourly]]></salary-type>
+
+<!-- integration configuration -->
+
+<facebook-apply-data>
+    <application-callback-url>
+    <![CDATA[https://hooks.zapier.com/hooks/catch/6544537/ogdn5q6/]]>
+    </application-callback-url>
+    <custom-questions-url>
+    <![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/FBjobs_JSON_CustomQuestion_PT.xml]]>
+    </custom-questions-url>
+    <form-config>
+        <email-field>
+            <optional><![CDATA[false]]></optional>
+        </email-field>
+        <phone-number-field>
+            <optional><![CDATA[false]]></optional>
+        </phone-number-field>
+        <work-experience-field>
+            <optional><![CDATA[true]]></optional>
+        </work-experience-field>
+    </form-config>
+</facebook-apply-data>
+
+</job>
+
+<job>
+
+<!-- basic info -->
+<title><![CDATA[Estafeta]]></title>
+<date><![CDATA[4/9/2021 0:00:00]]></date>
+<id><![CDATA[VRA005]]></id>
+<photo-url><![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/Glovers_LandingPageBG_FullBG_FBJobs.jpg]]></photo-url>
+<description><![CDATA[A Glovo está à procura de candidatos como tu para fazer entregas na tua cidade!
+
+Vão ser estas as tuas funções:
+Enquanto estafeta, recebes pedidos através da nossa app e tratas de os entregar na tua cidade. De refeições, compras de supermercado ou prendas a carregadores de telemóvel esquecidos – há surpresas todos os dias quando se pode entregar qualquer coisa!
+Só farás entregas de volumes pequenos, com um peso máximo de 8 kg. Se cabe na mochila, podemos entregá-lo. São estes alguns dos benefícios:
+
+Início Imediato
+
+Pagamento quinzenal
+
+Horários flexíveis: escolhes quantas horas queres colaborar. O teu horário, as tuas regras!
+
+Ganhos por pedido: taxa base + variáveis com base na distância e tempo
+
+Do que vais precisar:
+Fluência em português
+Um smartphone
+Veículo próprio (bicicleta, carro ou mota.)
+Vontade de colaborar!
+
+Como começar a colaborar:
+Basta clicares no botão em baixo, inscreveres-te através do formulário e receberás os próximos passos por e-mail.
+
+
+Obrigado,
+A equipa Glovo]]></description>
+
+<!-- company info -->
+<company-name><![CDATA[Glovo (Default)]]></company-name>
+<company-id><![CDATA[754054234653394]]></company-id>
+<company-full-address><![CDATA[Barcelona, Spain 08005]]></company-full-address>
+<company-facebook-url>
+    <![CDATA[https://www.facebook.com/glovoappPT/]]>
+</company-facebook-url>
+<company-data-policy-url>
+    <![CDATA[https://glovoapp.com/pt/legal/terms]]>
+</company-data-policy-url>
+<company-url><![CDATA[https://couriers.glovoapp.com/pt/?utm_source=fb_jobs&utm_campaign=fbjobs]]></company-url>
+<company-page-matching-approach><![CDATA[standard]]></company-page-matching-approach>
+
+<!-- location -->
+<city><![CDATA[Vila Real de Santo António]]></city>
+<country><![CDATA[PT]]></country>
+<postal-code><![CDATA[8900-311]]></postal-code>
+
+<!-- salary -->
+
+<salary><![CDATA[10]]></salary>
+<salary-currency><![CDATA[EUR]]></salary-currency>
+<salary-type><![CDATA[hourly]]></salary-type>
+
+<!-- integration configuration -->
+
+<facebook-apply-data>
+    <application-callback-url>
+    <![CDATA[https://hooks.zapier.com/hooks/catch/6544537/ogdn5q6/]]>
+    </application-callback-url>
+    <custom-questions-url>
+    <![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/FBjobs_JSON_CustomQuestion_PT.xml]]>
+    </custom-questions-url>
+    <form-config>
+        <email-field>
+            <optional><![CDATA[false]]></optional>
+        </email-field>
+        <phone-number-field>
+            <optional><![CDATA[false]]></optional>
+        </phone-number-field>
+        <work-experience-field>
+            <optional><![CDATA[true]]></optional>
+        </work-experience-field>
+    </form-config>
+</facebook-apply-data>
+
+</job>
+
+<job>
+
+<!-- basic info -->
+<title><![CDATA[Estafeta]]></title>
+<date><![CDATA[4/9/2021 0:00:00]]></date>
 <id><![CDATA[LIS005]]></id>
 <photo-url><![CDATA[https://raw.githubusercontent.com/PauSicilia/GloversAcqToF/main/Glovers_LandingPageBG_FullBG_FBJobs.jpg]]></photo-url>
 <description><![CDATA[A Glovo está à procura de candidatos como tu para fazer entregas na tua cidade!
