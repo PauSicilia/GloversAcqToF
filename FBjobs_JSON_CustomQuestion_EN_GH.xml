@@ -1,0 +1,31 @@
+[
+{
+    "is_required": true,
+    "question_type": "MULTIPLE_CHOICE",
+    "label": "City / delivery area",
+    "multiple_choice_options": [
+"Accra"
+]
+  } ,
+{
+    "is_required": true,
+    "question_type": "MULTIPLE_CHOICE",
+    "label": "How will you deliver?",
+    "multiple_choice_options": [
+      "Motorbike",
+      "Car",
+      "Bicycle"
+    ]
+  } ,
+    {
+    "is_required": true,
+    "question_type": "MULTIPLE_CHOICE",
+    "label": "Select preferred collaboration hours",
+    "multiple_choice_options": [
+      "Weekends: Lunch / Dinner (Very high demand)",
+      "Weekends: Morning / Afternoon / Night (Lower demand)",
+      "Weekdays: Lunch / Dinner (High demand)",
+      "Weekdays: Morning / Afternoon / Night (Lower demand)"
+    ]
+  }
+]
